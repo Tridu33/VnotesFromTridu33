@@ -1,0 +1,58 @@
+{
+    "created_time": "2021-01-28T06:11:18Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2021-01-28T06:11:18Z",
+            "modified_time": "2021-01-28T06:11:18Z",
+            "name": "SVD奇异值分解.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2021-01-28T06:11:18Z",
+            "modified_time": "2021-01-28T06:11:18Z",
+            "name": "可视化线性代数.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2021-01-28T06:11:18Z",
+            "modified_time": "2021-01-28T06:11:18Z",
+            "name": "现代笔记和latex.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2021-01-28T06:11:18Z",
+            "modified_time": "2021-01-28T06:11:18Z",
+            "name": "矩阵论矩阵分析.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2021-01-28T06:11:18Z",
+            "modified_time": "2021-01-28T06:11:18Z",
+            "name": "线性算术的C++模板库 Eigen.md",
+            "tags": [
+            ]
+        }
+    ],
+    "sub_directories": [
+    ],
+    "version": "1"
+}

@@ -1,0 +1,126 @@
+{
+    "created_time": "2021-01-28T06:11:18Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2021-01-28T06:11:18Z",
+            "modified_time": "2021-01-28T06:11:18Z",
+            "name": "同调论同伦论.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2021-01-28T06:11:18Z",
+            "modified_time": "2021-01-28T06:11:18Z",
+            "name": "欧拉公式和群论.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2021-01-28T06:11:18Z",
+            "modified_time": "2021-01-28T06:11:18Z",
+            "name": "洛伦兹群.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2021-01-28T06:11:18Z",
+            "modified_time": "2021-01-28T06:11:18Z",
+            "name": "特征值和特征根.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2021-01-28T06:11:18Z",
+            "modified_time": "2021-01-28T06:11:18Z",
+            "name": "现代代数.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2021-01-28T06:11:18Z",
+            "modified_time": "2021-01-28T06:11:18Z",
+            "name": "直和.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2021-01-28T06:11:18Z",
+            "modified_time": "2021-01-28T06:11:18Z",
+            "name": "线性微分方程.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2021-01-28T06:11:18Z",
+            "modified_time": "2021-01-28T06:11:18Z",
+            "name": "近世代数.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2021-01-28T06:11:18Z",
+            "modified_time": "2021-01-28T06:11:18Z",
+            "name": "高速乘法.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2021-01-28T06:11:18Z",
+            "modified_time": "2021-01-28T06:11:18Z",
+            "name": "魔方群论代数矩阵魔方取模甜甜圈拓扑有限域耦合旋转矩阵.md",
+            "tags": [
+            ]
+        }
+    ],
+    "sub_directories": [
+        {
+            "name": "傅里叶复数"
+        },
+        {
+            "name": "几何Clifford代数"
+        },
+        {
+            "name": "极大代数法"
+        },
+        {
+            "name": "符号代数"
+        },
+        {
+            "name": "线性代数linearAlgebra"
+        },
+        {
+            "name": "群论"
+        }
+    ],
+    "version": "1"
+}

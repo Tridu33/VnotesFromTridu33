@@ -1,0 +1,46 @@
+{
+    "attachment_folder": "_v_attachments",
+    "created_time": "2021-01-28T06:11:17Z",
+    "files": [
+    ],
+    "image_folder": "",
+    "recycle_bin_folder": "_v_recycle_bin",
+    "sub_directories": [
+        {
+            "name": "紧急"
+        },
+        {
+            "name": "OJ刷题录"
+        },
+        {
+            "name": "科研计算机公式推导符号演算"
+        },
+        {
+            "name": "CodePLT"
+        },
+        {
+            "name": "数学之路"
+        },
+        {
+            "name": "Latex-Markdown-etc-PanDoc"
+        },
+        {
+            "name": "manim_可视化DS复分析运筹"
+        },
+        {
+            "name": "CS底层硬件等"
+        },
+        {
+            "name": "理论物理学家之路"
+        },
+        {
+            "name": "浮生梦呓"
+        },
+        {
+            "name": "Openproblems"
+        }
+    ],
+    "tags": [
+    ],
+    "version": "1"
+}

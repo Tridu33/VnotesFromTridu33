@@ -1,0 +1,128 @@
+{
+    "created_time": "2021-01-28T06:11:19Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2021-01-28T06:11:19Z",
+            "modified_time": "2021-01-28T06:11:19Z",
+            "name": "EM算法.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2021-01-28T06:11:19Z",
+            "modified_time": "2021-01-28T06:11:19Z",
+            "name": "GMM与EM算法的Python实现.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2021-01-28T06:11:19Z",
+            "modified_time": "2021-01-28T06:11:19Z",
+            "name": "LearningProbabilisticGraphicalModelsInR.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2021-01-28T06:11:19Z",
+            "modified_time": "2021-01-28T06:11:19Z",
+            "name": "RStan.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2021-01-28T06:11:19Z",
+            "modified_time": "2021-01-28T06:11:19Z",
+            "name": "《概率图模型原理与技术》中文PDF+英文PDF+《概率图模型基于R语言》中英文PDF+源代码+学习实践..md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2021-01-28T06:11:19Z",
+            "modified_time": "2021-01-28T06:11:19Z",
+            "name": "《模式识别和机器学习》.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2021-01-28T06:11:19Z",
+            "modified_time": "2021-01-28T06:11:19Z",
+            "name": "卡尔曼滤波.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2021-01-28T06:11:19Z",
+            "modified_time": "2021-01-28T06:11:19Z",
+            "name": "参考书籍.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2021-01-28T06:11:19Z",
+            "modified_time": "2021-01-28T06:11:19Z",
+            "name": "图模型.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2021-01-28T06:11:19Z",
+            "modified_time": "2021-01-28T06:11:19Z",
+            "name": "概率图模型总结.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2021-01-28T06:11:19Z",
+            "modified_time": "2021-01-28T06:11:19Z",
+            "name": "软件.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2021-01-29T08:28:23Z",
+            "modified_time": "2021-01-29T08:28:27Z",
+            "name": "贝叶斯综述.md",
+            "tags": [
+            ]
+        }
+    ],
+    "sub_directories": [
+    ],
+    "version": "1"
+}

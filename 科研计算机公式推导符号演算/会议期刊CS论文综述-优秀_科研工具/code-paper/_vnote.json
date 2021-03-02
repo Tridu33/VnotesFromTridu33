@@ -1,0 +1,38 @@
+{
+    "created_time": "2021-01-28T06:11:19Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2021-01-28T06:11:19Z",
+            "modified_time": "2021-01-28T06:11:19Z",
+            "name": "PapersWithCode论文代码实现网站.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2021-01-28T06:11:19Z",
+            "modified_time": "2021-01-28T06:11:19Z",
+            "name": "一个基于 arXiv 提供的 API 实现的更加易于阅读机器学习方面论文的网站.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2021-01-28T06:11:19Z",
+            "modified_time": "2021-01-28T06:11:19Z",
+            "name": "论文代码.md",
+            "tags": [
+            ]
+        }
+    ],
+    "sub_directories": [
+    ],
+    "version": "1"
+}

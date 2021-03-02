@@ -1,0 +1,291 @@
+{
+    "created_time": "2021-01-28T06:11:19Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2021-01-28T06:11:19Z",
+            "modified_time": "2021-02-27T14:23:34Z",
+            "name": "Haskell-Basic无敌.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2021-01-28T06:11:19Z",
+            "modified_time": "2021-01-28T06:11:19Z",
+            "name": "Haddock.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2021-01-28T06:11:19Z",
+            "modified_time": "2021-01-28T06:11:19Z",
+            "name": "haskell.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2021-01-28T06:11:19Z",
+            "modified_time": "2021-01-28T06:11:19Z",
+            "name": "Haskell中的范畴之积与和.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2021-01-28T06:11:19Z",
+            "modified_time": "2021-01-28T06:11:19Z",
+            "name": "haskell处理XML.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2021-01-28T06:11:19Z",
+            "modified_time": "2021-01-28T06:11:19Z",
+            "name": "Haskell数据分析.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2021-01-28T06:11:19Z",
+            "modified_time": "2021-01-28T06:11:19Z",
+            "name": "haskell文学编程.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2021-01-28T06:11:19Z",
+            "modified_time": "2021-01-28T06:11:19Z",
+            "name": "Haskell源头，库.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2021-01-28T06:11:19Z",
+            "modified_time": "2021-01-28T06:11:19Z",
+            "name": "haskell硬件.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2021-01-28T06:11:19Z",
+            "modified_time": "2021-01-28T06:11:19Z",
+            "name": "IPythonMagicHaskellGHCi.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2021-01-28T06:11:19Z",
+            "modified_time": "2021-01-28T06:11:19Z",
+            "name": "learnyouhaskell.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2021-01-28T06:11:19Z",
+            "modified_time": "2021-01-28T06:11:19Z",
+            "name": "maxima.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2021-01-28T06:11:19Z",
+            "modified_time": "2021-01-28T06:11:19Z",
+            "name": "monad maybe for.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2021-01-28T06:11:19Z",
+            "modified_time": "2021-01-28T06:11:19Z",
+            "name": "Monad 是一个自函子范畴上的幺半群.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2021-01-28T06:11:19Z",
+            "modified_time": "2021-01-28T06:11:19Z",
+            "name": "monad.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2021-01-28T06:11:19Z",
+            "modified_time": "2021-01-28T06:11:19Z",
+            "name": "Paser.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2021-01-28T06:11:19Z",
+            "modified_time": "2021-01-28T06:11:19Z",
+            "name": "函数式编程语言.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2021-01-28T06:11:19Z",
+            "modified_time": "2021-01-28T06:11:19Z",
+            "name": "状态monad栈.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2021-01-28T06:11:19Z",
+            "modified_time": "2021-01-28T06:11:19Z",
+            "name": "缩进.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2021-01-28T06:11:19Z",
+            "modified_time": "2021-01-28T06:11:19Z",
+            "name": "雾雨魔法店：代数haskell.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2021-01-28T06:11:19Z",
+            "modified_time": "2021-01-28T06:11:19Z",
+            "name": "黑Haskell.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2021-02-24T07:36:45Z",
+            "modified_time": "2021-02-24T07:36:53Z",
+            "name": "haskell-gitlab.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2021-02-25T09:51:19Z",
+            "modified_time": "2021-02-25T09:51:30Z",
+            "name": "类型类与对象接口.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2021-01-28T06:11:19Z",
+            "modified_time": "2021-01-28T06:11:19Z",
+            "name": "haskell2.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2021-01-28T06:11:19Z",
+            "modified_time": "2021-01-28T06:11:19Z",
+            "name": "无穷列表隔n个取出一个.md",
+            "tags": [
+            ]
+        }
+    ],
+    "sub_directories": [
+        {
+            "name": "projects"
+        },
+        {
+            "name": "books"
+        },
+        {
+            "name": "Happy编译原理"
+        },
+        {
+            "name": "module工程构建cabal文档等等"
+        },
+        {
+            "name": "haskell-logic"
+        },
+        {
+            "name": "haskell完全装逼手册"
+        },
+        {
+            "name": "LING"
+        },
+        {
+            "name": "music"
+        },
+        {
+            "name": "ScannerParser解析器"
+        },
+        {
+            "name": "数据分析haskell"
+        },
+        {
+            "name": "debug"
+        }
+    ],
+    "version": "1"
+}

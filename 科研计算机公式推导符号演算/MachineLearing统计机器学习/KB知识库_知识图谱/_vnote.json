@@ -1,0 +1,58 @@
+{
+    "created_time": "2021-01-28T06:11:19Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2021-01-28T06:11:19Z",
+            "modified_time": "2021-01-28T06:11:19Z",
+            "name": "中文开放知识图谱.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2021-01-28T06:11:19Z",
+            "modified_time": "2021-01-28T06:11:19Z",
+            "name": "知识图上的多跳推理任务.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2021-01-28T06:11:19Z",
+            "modified_time": "2021-01-28T06:11:19Z",
+            "name": "知识图谱.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2021-01-28T06:11:19Z",
+            "modified_time": "2021-01-28T06:11:19Z",
+            "name": "知识图谱嵌入(Knowledge Graph Embedding, KGE).md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2021-01-28T06:11:19Z",
+            "modified_time": "2021-01-28T06:11:19Z",
+            "name": "知识蒸馏（Knowledge Distillation）.md",
+            "tags": [
+            ]
+        }
+    ],
+    "sub_directories": [
+    ],
+    "version": "1"
+}

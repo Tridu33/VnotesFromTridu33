@@ -1,0 +1,89 @@
+vnote_backup_file_826537664 D:/tridu33/Nutstore/VnotesFromTridu33/科研计算机公式推导符号演算/计算机理论/AutoCodegenerator/code2code/transcompiler.md
+# transcompiler
+
+
+
+虽然它本身不是代码翻译，但语言工作台 https://www.martinfowler.com/articles/languageWorkbench.html#ElementsOfALanguageWorkbench 的概念显示了如何实现类似于所有语言之间100％正确的翻译器的功能。
+
+在我们当前的方法中，源代码以文本格式存储。在编译期间，这些人类可读的文本文件被解析为抽象语法树表示形式，该语法树表示形式又用于生成字节码或机器代码。但是，此抽象表示是临时的，对于编译器而言是内部的。
+
+在语言工作台方法中，类似的抽象语法树表示形式是永久性存储的工件。机器代码和文本“源”代码都是基于此抽象表示生成的。这种方法的后果之一是程序的抽象表示实际上与语言无关，并且可以用来生成任何已实现语言的文本代码。这意味着一个人可以使用他们认为最合适的任何一种语言自由地在系统的不同方面进行工作，或者团队的每个成员都可以使用他们最熟悉的语言来从事共享项目。
+
+据我所知，该技术仍无法在主流开发中使用，但是有数个小组在独立研究该技术。很难说他们中的任何一个是否能兑现诺言，但是看到这种情况会很有趣。
+
+
+
+
+
+- C++ to Java Converter : tangiblesoftwaresolutions.com/product_details/cplusplus_to_java_converter_details.html
+
+
+- FWIW，有一个从Java到D的翻译器。它称为TioPort，用于将SWT移植到D的相当认真的尝试。它遇到的主要问题是，有必要移植Java标准库的大部分内容。该TioPort http://www.dsource.org/projects/tioport 项目做Java来全库和应用程序的d转换。
+
+
+
+- C to Pascal and Pascal to C translators were quite common at one point.
+
+Translating one language to another is just a special case for the class of programs called compilers, interpreters and translators.
+
+This class of program will take a stream of input symbols ("source code") that can usually be described by a formal grammar and will output a stream of symbols.
+
+That output stream of symbols can be:
+
+Native assembly code, usually for the operating system and hardware the machine is running on. If so, the program is referred to as a compiler;
+Native assembly code for a different OS and/or hardware. This can be called a compiler too but is often referred to as a cross-compiler;
+To an intermediate form that can be executed by a virtual machine of some kind. This isn't a true compiler but is often called a compiler anyway. The Java, C#, F#, VB.NET, etc "compilers" all fall into this category;
+To another language entirely. This is called a translator and there are examples of, say, Java to C# translators. They typically have varying degrees of success because idioms often aren't readily translatable;
+Interpreters follow the same principle but typically execute the processed form in-place rather than saving it somewhere. Perl, PHP and shell scripts all fall into this category. PHP for example will store opcodes in an opcode cache as an intermediate form (if opcoding caching is enabled) but this intermediate form isn't stored so it's still safe to call PHP an interpreter.
+
+
+
+
+
+
+
+- quercus could translate php to java
+
+- IntelliJ可以将Java转换为Kotlin，并且做得很好。
+
+
+If you are doing research and into AI then I suggest you to go through this article
+
+>Unsupervised Translation of Programming Languages
+
+>Deep learning to translate between programming languages
+
+The above-mentioned Transcoder of Facebook translate functions between C++, Java, and Python 3
+
+
+- **TransCoder**Fackbook:Transcompilation between Java, C++ and Python 3.
+https://github.com/facebookresearch/TransCoder 
+最近的论文“Unsupervised Translation of Programming Languages编程语言的无监督翻译”来自Facebook AI Research，描述了神经网络如何学习如何将现有程序从一种语言翻译为另一种语言-反编译。如论文所述：
+
+“A transcompiler, also known as source-to-source translator, is a system that converts source code from a high-level programming language (such as C++ or Python) to another. 转编译器，也称为源到源翻译器，是一种将源代码从高级编程语言（例如C ++或Python）转换为另一种的系统。转编译器主要用于互操作性和移植编写的代码库以一种过时或过时的语言（例如COBOL，Python 2）更新为现代语言，它们通常依赖于应用于源代码抽象语法树的手工重写规则，但不幸的是，由此产生的翻译通常缺乏可读性，无法尊重目标语言按照惯例，需要人工修改才能正常工作。整个翻译过程很耗时，并且需要源语言和目标语言方面的专业知识，从而使代码翻译项目变得昂贵。”
+
+当然，这就是Cobol仍在许多金融系统中使用的原因。如果您曾经尝试用两种相似的语言来翻译甚至一个小程序，Python 2到3都会说，您知道这是非常困难的。您从未想过的事情会突然出现，并使事情无法按计划进行。
+
+Facebook小组从C ++，Java和Python的GitHub中获取了大量代码。想法是使用自然语言处理中的技术从语言中提取模式。该程序学习了函数的独立于语言的表示形式，然后能够使用它来生成另一种语言的函数。关键因素是这种表示是以无人监督的方式学习的-也就是说，没有人告诉神经网络程序做了什么，没有学习目标，也没有应用强化奖励。语言中的模式显然足够。这令人惊讶，但是类似的方法也适用于自然语言-这更令人惊讶。
+
+并未通过向系统展示使用不同语言编写的相同功能的示例来训练该系统，这就是您可能会想像的那样。通过阅读功能，理解其功能然后以新语言重新表达该功能，这更是人类的工作方式。
+
+它行得通吗？
+
+看来确实如此。
+
+“我们观察到TransCoder成功地理解了每种语言的语法，学习了数据结构及其方法，并正确地跨编程语言对齐了库。”
+
+它并不总是正确，但是令人印象深刻，足以表明正在发生某些事情。
+
+可以用于在特定语言中创建实现的程序的独立于语言的表示形式的想法可能导致某种AI可以根据需求或描述生成程序。
+
+也许现在还没有我们，但是，是的，我不得不说，在这项研究之后，人工智能可能接管生成程序的那一天似乎已经接近了
+
+
+
+
+
+
+
+

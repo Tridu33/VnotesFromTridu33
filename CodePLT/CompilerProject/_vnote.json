@@ -1,0 +1,17 @@
+{
+    "created_time": "2021-01-28T06:11:17Z",
+    "files": [
+    ],
+    "sub_directories": [
+        {
+            "name": "cmake"
+        },
+        {
+            "name": "make,cmake,makeList,makefile,qmake"
+        },
+        {
+            "name": "windows编译linux文件"
+        }
+    ],
+    "version": "1"
+}

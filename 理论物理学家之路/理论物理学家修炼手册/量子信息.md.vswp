@@ -1,0 +1,62 @@
+vnote_backup_file_826537664 C:/Users/admin/Documents/vnote_notebooks/理论物理学家之路ilun/理论物理学家修炼手册/量子信息.md
+# 量子信息
+
+
+
+
+量子信息论到底是什么？ \- 也疏寒的回答 \- 知乎 https://www.zhihu.com/question/263629802/answer/968483957
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+量子信息理论有两种理解：比较狭义地看就指的是Shannon的经典信息论的量子版本，Preskill将这种叫做quantum Shannon theory，可以参看他的note chapter 10 [quantum Shannon theory](https://link.zhihu.com/?target=http%3A//www.theory.caltech.edu/~preskill/ph219/chap10_6A.pdf)，信息论学家和计算机学家一般提量子信息就指的这种。广义地看，量子信息论就指的是，用信息论的角度研究和分析量子力学，并且反过来揭示信息的物理本质，物理学家所说的量子信息论一般指的是这种。
+
+量子信息相关的教材现在已经非常多了。
+
+-   Chuang and Nielsen， [Quantum computation and quantum information](https://link.zhihu.com/?target=http%3A//mmrc.amss.cas.cn/tlb/201702/W020170224608149940643.pdf)
+-   Preskill 的note（Cambridge出版社要出这本，结果Preskill一拖拖了二十年还没出版），[Physics 219/Computer Science 219：Quantum Computation](https://link.zhihu.com/?target=http%3A//www.theory.caltech.edu/~preskill/ph219/ph219_2018-19)
+-   Preskill的学生Mark M. Wilde写的[Quantum Information Theory](https://link.zhihu.com/?target=https%3A//www.amazon.com/Quantum-Information-Theory-Mark-Wilde/dp/1107176166)
+-   Peres的 [Quantum Theory: Concepts and Methods](https://link.zhihu.com/?target=https%3A//www.fisica.net/mecanica-quantica/Peres%2520-%2520Quantum%2520Theory%2520Concepts%2520and%2520Methods.pdf) 比较强调量子力学的基本层面的问题
+-   数学家John Watrous写的[quantum information theory](https://link.zhihu.com/?target=https%3A//cs.uwaterloo.ca/~watrous/)
+-   数学家Michael M. Wolf写的讲义[Quantum Channels & Operations：Guided Tour](https://link.zhihu.com/?target=https%3A//www-m5.ma.tum.de/foswiki/pub/M5/Allgemeines/MichaelWolf/QChannelLecture.pdf)也是广为传播的
+
+可以说quantum Shannon theory 是quantum information theory的一部分。上面这位对quantum shannon theory做了比较详细的介绍，实际上，大体说来，就是传统Shannon 的量子版本。我们需要研究：量子信源，量子信源编码，量子信道和量子噪声，量子解码等等一些大的主题。这里面就涉及量子态（也就是密度矩阵）性质的研究（包括各种量子关联，Discord，Entanglement，EPR steering，Bell nonlocality等等），然后就是quantum channel也就是保迹的完全正性超算子（TPCP map）的研究。量子纠错码 ![[公式]](https://www.zhihu.com/equation?tex=%5B%5Bn%2Ck%2Cd%5D%5D) 的研究。还有各种各样的quantun information protocol，比如量子密钥协议（QKD），密集编码dense coding，量子隐形传态 quantum teleportation，量子计量quantum metrology，量子计算和量子算法，量子计算复杂性等等。
+
+除了这些经典信息论的量子化。物理学家还发现，量子信息的研究，实际上有更加深层的含义。也就是现在非常兴盛的**量子力学的信息论诠释**。大家发现，信息论角度看量子力学，我们有些很意外的发现，对纠缠这样的量子关联的深入理解，会导致一些列物理学上的新结果以及新的原理被提出：比如no-signaling原理，contextuality，信息因果律，局域正交原则，互斥性原则，leggett-gard时间非定域性等等，这些发现都从不同侧面为我们重新理解和解释量子力学提供了一些其实。Hardy，Ginsin，Spenken，Horodecki家族，Zurek等一些量子信息和量子力学研究的专家都在这方面做了很多努力。虽然我们至今仍未得到满意的答案，但我们离真正的结果也越来越接近了。
+
+说完了这些，我还想强调的是。现在随着quantum matter，quantum information的研究，量子信息的方法开始不断渗透到各个理论物理分支里面了。举几个我觉得很有趣的发展：
+
+-   黑洞火墙或黑洞信息丢失问题的量子信息研究，Hawking，Susskind，Maldancena，Witten，Harrow等人发展了系统的量子信息的方法来理解黑洞信息丢失问题，纠缠量子态的monogamy关系在里面起了很大的作用，而这种monogamy关系的研究是量子信息里面非常重要的主题；
+-   15年以来兴起的HaPPY code，引发了用量子纠错码研究黑洞toy model的热潮，Preskill和他的学生，以及UCSB xi dong，MIT Harrow，还有hayden等人，在这方面做了许多非常有趣的工作，给AdS/CFT提供了许多可解的离散模型，对理解黑洞熵，Ryu-Takayanagi formula有很多启示
+-   量子场论的格点模型，量子场论和弦论里面的纠缠性质的研究，Witten去年写过一篇简要的综述稿[Notes on Some Entanglement Properties of Quantum Field Theory](https://link.zhihu.com/?target=https%3A//arxiv.org/abs/1803.04993)。这里面，量子信息理论中的纠缠的蒸馏和提纯等从Shannon 理论里面直接发展出来的技巧都有很重要的应用
+-   拓扑序和衍生时空和衍生对称性。对拓扑序的研究，基本可以和拓扑量子纠错码合二为一。每个拓扑序其实就是一个拓扑量子纠错码，两方面的理论研究互为对照，互相给彼此新的启发。
+-   计算复杂性理论的应用，量子信息理论向传统理论物理的渗透，还有一个就是Susskind和他的合作者这两年提出的，我们在研究量子场论的时候，缺乏的那一块东西，其实就是计算复杂性。对这方面，我了解的不多，听过一两个报告，感觉很有趣。
+
+实际上，现在发展的趋势是：信息，物理和计算是三个统一在一起的概念，信息都是用物理系统的状态来表示的，而计算（由church-Turing thesis）基本上也等价于物理系统状态和状态的变化。所以这些东西最后都是统一的。量子信息理论已经变成了一个非常庞大的学科了
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

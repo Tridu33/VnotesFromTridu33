@@ -1,0 +1,46 @@
+{
+    "created_time": "2021-01-28T06:11:19Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2021-01-28T06:11:19Z",
+            "modified_time": "2021-01-28T06:11:19Z",
+            "name": "AI_class_index.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2021-01-28T06:11:19Z",
+            "modified_time": "2021-01-28T06:11:19Z",
+            "name": "AI_summary总结.md",
+            "tags": [
+            ]
+        }
+    ],
+    "sub_directories": [
+        {
+            "name": "人工智能教材资料"
+        },
+        {
+            "name": "人工智能的一种现代化方法"
+        },
+        {
+            "name": "研究生事宜包括竞赛"
+        },
+        {
+            "name": "研究生竞赛"
+        },
+        {
+            "name": "研究生课程"
+        },
+        {
+            "name": "职业规划"
+        }
+    ],
+    "version": "1"
+}

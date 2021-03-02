@@ -1,0 +1,94 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta name="generator" content="MATLAB R2017b"><meta http-equiv="X-UA-Compatible" content="IE=edge,IE=9,chrome=1"><title>Untitled</title><style type="text/css">
+* {margin: 0; padding: 0;}
+body {text-align: start; line-height: 17.2339992523193px; min-height: 0px; white-space: normal; color: rgb(0, 0, 0); font-family: Menlo, Monaco, Consolas, 'Courier New', monospace; font-style: normal; font-size: 14px; font-weight: normal; text-decoration: none; white-space: normal; }
+h1, h2 {font-weight: normal;}
+.content { padding: 30px; }
+
+.S0 { margin-left: 0px; margin-top: 0px; margin-bottom: 0px; margin-right: 0px;  }
+.S1 { text-align: left; line-height: 21px; min-height: 17px; white-space: pre-wrap; font-family: Helvetica, Arial, sans-serif; white-space: pre-wrap; margin-left: 4px; margin-top: 2px; margin-bottom: 9px; margin-right: 10px;  }
+.S2 { min-height: 0px; margin-left: 0px; margin-top: 0px; margin-bottom: 0px; margin-right: 0px;  }
+
+.CodeBlock {margin: 10px 0 10px 0; background-color: #F7F7F7;}
+.CodeBlock+.paragraphNode {margin-top: 10px;}
+.lineNode {padding-left: 10px; border-left: 1px solid #E9E9E9; border-right: 1px solid #E9E9E9;}
+.inlineWrapper:first-child .lineNode,.inlineWrapper.outputs+.inlineWrapper .lineNode {padding-top: 5px; border-top: 1px solid #E9E9E9;}
+.inlineWrapper:last-child .lineNode,.inlineWrapper.outputs .lineNode {padding-bottom: 5px; border-bottom: 1px solid #E9E9E9;}
+.lineNode .textBox {white-space: pre;}
+</style></head><body><div class = "content"><div class = 'SectionBlock containment'><div class = "S1"><span class = "S2"><span class="S0">poly</span></span></div></div><div class = "S0"></div><div class = 'SectionBlock containment active'><div class = "S1"><span class = "S2"><span class="S0">p=[1 21 20 0] %1*x^4+21x^3+20*x^2+0</span></span></div><div class = "S1"><span class = "S2"><span class="S0">polyval(p,2) %x=2</span></span></div><div class = "S1"><span class = "S2"><span class="S0">x=0:0.5:3;</span></span></div><div class = "S1"><span class = "S2"><span class="S0">polyval(p,x)</span></span></div><div class = "S1"><span class = "S2"><span class="S0"></span></span></div><div class = "S1"><span class = "S2"><span class="S0"></span></span></div><div class = "S1"><span class = "S2"><span class="S0">root</span></span></div><div class = "S1"><span class = "S2"><span class="S0">r=roots(p)</span></span></div><div class = "S1"><span class = "S2"><span class="S0">p1=poly(r)</span></span></div><div class = "S1"><span class = "S2"><span class="S0">p2=poly([0;-20;-1])</span></span></div><div class = "S1"><span class = "S2"><span class="S0">特征多项式</span></span></div><div class = "S1"><span class = "S2"><span class="S0">eig </span></span></div><div class = "S1"><span class = "S2"><span class="S0">residue</span></span></div><div class = "S1"><span class = "S2"><span class="S0">多项式乘除法积微分</span></span></div><div class = "S1"><span class = "S2"><span class="S0">conv(p1,p2)</span></span></div><div class = "S1"><span class = "S2"><span class="S0">deconv</span></span></div><div class = "S1"><span class = "S2"><span class="S0"></span></span></div><div class = "S1"><span class = "S2"><span class="S0"></span></span></div><div class = "S1"><span class = "S2"><span class="S0">微分</span></span></div><div class = "S1"><span class = "S2"><span class="S0">polyder</span></span></div><div class = "S1"><span class = "S2"><span class="S0"></span></span></div><div class = "S1"><span class = "S2"><span class="S0"></span></span></div><div class = "S1"><span class = "S2"><span class="S0">拟合</span></span></div><div class = "S1"><span class = "S2"><span class="S0">polyfit</span></span></div><div class = "S1"><span class = "S2"><span class="S0"></span></span></div><div class = "S1"><span class = "S2"><span class="S0"></span></span></div><div class = "S1"><span class = "S2"><span class="S0">插值</span></span></div><div class = "S1"><span class = "S2"><span class="S0"></span></span></div><div class = "S1"><span class = "S2"><span class="S0">interp1</span></span></div><div class = "S1"><span class = "S2"><span class="S0">interp2</span></span></div><div class = "S1"><span class = "S2"><span class="S0"></span></span></div><div class = "S1"><span class = "S2"><span class="S0"></span></span></div><div class = "S1"><span class = "S2"><span class="S0"></span></span></div><div class = "S1"><span class = "S2"><span class="S0"></span></span></div><div class = "S1"><span class = "S2"><span class="S0"></span></span></div></div></div>
+<!-- 
+##### SOURCE BEGIN #####
+%% 
+% poly
+% 
+% p=[1 21 20 0] %1*x^4+21x^3+20*x^2+0
+% 
+% polyval(p,2) %x=2
+% 
+% x=0:0.5:3;
+% 
+% polyval(p,x)
+% 
+% 
+% 
+% 
+% 
+% root
+% 
+% r=roots(p)
+% 
+% p1=poly(r)
+% 
+% p2=poly([0;-20;-1])
+% 
+% 特征多项式
+% 
+% eig 
+% 
+% residue
+% 
+% 多项式乘除法积微分
+% 
+% conv(p1,p2)
+% 
+% deconv
+% 
+% 
+% 
+% 
+% 
+% 微分
+% 
+% polyder
+% 
+% 
+% 
+% 
+% 
+% 拟合
+% 
+% polyfit
+% 
+% 
+% 
+% 
+% 
+% 插值
+% 
+% 
+% 
+% interp1
+% 
+% interp2
+% 
+% 
+% 
+% 
+% 
+% 
+% 
+% 
+% 
+%
+##### SOURCE END #####
+--></body></html>

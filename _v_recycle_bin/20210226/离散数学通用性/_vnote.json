@@ -1,0 +1,38 @@
+{
+    "created_time": "2021-01-28T06:11:18Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2021-01-28T06:11:18Z",
+            "modified_time": "2021-01-28T06:11:18Z",
+            "name": "当且仅当.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2021-01-28T06:11:18Z",
+            "modified_time": "2021-01-28T06:11:18Z",
+            "name": "离散数学通用性.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2021-01-28T06:11:18Z",
+            "modified_time": "2021-01-28T06:11:18Z",
+            "name": "组合数学.md",
+            "tags": [
+            ]
+        }
+    ],
+    "sub_directories": [
+    ],
+    "version": "1"
+}

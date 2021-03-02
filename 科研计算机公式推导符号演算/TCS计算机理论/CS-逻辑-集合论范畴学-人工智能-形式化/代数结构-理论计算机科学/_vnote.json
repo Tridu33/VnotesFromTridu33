@@ -1,0 +1,21 @@
+{
+    "created_time": "2021-02-25T09:03:08Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2021-02-25T09:03:30Z",
+            "modified_time": "2021-02-27T14:29:14Z",
+            "name": "理论计算机科学的面向代数的分支.md",
+            "tags": [
+            ]
+        }
+    ],
+    "sub_directories": [
+        {
+            "name": "CSP通信进程代数"
+        }
+    ],
+    "version": "1"
+}

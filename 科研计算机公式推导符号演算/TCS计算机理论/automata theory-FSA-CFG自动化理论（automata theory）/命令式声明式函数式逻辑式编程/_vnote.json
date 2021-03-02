@@ -1,0 +1,34 @@
+{
+    "created_time": "2021-01-28T06:11:19Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2021-02-24T03:21:14Z",
+            "modified_time": "2021-02-26T07:14:06Z",
+            "name": "命令式声明式函数式逻辑式编程.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2021-02-26T06:56:35Z",
+            "modified_time": "2021-02-26T09:32:42Z",
+            "name": "集合论物理世界和有类型lambda演算范畴学观点下数学世界.md",
+            "tags": [
+            ]
+        }
+    ],
+    "sub_directories": [
+        {
+            "name": "函数式"
+        },
+        {
+            "name": "逻辑式prolog"
+        }
+    ],
+    "version": "1"
+}

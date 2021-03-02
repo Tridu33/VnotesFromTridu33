@@ -1,0 +1,81 @@
+{
+    "created_time": "2021-01-28T06:11:18Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2021-01-28T06:11:18Z",
+            "modified_time": "2021-01-28T06:11:18Z",
+            "name": "leecode.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2021-01-28T06:11:18Z",
+            "modified_time": "2021-01-28T06:11:18Z",
+            "name": "LeeCode接替总览.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2021-01-28T06:11:18Z",
+            "modified_time": "2021-01-28T06:11:18Z",
+            "name": "codingGAme.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2021-01-28T06:11:18Z",
+            "modified_time": "2021-01-28T06:11:18Z",
+            "name": "luogu洛谷.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2021-01-28T06:11:18Z",
+            "modified_time": "2021-01-28T06:11:18Z",
+            "name": "pintia.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2021-01-28T06:11:18Z",
+            "modified_time": "2021-01-28T06:11:18Z",
+            "name": "听说是信竟全攻略.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2021-01-28T06:11:18Z",
+            "modified_time": "2021-01-28T06:11:18Z",
+            "name": "洛谷.md",
+            "tags": [
+            ]
+        }
+    ],
+    "sub_directories": [
+        {
+            "name": "CodeWar"
+        }
+    ],
+    "version": "1"
+}

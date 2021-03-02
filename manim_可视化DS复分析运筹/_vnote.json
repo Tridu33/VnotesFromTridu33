@@ -1,0 +1,47 @@
+{
+    "created_time": "2021-01-28T06:11:19Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2021-01-28T06:11:20Z",
+            "modified_time": "2021-01-28T06:11:20Z",
+            "name": "Mine.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2021-01-28T06:11:20Z",
+            "modified_time": "2021-01-28T06:11:20Z",
+            "name": "MyProjects.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2021-01-28T06:11:20Z",
+            "modified_time": "2021-01-28T06:11:20Z",
+            "name": "他们.md",
+            "tags": [
+            ]
+        }
+    ],
+    "sub_directories": [
+        {
+            "name": "manim教程笔记"
+        },
+        {
+            "name": "分形空间填充曲线曲面"
+        },
+        {
+            "name": "问题集（现在可能不会，但是一定要记下来，念念不忘必有回响）"
+        }
+    ],
+    "version": "1"
+}

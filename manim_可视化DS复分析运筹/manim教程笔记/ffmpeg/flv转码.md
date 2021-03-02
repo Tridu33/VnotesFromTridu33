@@ -1,0 +1,37 @@
+# flv转码
+
+前往FFmpeg官网下载软件
+
+[Download FFmpeg](https://link.zhihu.com/?target=https%3A//www.ffmpeg.org/download.html)
+
+  
+
+找到对应的平台，这里我使用的是Windows，就点击Windows Build，然后出现的页面里找到自己的Windows版本，如我使用的是64-bit，选择Static的封装就好。
+
+下载回来的压缩包在目录中解压，在目录中找到bin目录，把里面的三个exe文件拷贝到
+
+C:\\Windows\\System32\
+
+可能会弹出窗口要求权限，点击允许即可。
+
+然后在Windows开始菜单中点击运行，
+
+输入CMD
+
+进入你的FLV所在的文件夹
+
+如果是单个文件，就用如下命令：
+
+```
+ffmpeg -i "input.flv" -c copy "output.mp4"
+```
+
+将这里的input改为你的文件名，output改为你想得到的文件名即可。
+
+如果是整个文件夹中的所有flv文件需要批量转成mp4，那么使用以下命令：
+
+for %i in (*.flv) do ffmpeg -i "%i" -c copy "%~ni.mp4"
+
+注：不要更改以上的任何一个字符，新生成的mp4文件会自动拷贝原文件名。
+
+  

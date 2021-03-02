@@ -1,0 +1,98 @@
+{
+    "created_time": "2021-01-28T06:11:17Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2021-01-28T06:11:17Z",
+            "modified_time": "2021-01-28T06:11:17Z",
+            "name": "Pydoc查看python类库函数方法继承结构依赖.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2021-01-28T06:11:17Z",
+            "modified_time": "2021-01-28T06:11:17Z",
+            "name": "Python Packaging User Guide.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2021-01-28T06:11:17Z",
+            "modified_time": "2021-01-28T06:11:17Z",
+            "name": "python打包用户指南.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2021-01-28T06:11:17Z",
+            "modified_time": "2021-01-28T06:11:17Z",
+            "name": "python环境变量.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2021-01-28T06:11:17Z",
+            "modified_time": "2021-01-28T06:11:17Z",
+            "name": "亲自动手写一个Python库.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2021-01-28T06:11:17Z",
+            "modified_time": "2021-01-28T06:11:17Z",
+            "name": "包引入讲解_环境变量.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2021-01-28T06:11:17Z",
+            "modified_time": "2021-01-28T06:11:17Z",
+            "name": "如何将自己写的 python 包上传 pypi.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2021-01-28T06:11:17Z",
+            "modified_time": "2021-01-28T06:11:17Z",
+            "name": "本地python包路径.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2021-01-28T06:11:17Z",
+            "modified_time": "2021-01-28T06:11:17Z",
+            "name": "详细梗概_python制作自己的whl安装包等等.md",
+            "tags": [
+            ]
+        }
+    ],
+    "sub_directories": [
+    ],
+    "version": "1"
+}

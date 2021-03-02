@@ -1,0 +1,129 @@
+vnote_backup_file_826537664 C:/Users/admin/Documents/vnote_notebooks/科研计算机公式推导符号演算/Job离散数理逻辑逻辑代数命题逻辑一阶逻辑布尔代数形式/人工智能教材资料/人工智能导论.md
+[TOC]
+
+# 人工智能导论
+
+
+机器学习的研究主要分为两类研究方向：
+
+第一类是传统机器学习的研究，该类研究主要是研究学习机制，注重探索模拟人的学习机制；（内部机理解析，逻辑，推理，知识库表示和搜索,更关心“推理，规划，证明”）
+
+第二类是大数据环境下机器学习的研究，该类研究主要是研究如何有效利用信息，注重从巨量数据中获取隐藏的、有效的、可理解的知识。（统计机器学习，open/cv,nlp）
+
+
+
+人工智能
+
+- 搜索
+  - 启发式
+  - CSP问题
+  - 决策树
+- KG知识表示
+- 学习/自动规划
+   - 智能体agent循迹动作序列$\pi$ 
+
+
+
+
+## Ordered Binary Decision Diagrams
+
+OBBD
+
+
+## LTL
+
+
+
+https://blog.csdn.net/chenlou123/article/details/53392681
+
+
+
+
+## CTL
+
+
+CTL逻辑表达解析 - Hidden Man的文章 - 知乎 https://zhuanlan.zhihu.com/p/136837925
+
+
+
+## SMT/SAT可满足性
+
+可满足问题 (Satisifiability problem, SAT) 指的是给布尔表达式中的布尔变量赋值，使得由这些布尔变量组合起来的布尔表达式结果为真。这些布尔变量的赋值组合成为 可满足问题的解 (Solution)。可满足问题的一个形象的比喻是：布尔变量相当于电灯的一系列开关，每个开关可以选择 “开” (True) 或 “不开” (False) 。这些开关的组合再通过黑盒子 (不二表达式) 来控制电灯 “亮” (True) 或 “不亮” (False)。可满足问题要解决的就是调整这这些开关，使得最终电灯亮起来。
+
+[CNF 合取范式https://blog.csdn.net/chikily_yongfeng/article/details/82904522](https://blog.csdn.net/chikily_yongfeng/article/details/82904522)
+
+18年上文索引这篇19年文章
+[第一章 命题逻辑 1.4 析取范式与合取范式https://blog.csdn.net/Deam\_swan\_goose/article/details/98214619](https://blog.csdn.net/Deam_swan_goose/article/details/98214619)
+
+
+
+
+
+
+
+
+
+[https://github.com/pysathq/pysat](https://github.com/pysathq/pysat)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+（我理解的）SMT就是SAT（布尔表达式可满足性理论）在布尔表达式的基础上拓展到其他理论，比如加上实数理论，问你 x^2+y^2=-1 是否可满足。
+https://www.zhihu.com/question/29586582
+
+
+
+
+
+如果，我们只给出一个数学问题的（比如一道数独题）约束条件，是否有程序可以自动求出一个解？  
+**可满足性模理论**(SMT - Satisfiability Modulo Theories)已经可以实现这个需求。
+
+因此，最近想搞明白z3的实现原理。源代码没有读两句，还是找了本教材来看。  
+[Vijay Ganesh (PhD. Thesis 2007), Decision Procedures for Bit-Vectors, Arrays and Integers](https://ece.uwaterloo.ca/~vganesh/Publications_files/vg2007-PhD-STANFORD.pdf)  
+
+
+[上面这段来自来自https://www.cnblogs.com/steven-yang/p/7104068.html](https://www.cnblogs.com/steven-yang/p/7104068.html)
+
+
+
+用SMT solver验证程序等价 - rainoftime的文章 - 知乎 https://zhuanlan.zhihu.com/p/30520308
+
+
+如何学习 SMT/SAT（可满足性理论）的数学基础？ - rainoftime的回答 - 知乎 https://www.zhihu.com/question/65438076/answer/233925406
+
+著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
+
+说明一下，这里不考虑3-SAT，＃SAT，MaxSAT，"SMT-opt"(SMT + 最优化）, "SMT-ind"（SMT with inducetive pred)，"SMT-CLP"(SMT + constraint logic programming)等变种/扩展。。SAT：当前最主流、成功的架构是CDCL（Conflicit-Driven Lemma-Learning)，之所以说“架构“，是因为它本质上还是基于DPLL(Davis-Putnan-Logemann-Loveland)算法，只是加了一些lemma learning, restarting, phase selection等策略，和很多简化算法（如hidden tautology elimination, bloked clause elimination)。个人建议是好好花时间阅读、理解Minisat的代码。当前相当大一部分SAT引擎都是基于Minisat的。SMT：SMT求解器可能包涵各种theory如real, integer, bit-vector,等等。为了求解不同theory，可能涉及特定算法如线性规划、高斯消元等；但是这些thery的求解基本都有会SAT solver参与。SAT solver是怎么参与的呢？大体分为“lazy approach“和“eager approach"两类（此处略去 xx 字）..如果想通过动手实现加深理解，对于“lazy aproach“，简单点的可以考虑EUF(theory of equality with uninterpreted function)或DL(difference arithmetic)...
+
+
+
+
+
+
+
+
+
+
+
+如何学习 SMT/SAT（可满足性理论）的数学基础？ - 捉木马的蓝胖纸的回答 - 知乎 https://www.zhihu.com/question/65438076/answer/234113006
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,225 @@
+{
+    "created_time": "2021-01-28T06:11:19Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2021-01-28T06:11:19Z",
+            "modified_time": "2021-03-01T13:12:09Z",
+            "name": "深度学习机器学习前沿.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2021-01-28T06:11:19Z",
+            "modified_time": "2021-01-28T06:11:19Z",
+            "name": "Google Summer of Code 2019.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2021-01-28T06:11:19Z",
+            "modified_time": "2021-01-28T06:11:19Z",
+            "name": "keras.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2021-01-28T06:11:19Z",
+            "modified_time": "2021-01-28T06:11:19Z",
+            "name": "opencv人脸识别.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2021-01-28T06:11:19Z",
+            "modified_time": "2021-01-28T06:11:19Z",
+            "name": "人工智能社区（一个老师的主页）.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2021-01-28T06:11:19Z",
+            "modified_time": "2021-01-28T06:11:19Z",
+            "name": "吴恩达 机器学习 翻译项目Coursera.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2021-01-28T06:11:19Z",
+            "modified_time": "2021-01-28T06:11:19Z",
+            "name": "和鲸社区.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2021-01-28T06:11:19Z",
+            "modified_time": "2021-01-28T06:11:19Z",
+            "name": "斯坦福的 UFIDL Tutorial .md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2021-01-28T06:11:19Z",
+            "modified_time": "2021-01-28T06:11:19Z",
+            "name": "机器学习代码速查表.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2021-01-28T06:11:19Z",
+            "modified_time": "2021-01-28T06:11:19Z",
+            "name": "机器学习基本流程8步.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2021-01-28T06:11:19Z",
+            "modified_time": "2021-01-28T06:11:19Z",
+            "name": "机器学习成熟开源软件.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2021-01-28T06:11:19Z",
+            "modified_time": "2021-01-28T06:11:19Z",
+            "name": "百度AI课程路线.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2021-01-28T06:11:19Z",
+            "modified_time": "2021-01-28T06:11:19Z",
+            "name": "莫烦python.md",
+            "tags": [
+            ]
+        }
+    ],
+    "sub_directories": [
+        {
+            "name": "数学原理打开黑箱子教材"
+        },
+        {
+            "name": "reinforceLearning强化学习"
+        },
+        {
+            "name": "CNN卷积神经网络"
+        },
+        {
+            "name": "HMM的模型和对应算法"
+        },
+        {
+            "name": "理论工程框架"
+        },
+        {
+            "name": "KB知识库_知识图谱"
+        },
+        {
+            "name": "tensorflowKeras"
+        },
+        {
+            "name": "Pytorch"
+        },
+        {
+            "name": "Paddle飞浆"
+        },
+        {
+            "name": "RNN循环神经网络"
+        },
+        {
+            "name": "Sklearn"
+        },
+        {
+            "name": "元学习"
+        },
+        {
+            "name": "SVM"
+        },
+        {
+            "name": "卷积系CNN"
+        },
+        {
+            "name": "因果推断"
+        },
+        {
+            "name": "图像处理卷积系CNN"
+        },
+        {
+            "name": "图像预处理"
+        },
+        {
+            "name": "归纳逻辑编程推理ILP可微分归纳逻辑编程-神经逻辑机"
+        },
+        {
+            "name": "无监督机器学习"
+        },
+        {
+            "name": "最大熵(maximum entropy)模型"
+        },
+        {
+            "name": "概率图贝叶斯派"
+        },
+        {
+            "name": "生成模型"
+        },
+        {
+            "name": "神经网络深度学习"
+        },
+        {
+            "name": "移动端深度学习框架"
+        },
+        {
+            "name": "自动微分矩阵求导"
+        },
+        {
+            "name": "自然语言处理"
+        },
+        {
+            "name": "DataSet数据集网站"
+        },
+        {
+            "name": "结构学习"
+        },
+        {
+            "name": "符号逻辑推理神经网络符号人工智能"
+        }
+    ],
+    "version": "1"
+}

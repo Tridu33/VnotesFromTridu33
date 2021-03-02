@@ -1,0 +1,118 @@
+{
+    "created_time": "2021-01-28T06:11:18Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2021-01-28T06:11:18Z",
+            "modified_time": "2021-01-28T06:11:18Z",
+            "name": "学烂二叉树.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2021-01-28T06:11:18Z",
+            "modified_time": "2021-01-28T06:11:18Z",
+            "name": "树的增删改查.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2021-01-28T06:11:18Z",
+            "modified_time": "2021-01-28T06:11:18Z",
+            "name": "线段树.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2021-01-28T06:11:18Z",
+            "modified_time": "2021-01-28T06:11:18Z",
+            "name": "红黑树.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2021-01-28T06:11:18Z",
+            "modified_time": "2021-01-28T06:11:18Z",
+            "name": "BDD和基数树.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2021-01-28T06:11:18Z",
+            "modified_time": "2021-02-22T07:49:02Z",
+            "name": "B树B+树.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2021-01-28T06:11:18Z",
+            "modified_time": "2021-01-28T06:11:18Z",
+            "name": "Patricia树.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2021-01-28T06:11:18Z",
+            "modified_time": "2021-01-28T06:11:18Z",
+            "name": "trie树.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2021-01-28T06:11:18Z",
+            "modified_time": "2021-01-28T06:11:18Z",
+            "name": "二叉搜索树平衡树.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2021-01-28T06:11:18Z",
+            "modified_time": "2021-01-28T06:11:18Z",
+            "name": "后缀树.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2021-01-28T06:11:18Z",
+            "modified_time": "2021-01-28T06:11:18Z",
+            "name": "学烂二叉树_copy.md",
+            "tags": [
+            ]
+        }
+    ],
+    "sub_directories": [
+    ],
+    "version": "1"
+}

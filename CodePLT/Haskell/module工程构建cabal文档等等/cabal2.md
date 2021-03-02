@@ -1,0 +1,40 @@
+# 1. cabal
+
+
+1 https://pvp.haskell.org/
+
+2 https://ghc.haskell.org/trac/ghc/wiki/Commentary/Libraries/VersionHistory
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

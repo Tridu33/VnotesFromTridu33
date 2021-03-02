@@ -1,0 +1,54 @@
+{
+    "created_time": "2021-01-28T06:11:19Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2021-01-28T06:11:19Z",
+            "modified_time": "2021-01-28T06:11:19Z",
+            "name": "论文挖掘网站.md",
+            "tags": [
+            ]
+        }
+    ],
+    "sub_directories": [
+        {
+            "name": "code-paper"
+        },
+        {
+            "name": "CS论文博客书视频网站论坛"
+        },
+        {
+            "name": "zotero生态"
+        },
+        {
+            "name": "其他科研工具"
+        },
+        {
+            "name": "指南期刊论文投稿写作编辑和Coding"
+        },
+        {
+            "name": "文献管理软件平台"
+        },
+        {
+            "name": "文献管理频台"
+        },
+        {
+            "name": "期刊论文投稿写作编辑和Coding"
+        },
+        {
+            "name": "杂谈"
+        },
+        {
+            "name": "计算机前沿ML综述会议期刊论文顶级会议报告"
+        },
+        {
+            "name": "论文查重等等"
+        },
+        {
+            "name": "论文神网站"
+        }
+    ],
+    "version": "1"
+}

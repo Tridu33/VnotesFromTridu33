@@ -1,0 +1,76 @@
+{
+    "created_time": "2021-01-28T06:11:19Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2021-01-28T06:11:19Z",
+            "modified_time": "2021-01-28T06:11:19Z",
+            "name": "online论文.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2021-02-24T03:15:12Z",
+            "modified_time": "2021-02-27T13:10:16Z",
+            "name": "计算机科学经典阅读.md",
+            "tags": [
+            ]
+        }
+    ],
+    "sub_directories": [
+        {
+            "name": "GP"
+        },
+        {
+            "name": "TCS计算机理论"
+        },
+        {
+            "name": "AI_Job-class"
+        },
+        {
+            "name": "规划软件人工智能"
+        },
+        {
+            "name": "MachineLearing统计机器学习"
+        },
+        {
+            "name": "reinforceLearning强化学习"
+        },
+        {
+            "name": "软工设计系统重构、系统迁移和系统分析"
+        },
+        {
+            "name": "dataScience"
+        },
+        {
+            "name": "会议期刊CS论文综述-优秀_科研工具"
+        },
+        {
+            "name": "自然语言处理"
+        },
+        {
+            "name": "MIT公开课挑战等慕课，资源，教程，工具Online"
+        },
+        {
+            "name": "学堂Offline"
+        },
+        {
+            "name": "没办法，英语是国际第一学术语言"
+        },
+        {
+            "name": "演化计算"
+        },
+        {
+            "name": "计算机基础知识等"
+        },
+        {
+            "name": "操作系统"
+        }
+    ],
+    "version": "1"
+}

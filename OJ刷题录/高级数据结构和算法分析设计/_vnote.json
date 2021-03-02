@@ -1,0 +1,27 @@
+{
+    "created_time": "2021-01-28T06:11:18Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2021-01-28T06:11:18Z",
+            "modified_time": "2021-01-28T06:11:18Z",
+            "name": "算法设计与分析.md",
+            "tags": [
+            ]
+        }
+    ],
+    "sub_directories": [
+        {
+            "name": "时间复杂度"
+        },
+        {
+            "name": "概率算法、近似算法和自然算法"
+        },
+        {
+            "name": "算法正确性的证明"
+        }
+    ],
+    "version": "1"
+}

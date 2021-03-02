@@ -1,0 +1,40 @@
+# Eiegn-wasm-OctaveOnline
+
+instead of run octave in server，but nodejs-Octave_web on disk by wasm Octave sources code to ams.js and we have **naive jupyter web app**
+
+
+
+
+
+
+
+
+# Jupyter-js-多语言内核-》wasm直接运行模块函数，js调用的编程语言大一统革命
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

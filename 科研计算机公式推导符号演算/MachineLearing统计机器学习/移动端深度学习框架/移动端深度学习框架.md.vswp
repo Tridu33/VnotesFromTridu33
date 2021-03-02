@@ -1,0 +1,26 @@
+vnote_backup_file_826537664 D:/tridu33/vnote_notebooks/科研计算机公式推导符号演算/MachineLearing联结主义统计机器学习/移动端深度学习框架/移动端深度学习框架.md
+# 移动端深度学习框架
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+开源的有：
+
+- 小米的MACE，
+- 骁龙的SNPE，
+- 腾讯的FeatherCNN和ncnn，
+- 百度的mobile-deep-learning(MDL)；
+- caffe、tensorflow lite都有移动端，只是可能没有上面的框架效率高。
+- 据传还有支付宝的xNN，商汤的PPL，不过都是自用，未开源。

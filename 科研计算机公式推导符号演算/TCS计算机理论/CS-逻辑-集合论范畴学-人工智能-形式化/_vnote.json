@@ -1,0 +1,131 @@
+{
+    "created_time": "2021-01-28T06:11:18Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2021-01-28T06:11:18Z",
+            "modified_time": "2021-01-28T06:11:18Z",
+            "name": "数学观念计算机的建议.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2021-01-28T06:11:18Z",
+            "modified_time": "2021-01-28T06:11:18Z",
+            "name": "矩阵运算库blas, cblas, openblas, atlas, lapack, mkl.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2021-01-28T06:11:18Z",
+            "modified_time": "2021-01-28T06:11:18Z",
+            "name": "类C的数学专用语言Englab.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2021-01-28T06:11:18Z",
+            "modified_time": "2021-01-28T06:11:18Z",
+            "name": "计算机.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2021-02-09T01:47:48Z",
+            "modified_time": "2021-02-09T01:47:59Z",
+            "name": "neverendingbook无休止的书.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2021-02-25T11:11:01Z",
+            "modified_time": "2021-02-25T11:11:06Z",
+            "name": "mathematical  models.md",
+            "tags": [
+            ]
+        }
+    ],
+    "sub_directories": [
+        {
+            "name": "神经网络数理解释打造积木"
+        },
+        {
+            "name": "逻辑和数学"
+        },
+        {
+            "name": "类型论"
+        },
+        {
+            "name": "范畴论"
+        },
+        {
+            "name": "模型论"
+        },
+        {
+            "name": "集合论"
+        },
+        {
+            "name": "证明论"
+        },
+        {
+            "name": "递归论"
+        },
+        {
+            "name": "CS-MathematicalProgramming"
+        },
+        {
+            "name": "集合论模型出发的计算机自动机"
+        },
+        {
+            "name": "计算机代数系统_数学机械自动化推理历史方向现况与展望"
+        },
+        {
+            "name": "代数结构-理论计算机科学"
+        },
+        {
+            "name": "实数公理化形式化lean"
+        },
+        {
+            "name": "实数推导符号一阶高阶演算数学定理"
+        },
+        {
+            "name": "定理证明-程序验证程序分析"
+        },
+        {
+            "name": "情景演算SituationCalculus"
+        },
+        {
+            "name": "雾雨魔法店"
+        },
+        {
+            "name": "系统可信性"
+        },
+        {
+            "name": "几何代数的高阶逻辑形式化"
+        },
+        {
+            "name": "计算几何参数几何"
+        },
+        {
+            "name": "并发"
+        }
+    ],
+    "version": "1"
+}

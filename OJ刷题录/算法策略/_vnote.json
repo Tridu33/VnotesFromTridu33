@@ -1,0 +1,30 @@
+{
+    "created_time": "2021-01-28T06:11:18Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2021-02-25T09:11:38Z",
+            "modified_time": "2021-02-25T09:11:46Z",
+            "name": "非人为构造的算法.md",
+            "tags": [
+            ]
+        }
+    ],
+    "sub_directories": [
+        {
+            "name": "分治递归"
+        },
+        {
+            "name": "动态规划"
+        },
+        {
+            "name": "贪心"
+        },
+        {
+            "name": "枚举启发式搜索"
+        }
+    ],
+    "version": "1"
+}

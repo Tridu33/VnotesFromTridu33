@@ -1,0 +1,84 @@
+{
+    "created_time": "2021-01-28T06:11:20Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2021-01-28T06:11:20Z",
+            "modified_time": "2021-01-28T06:11:20Z",
+            "name": "Emoji_Markdown.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2021-01-28T06:11:20Z",
+            "modified_time": "2021-01-28T06:11:20Z",
+            "name": "Markdown公式.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2021-01-28T06:11:20Z",
+            "modified_time": "2021-01-28T06:11:20Z",
+            "name": "markdown数学公式模板.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2021-01-28T06:11:20Z",
+            "modified_time": "2021-01-28T06:11:20Z",
+            "name": "mathdown.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2021-01-28T06:11:20Z",
+            "modified_time": "2021-01-28T06:11:20Z",
+            "name": "python_handcalcs.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2021-01-28T06:11:20Z",
+            "modified_time": "2021-01-28T06:11:20Z",
+            "name": "大小写希腊符号.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2021-01-28T06:11:20Z",
+            "modified_time": "2021-01-28T06:11:20Z",
+            "name": "手写画图查符号.md",
+            "tags": [
+            ]
+        }
+    ],
+    "sub_directories": [
+        {
+            "name": "txt"
+        },
+        {
+            "name": "Word"
+        }
+    ],
+    "version": "1"
+}
