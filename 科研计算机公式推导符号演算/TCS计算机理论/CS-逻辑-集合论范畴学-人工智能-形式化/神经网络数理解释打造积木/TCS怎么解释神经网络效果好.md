@@ -64,8 +64,7 @@ Yarotsky D. Error bounds for approximations with deep ReLU networks[J]. Neural N
 https://www.zhihu.com/question/268384579/answer/540793202
 
 
-
-![](_v_images/20210301224644131_29088.png)
+ 
 
 
 

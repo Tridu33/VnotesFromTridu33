@@ -2,7 +2,7 @@
 
 
 
-
+https://www.cplusplus.com/reference/vector/vector/resize/
 
 
 
