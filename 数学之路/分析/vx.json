@@ -1,0 +1,76 @@
+{
+    "created_time": "2022-12-31T10:18:05Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:05Z",
+            "id": "22425",
+            "modified_time": "2022-12-31T10:18:05Z",
+            "name": "Stein 先生的分析系列《傅里叶分析导论》 《实分析》 《复分析》和《泛函分析.md",
+            "signature": "31921869425757",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:05Z",
+            "id": "22426",
+            "modified_time": "2022-12-31T10:18:05Z",
+            "name": "变分不等式问题和互补问题的基础.md",
+            "signature": "59267926199389",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:05Z",
+            "id": "22432",
+            "modified_time": "2022-12-31T10:18:05Z",
+            "name": "拓扑.md",
+            "signature": "112452506225757",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:05Z",
+            "id": "22436",
+            "modified_time": "2022-12-31T10:18:05Z",
+            "name": "莱布尼兹率.md",
+            "signature": "59091832540253",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:05Z",
+            "id": "22437",
+            "modified_time": "2022-12-31T10:18:05Z",
+            "name": "陶哲轩实分析.md",
+            "signature": "19685507599453",
+            "tags": [
+            ]
+        }
+    ],
+    "folders": [
+        {
+            "name": "场分析矢量分析"
+        },
+        {
+            "name": "复分析"
+        },
+        {
+            "name": "泛函"
+        },
+        {
+            "name": "测度"
+        },
+        {
+            "name": "非标准分析"
+        }
+    ],
+    "id": "22424",
+    "modified_time": "2022-12-31T10:18:05Z",
+    "signature": "137655374318685",
+    "version": 3
+}

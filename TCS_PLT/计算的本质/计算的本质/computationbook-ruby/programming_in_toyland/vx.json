@@ -1,0 +1,47 @@
+{
+    "created_time": "2022-12-31T10:18:02Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:02Z",
+            "id": "21543",
+            "modified_time": "2022-12-31T10:18:02Z",
+            "name": "irb.txt",
+            "signature": "76619594075226",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:02Z",
+            "id": "21547",
+            "modified_time": "2022-12-31T10:18:02Z",
+            "name": "signs.rb",
+            "signature": "29005586631770",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:02Z",
+            "id": "21560",
+            "modified_time": "2022-12-31T10:18:02Z",
+            "name": "types.rb",
+            "signature": "135190063090778",
+            "tags": [
+            ]
+        }
+    ],
+    "folders": [
+        {
+            "name": "signs"
+        },
+        {
+            "name": "types"
+        }
+    ],
+    "id": "21542",
+    "modified_time": "2022-12-31T10:18:02Z",
+    "signature": "86712767220826",
+    "version": 3
+}

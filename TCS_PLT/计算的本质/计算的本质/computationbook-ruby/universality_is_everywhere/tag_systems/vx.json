@@ -1,0 +1,41 @@
+{
+    "created_time": "2022-12-31T10:18:03Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:03Z",
+            "id": "21706",
+            "modified_time": "2022-12-31T10:18:03Z",
+            "name": "tag_rule.rb",
+            "signature": "115656551828571",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:03Z",
+            "id": "21707",
+            "modified_time": "2022-12-31T10:18:03Z",
+            "name": "tag_rulebook.rb",
+            "signature": "131947362782299",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:03Z",
+            "id": "21708",
+            "modified_time": "2022-12-31T10:18:03Z",
+            "name": "tag_system.rb",
+            "signature": "106937768217691",
+            "tags": [
+            ]
+        }
+    ],
+    "folders": [
+    ],
+    "id": "21705",
+    "modified_time": "2022-12-31T10:18:03Z",
+    "signature": "2157746064475",
+    "version": 3
+}

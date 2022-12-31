@@ -1,0 +1,51 @@
+{
+    "created_time": "2022-12-31T10:18:01Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:01Z",
+            "id": "21318",
+            "modified_time": "2022-12-31T10:18:01Z",
+            "name": "AND，OR，NOT，XOR和XNOR逻辑门的神经表示（感知器算法）.md",
+            "signature": "14716230437977",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:01Z",
+            "id": "21319",
+            "modified_time": "2022-12-31T10:18:01Z",
+            "name": "基于图论的组合优化问题的“自动化”解决.md",
+            "signature": "82014072999001",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:01Z",
+            "id": "21320",
+            "modified_time": "2022-12-31T10:18:01Z",
+            "name": "神经网络与决策树.md",
+            "signature": "132741931732057",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:01Z",
+            "id": "21321",
+            "modified_time": "2022-12-31T10:18:01Z",
+            "name": "解析树编码为神经网络的输入.md",
+            "signature": "35710030580825",
+            "tags": [
+            ]
+        }
+    ],
+    "folders": [
+    ],
+    "id": "21317",
+    "modified_time": "2022-12-31T10:18:01Z",
+    "signature": "35387908033625",
+    "version": 3
+}

@@ -1,0 +1,53 @@
+
+
+
+
+# python图像处理
+
+
+python skimage图像处理(一) 很全的笔记
+https://www.jianshu.com/p/f2e88197e81d
+
+
+Python图像处理及图像识别 系列教程csdn
+
+blog.csdn.net/eastmount/category_9278090.html 汇总目录
+
+对应仓库：
+
+github.com/eastmountyxz/ImageProcessing-Python
+
+
+
+
+其中有
+
+绘制直方图
+blog.csdn.net/Eastmount/article/details/83758402
+
+傅里叶
+https://blog.csdn.net/Eastmount/article/details/89474405
+
+图像处理用 Python 还是 MATLAB？ - 读芯术的回答 - 知乎
+https://www.zhihu.com/question/29377394/answer/727286979
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

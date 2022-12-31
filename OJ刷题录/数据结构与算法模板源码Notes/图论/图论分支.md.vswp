@@ -1,0 +1,78 @@
+vnote_backup_file_826537664 D:/tridu33/Nutstore/VnotesFromTridu33/OJ刷题录/图论/图论分支.md
+
+
+
+
+
+
+
+
+
+# 1. 图论分支
+
+
+
+
+
+
+图论有哪些方向分支？ - Yifan的回答 - 知乎
+https://www.zhihu.com/question/268021092/answer/341917897
+
+
+
+写一些我做过，学过或者了解过的方向，欢迎补充。
+
+Topological Graph Theory（拓扑图论）
+最传统的图论方向之一，我们熟悉的“四色定理”就是这个领域的问题。我们知道20世纪初，图论是作为低维拓扑的分支在研究的（比如现在的纽结理论）。这里我们把图定义为1-complex，研究图的拓扑性质。在图上，我们可以把homology group“可视化”，来研究图的“cycle space” 和“cut space”。这方面的最新推广一般在tropical geometry和matroid theory里面涉及。关于Introduction，可以看专栏Some Interesting Combinatorial Problems里面的“Graphs on Surfaces”。
+
+另一方面，我们还可以研究2-complex的性质。将1-complex嵌入2-space我们有众所周知的Kuratowski Theorem，然而将2-complex嵌入3-space的Kuratowski Theorem等价于庞加莱猜想。
+
+Structural Graph Theory (结构图论)
+最传统的图论方向之一，研究满足某种性质的图的结构。目前有时也会把Topological graph theory看作Structural graph theory的分支之一。在这个领域几百页的证明很常见，目前也是图论研究的核心之一。比如前几年Seymour et al证明了strong perfect graph theorem，给出了所有perfect graph的结构。另外，结构图论中大家比较关心的关系是topological minor；graph minor；graph immersions。Robertson和Seymour有一个系列的论文证明了graph minor是well quasi order，极大的发展了这个领域。
+
+另一个所有组合学家都很关心的猜想是Hadwiger‘s Conjecture，我在这里提过Yifan：如何在理论上解释“四色定理”？任何关于这个猜想的进展都是big news
+
+Geometric Graph Theory (几何图论)
+主要研究graph drawing。在传统图论中，我们不在意图的“表示”方法，但是在这个领域，我们会关心边的曲线表示。有时也会看作topological graph theory和incidence geometry的分支，但是进来离散几何发展比较快，还有一些combinatorial algebraic geometry method，现在也算是很多人关心的领域。比如研究图的crossing number，点和线的关系以及k-rich lines等。
+
+Extremal Graph Theory (极值图论)
+也是传统的图论方向之一，但是算是目前最热门的方向。一些经典问题比如Turan Type Problem，里面一些很古老的问题都还非常open。主要方法之一就是概率论，另外还有最近的一些flag algebra，hypergraph container method (有关counting时)。另外研究random graph也是另一个热点之一，有时会把Random Graph Theory看作单独的一个领域。还有值得一提的就是Ramsey Theory，最近和Number Theory结合的比较多，关于Ramsey Theory的任何进展也都是big news。
+
+Algebraic Graph Theory (代数图论)
+极值图论中研究的是各种“极图“，也就是最多的满足某种性质的图，而代数图论中常研究的是各种最最对称的图，regular graph。当然regular graph并没有那么对称，于是人们会研究strongly-regular graph，distance-regular graph，walk-regular graph。这些图有时候也会对应到某个代数结构，比如在有限单群的分类定理中就用到了代数图论。
+
+在这个领域还有一些数学家是专门研究代数结构或者set theory的，通过代数结构我们可以得到一些relations，然后relations本质上就是graph或者hypergraph。
+
+Graph Limits Theory (图极限理论)
+在PDE中的一个常用思路是，我们构造一些列性质很好的序列，去在某种定义下逼近我们需要的某个object，hopefully我们可以把好的性质传递到我们需要的object上。在图论中，我们可以先让图的点趋于无穷，得到graphon，然后就可以使用泛函分析的工具证明graphon满足某种性质，然后再退回有限图。这个领域初始于Szemeredi证明了正密度子集有任意长的等差数列，之后被Gowers，Lovasz等人抽象和推广，目前也是additive number theory中的主要方法之一，比如Green-Tao Theorem本质上就是证明了一个版本的sparse Szemeredi Theorem。
+
+具体可以看我专栏的这个例子 三角形移除定理 (Triangle Removal Lemma)
+
+Games on Graphs (图上的游戏)
+在Graph上有一些非常热门的游戏。比如cops and robbers，chips firing，lights out game等等。图上的游戏一般都非常algebraic，常常和representation theory和algebraic geometry结合起来。Cops and Robbers大家可能都玩过桌游。这里面有一些open很多年的猜想，我之前在回答中提过。Yifan：有哪些有趣，脑洞大开的学术论文？ 不过那时只是觉得好玩，最近和同事写了一篇关于这个的paper，当真的思考这个问题时，才觉得真tm难。图上的“分卡片”游戏，对应的就是代数几何中的Jacobian group，也是热带几何中的内容。我老板最近才写了一篇这个主题的paper。图上的“关灯”游戏，我们以前也在诺基亚上玩过。我之前也提过。Yifan：大家有没有小时候的一些猜想结果有的科学家和你想的一样，而且去证实？或者谈谈你们小时候的猜想！？ 因为目前的研究是任意群作用在任意图上，常常和表示论结合到一起。
+
+这些游戏都很有趣，之后有机会每个游戏我都想做点有趣的结果。。
+
+其他和Applied Science结合的方面
+这方面不是很了解，欢迎补充。
+
+
+
+
+
+图论有哪些方向分支？ - 覃含章的回答 - 知乎
+https://www.zhihu.com/question/268021092/answer/343023305
+
+
+
+
+
+
+
+
+
+
+
+
+
+

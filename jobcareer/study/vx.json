@@ -1,0 +1,40 @@
+{
+    "created_time": "2022-12-31T10:17:58Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:17:58Z",
+            "id": "20322",
+            "modified_time": "2022-12-31T10:17:58Z",
+            "name": "AI_class_index.md",
+            "signature": "127802719341654",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:17:58Z",
+            "id": "20323",
+            "modified_time": "2022-12-31T10:17:58Z",
+            "name": "AI_summary总结.md",
+            "signature": "114385241508950",
+            "tags": [
+            ]
+        }
+    ],
+    "folders": [
+        {
+            "name": "研究生事宜包括竞赛"
+        },
+        {
+            "name": "研究生竞赛"
+        },
+        {
+            "name": "研究生课程"
+        }
+    ],
+    "id": "20321",
+    "modified_time": "2022-12-31T10:17:58Z",
+    "signature": "76825752505430",
+    "version": 3
+}

@@ -1,0 +1,54 @@
+# 1. 自建gitlab
+
+
+
+
+
+
+
+https://www.linuxidc.com/Linux/2017-04/142665.htm 搭建属于自己的GitLab
+
+
+
+GIT windows 搭建服务端的方法？ - WSWS的回答 - 知乎 https://www.zhihu.com/question/28640248/answer/268996196
+
+
+
+ [自建基于Docker的GitLab](https://www.cnblogs.com/csyszf/p/gitlab-on-docker.html)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

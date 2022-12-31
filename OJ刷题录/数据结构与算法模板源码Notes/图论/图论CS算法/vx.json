@@ -1,0 +1,72 @@
+{
+    "created_time": "2022-12-31T10:18:00Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:00Z",
+            "id": "20949",
+            "modified_time": "2022-12-31T10:18:00Z",
+            "name": "leetCode. 图论题集.md",
+            "signature": "49372321549400",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:00Z",
+            "id": "20952",
+            "modified_time": "2022-12-31T10:18:00Z",
+            "name": "图论.md",
+            "signature": "124091867597912",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:00Z",
+            "id": "20965",
+            "modified_time": "2022-12-31T10:18:00Z",
+            "name": "纯numpy的深度优先搜索+强联通分量+拓扑排序算法.md",
+            "signature": "115385968888920",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:00Z",
+            "id": "20966",
+            "modified_time": "2022-12-31T10:18:00Z",
+            "name": "网路流.md",
+            "signature": "72298856975448",
+            "tags": [
+            ]
+        }
+    ],
+    "folders": [
+        {
+            "name": "二叉判别图"
+        },
+        {
+            "name": "拓扑排序"
+        },
+        {
+            "name": "最大匹配"
+        },
+        {
+            "name": "最大流"
+        },
+        {
+            "name": "最小生成树"
+        },
+        {
+            "name": "最短路径搜索"
+        },
+        {
+            "name": "最近祖先"
+        }
+    ],
+    "id": "20948",
+    "modified_time": "2022-12-31T10:18:00Z",
+    "signature": "12641761234008",
+    "version": 3
+}

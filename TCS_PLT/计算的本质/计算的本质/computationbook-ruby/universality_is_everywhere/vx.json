@@ -1,0 +1,86 @@
+{
+    "created_time": "2022-12-31T10:18:02Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:03Z",
+            "id": "21687",
+            "modified_time": "2022-12-31T10:18:03Z",
+            "name": "cyclic_tag_systems.rb",
+            "signature": "38390090173531",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:03Z",
+            "id": "21692",
+            "modified_time": "2022-12-31T10:18:03Z",
+            "name": "iota.rb",
+            "signature": "66346032303195",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:03Z",
+            "id": "21693",
+            "modified_time": "2022-12-31T10:18:03Z",
+            "name": "irb.txt",
+            "signature": "22515891047515",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:03Z",
+            "id": "21696",
+            "modified_time": "2022-12-31T10:18:03Z",
+            "name": "partial_recursive_functions.rb",
+            "signature": "110085979245659",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:03Z",
+            "id": "21704",
+            "modified_time": "2022-12-31T10:18:03Z",
+            "name": "ski_calculus.rb",
+            "signature": "91493065821275",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:03Z",
+            "id": "21709",
+            "modified_time": "2022-12-31T10:18:03Z",
+            "name": "tag_systems.rb",
+            "signature": "135065509039195",
+            "tags": [
+            ]
+        }
+    ],
+    "folders": [
+        {
+            "name": "cyclic_tag_systems"
+        },
+        {
+            "name": "iota"
+        },
+        {
+            "name": "partial_recursive_functions"
+        },
+        {
+            "name": "ski_calculus"
+        },
+        {
+            "name": "tag_systems"
+        }
+    ],
+    "id": "21679",
+    "modified_time": "2022-12-31T10:18:02Z",
+    "signature": "114681594252378",
+    "version": 3
+}

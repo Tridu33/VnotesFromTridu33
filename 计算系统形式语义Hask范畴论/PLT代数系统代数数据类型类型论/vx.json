@@ -1,0 +1,255 @@
+{
+    "created_time": "2022-12-31T10:18:14Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:14Z",
+            "id": "24814",
+            "modified_time": "2022-12-31T10:18:14Z",
+            "name": "AGI逻辑导论.md",
+            "signature": "37071535213670",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:14Z",
+            "id": "24817",
+            "modified_time": "2022-12-31T10:18:14Z",
+            "name": "Mathematics in type theory..md",
+            "signature": "18736319827046",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:14Z",
+            "id": "24818",
+            "modified_time": "2022-12-31T10:18:14Z",
+            "name": "Natural Number Game.md",
+            "signature": "2419739069542",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:14Z",
+            "id": "24819",
+            "modified_time": "2022-12-31T10:18:14Z",
+            "name": "sympy类型理论.md",
+            "signature": "35984908487782",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:14Z",
+            "id": "24823",
+            "modified_time": "2022-12-31T10:18:14Z",
+            "name": "The Little Typer-Dependent Type的书.md",
+            "signature": "108728769580134",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:14Z",
+            "id": "24826",
+            "modified_time": "2022-12-31T10:18:14Z",
+            "name": "typesystems讲义.pdf",
+            "signature": "49483990699110",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:14Z",
+            "id": "24827",
+            "modified_time": "2022-12-31T10:18:14Z",
+            "name": "从设计模式的角度浏览Typeclassopedia.md",
+            "signature": "129271598156902",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:14Z",
+            "id": "24839",
+            "modified_time": "2022-12-31T10:18:14Z",
+            "name": "代数数据类型的语法和语义.md",
+            "signature": "127562201173094",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:14Z",
+            "id": "24840",
+            "modified_time": "2022-12-31T10:18:14Z",
+            "name": "你好类型系列.md",
+            "signature": "104085909933158",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:14Z",
+            "id": "24841",
+            "modified_time": "2022-12-31T10:18:14Z",
+            "name": "依存类型理论.md",
+            "signature": "109978605063270",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:14Z",
+            "id": "24842",
+            "modified_time": "2022-12-31T10:18:14Z",
+            "name": "入门视频.md",
+            "signature": "45871923203174",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:14Z",
+            "id": "24843",
+            "modified_time": "2022-12-31T10:18:14Z",
+            "name": "动态类型推断和类型系统学习.md",
+            "signature": "42049402309734",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:14Z",
+            "id": "24844",
+            "modified_time": "2022-12-31T10:18:14Z",
+            "name": "千里冰封写的类型论入门指南.md",
+            "signature": "29735731072102",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:14Z",
+            "id": "24845",
+            "modified_time": "2022-12-31T10:18:14Z",
+            "name": "柯里化的前生今世（十）：类型和类型系统.md",
+            "signature": "74729808464998",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:14Z",
+            "id": "24846",
+            "modified_time": "2022-12-31T10:18:14Z",
+            "name": "现代类型论语义.md",
+            "signature": "35082965355622",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:14Z",
+            "id": "24849",
+            "modified_time": "2022-12-31T10:18:14Z",
+            "name": "程序语言中的类型系统.md",
+            "signature": "109330065001574",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:14Z",
+            "id": "24850",
+            "modified_time": "2022-12-31T10:18:14Z",
+            "name": "类别理论在TCS中的扎实应用.md",
+            "signature": "32402905762918",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:14Z",
+            "id": "24851",
+            "modified_time": "2022-12-31T10:18:14Z",
+            "name": "类型系统.md",
+            "signature": "10498572553318",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:14Z",
+            "id": "24852",
+            "modified_time": "2022-12-31T10:18:14Z",
+            "name": "类型系统讲义.md",
+            "signature": "131891528207462",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:14Z",
+            "id": "24853",
+            "modified_time": "2022-12-31T10:18:14Z",
+            "name": "类型验证.md",
+            "signature": "89336992238694",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:14Z",
+            "id": "24871",
+            "modified_time": "2022-12-31T10:18:14Z",
+            "name": "驿站写作.md",
+            "signature": "62471971802214",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:14Z",
+            "id": "24872",
+            "modified_time": "2022-12-31T10:18:14Z",
+            "name": "！CS人工智能数学哲学.md",
+            "signature": "23795791301734",
+            "tags": [
+            ]
+        }
+    ],
+    "folders": [
+        {
+            "name": "ADT抽象代数类型type"
+        },
+        {
+            "name": "co-logic编程"
+        },
+        {
+            "name": "SystemF-HM-Hindley-miler类型系统"
+        },
+        {
+            "name": "Types and Programming Languages类型和程序语言"
+        },
+        {
+            "name": "代数数据类型与领域建模"
+        },
+        {
+            "name": "程序语言中的类型系统"
+        },
+        {
+            "name": "组合子逻辑"
+        },
+        {
+            "name": "计算机代数系统_数学机械自动化推理历史方向现况与展望"
+        }
+    ],
+    "id": "24807",
+    "modified_time": "2022-12-31T10:18:14Z",
+    "signature": "137139978243174",
+    "version": 3
+}

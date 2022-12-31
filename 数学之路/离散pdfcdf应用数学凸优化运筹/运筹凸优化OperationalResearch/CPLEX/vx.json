@@ -1,0 +1,31 @@
+{
+    "created_time": "2022-12-31T10:18:05Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:05Z",
+            "id": "22479",
+            "modified_time": "2022-12-31T10:18:05Z",
+            "name": "CPLEX.md",
+            "signature": "111340109696093",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:05Z",
+            "id": "22480",
+            "modified_time": "2022-12-31T10:18:05Z",
+            "name": "soplex.md",
+            "signature": "122403945450589",
+            "tags": [
+            ]
+        }
+    ],
+    "folders": [
+    ],
+    "id": "22478",
+    "modified_time": "2022-12-31T10:18:05Z",
+    "signature": "23984769862749",
+    "version": 3
+}

@@ -1,0 +1,71 @@
+{
+    "created_time": "2022-12-31T10:18:03Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:03Z",
+            "id": "21787",
+            "modified_time": "2022-12-31T10:18:03Z",
+            "name": "dtm.rs",
+            "signature": "14948158671963",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:03Z",
+            "id": "21788",
+            "modified_time": "2022-12-31T10:18:03Z",
+            "name": "dtm_rulebook.rs",
+            "signature": "51854812646491",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:03Z",
+            "id": "21789",
+            "modified_time": "2022-12-31T10:18:03Z",
+            "name": "mod.rs",
+            "signature": "46288535030875",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:03Z",
+            "id": "21790",
+            "modified_time": "2022-12-31T10:18:03Z",
+            "name": "tape.rs",
+            "signature": "3377516776539",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:03Z",
+            "id": "21791",
+            "modified_time": "2022-12-31T10:18:03Z",
+            "name": "tm_configuration.rs",
+            "signature": "35997793389659",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:03Z",
+            "id": "21792",
+            "modified_time": "2022-12-31T10:18:03Z",
+            "name": "tm_rule.rs",
+            "signature": "136517207985243",
+            "tags": [
+            ]
+        }
+    ],
+    "folders": [
+    ],
+    "id": "21786",
+    "modified_time": "2022-12-31T10:18:03Z",
+    "signature": "87503041203291",
+    "version": 3
+}

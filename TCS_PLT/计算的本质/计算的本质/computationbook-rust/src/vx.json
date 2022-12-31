@@ -1,0 +1,52 @@
+{
+    "created_time": "2022-12-31T10:18:03Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:03Z",
+            "id": "21716",
+            "modified_time": "2022-12-31T10:18:03Z",
+            "name": "helper.rs",
+            "signature": "55166232431707",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:03Z",
+            "id": "21729",
+            "modified_time": "2022-12-31T10:18:03Z",
+            "name": "lib.rs",
+            "signature": "20866623605851",
+            "tags": [
+            ]
+        }
+    ],
+    "folders": [
+        {
+            "name": "just_add_power"
+        },
+        {
+            "name": "programming_in_toyland"
+        },
+        {
+            "name": "programming_with_nothing"
+        },
+        {
+            "name": "the_meaning_of_programs"
+        },
+        {
+            "name": "the_simplest_computers"
+        },
+        {
+            "name": "the_ultimate_machine"
+        },
+        {
+            "name": "universality_is_everywhere"
+        }
+    ],
+    "id": "21715",
+    "modified_time": "2022-12-31T10:18:03Z",
+    "signature": "101264116419675",
+    "version": 3
+}

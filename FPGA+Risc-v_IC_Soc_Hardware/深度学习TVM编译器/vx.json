@@ -1,0 +1,97 @@
+{
+    "created_time": "2022-12-31T10:17:57Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:17:57Z",
+            "id": "20239",
+            "modified_time": "2022-12-31T10:17:57Z",
+            "name": "CIRCT.md",
+            "signature": "84874521218133",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:17:57Z",
+            "id": "20240",
+            "modified_time": "2022-12-31T10:17:57Z",
+            "name": "GPU通用计算调研报告.md",
+            "signature": "28060693826645",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:17:57Z",
+            "id": "20244",
+            "modified_time": "2022-12-31T10:17:57Z",
+            "name": "PDLL - PDL 语言.md",
+            "signature": "43561230797909",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:17:57Z",
+            "id": "20245",
+            "modified_time": "2022-12-31T10:17:57Z",
+            "name": "PLCT编译器设计讨论班.md",
+            "signature": "80927446273109",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:17:57Z",
+            "id": "20246",
+            "modified_time": "2022-12-31T10:17:57Z",
+            "name": "TVM.md",
+            "signature": "74132808010837",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:17:57Z",
+            "id": "20247",
+            "modified_time": "2022-12-31T10:17:57Z",
+            "name": "深度学习编译器.md",
+            "signature": "95182442728533",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:17:57Z",
+            "id": "20248",
+            "modified_time": "2022-12-31T10:17:57Z",
+            "name": "深度学习编译器科普文.md",
+            "signature": "135808538381397",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:17:57Z",
+            "id": "20249",
+            "modified_time": "2022-12-31T10:17:57Z",
+            "name": "特定的DL IR.md",
+            "signature": "18654715448405",
+            "tags": [
+            ]
+        }
+    ],
+    "folders": [
+        {
+            "name": "LLVM-MLIR"
+        },
+        {
+            "name": "编译器领域的多面体模型（Polyhderal Model）"
+        }
+    ],
+    "id": "20238",
+    "modified_time": "2022-12-31T10:17:57Z",
+    "signature": "76056953359445",
+    "version": 3
+}

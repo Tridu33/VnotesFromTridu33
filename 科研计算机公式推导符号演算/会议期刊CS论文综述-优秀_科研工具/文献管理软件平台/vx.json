@@ -1,0 +1,54 @@
+{
+    "created_time": "2022-12-31T10:18:10Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:10Z",
+            "id": "23710",
+            "modified_time": "2022-12-31T10:18:10Z",
+            "name": "Citavi.md",
+            "signature": "133935932640354",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:10Z",
+            "id": "23711",
+            "modified_time": "2022-12-31T10:18:10Z",
+            "name": "Mendeley.md",
+            "signature": "134936660020322",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:10Z",
+            "id": "23712",
+            "modified_time": "2022-12-31T10:18:10Z",
+            "name": "mendeley整个文献库（几千个条目，包括论文和书籍）移到新的电脑.md",
+            "signature": "12731955547234",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:10Z",
+            "id": "23719",
+            "modified_time": "2022-12-31T10:18:10Z",
+            "name": "会议系统smartchair.md",
+            "signature": "10782040394850",
+            "tags": [
+            ]
+        }
+    ],
+    "folders": [
+        {
+            "name": "zotero生态"
+        }
+    ],
+    "id": "23709",
+    "modified_time": "2022-12-31T10:18:10Z",
+    "signature": "2011717176418",
+    "version": 3
+}

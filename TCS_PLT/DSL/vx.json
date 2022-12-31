@@ -1,0 +1,77 @@
+{
+    "created_time": "2022-12-31T10:18:01Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:01Z",
+            "id": "21379",
+            "modified_time": "2022-12-31T10:18:01Z",
+            "name": " DSLs and Code Generation.md",
+            "signature": "66912967986265",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:01Z",
+            "id": "21383",
+            "modified_time": "2022-12-31T10:18:01Z",
+            "name": "Domain Specific Languages in R.md",
+            "signature": "134489983421529",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:01Z",
+            "id": "21384",
+            "modified_time": "2022-12-31T10:18:01Z",
+            "name": "DSLs and Code Generation.md",
+            "signature": "44592022948953",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:01Z",
+            "id": "21385",
+            "modified_time": "2022-12-31T10:18:01Z",
+            "name": "DSL《领域特定语言》.md",
+            "signature": "26372771679321",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:01Z",
+            "id": "21387",
+            "modified_time": "2022-12-31T10:18:01Z",
+            "name": "使用Xtext进行DSL开发.md",
+            "signature": "122356700810329",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:01Z",
+            "id": "21388",
+            "modified_time": "2022-12-31T10:18:01Z",
+            "name": "杂谈-DomainSpecificLanbuage领域专用语言DSL.md",
+            "signature": "65796276489305",
+            "tags": [
+            ]
+        }
+    ],
+    "folders": [
+        {
+            "name": "DDD领域驱动设计"
+        },
+        {
+            "name": "JetBrains MPS_"
+        }
+    ],
+    "id": "21378",
+    "modified_time": "2022-12-31T10:18:01Z",
+    "signature": "62197093895257",
+    "version": 3
+}

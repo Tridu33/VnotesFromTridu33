@@ -1,0 +1,109 @@
+{
+    "created_time": "2022-12-31T10:18:02Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:02Z",
+            "id": "21578",
+            "modified_time": "2022-12-31T10:18:02Z",
+            "name": ".rspec",
+            "signature": "133424831532122",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:02Z",
+            "id": "21591",
+            "modified_time": "2022-12-31T10:18:02Z",
+            "name": "big_step.rb",
+            "signature": "5181403040858",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:02Z",
+            "id": "21604",
+            "modified_time": "2022-12-31T10:18:02Z",
+            "name": "denotational.rb",
+            "signature": "56175549746266",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:02Z",
+            "id": "21605",
+            "modified_time": "2022-12-31T10:18:02Z",
+            "name": "irb.txt",
+            "signature": "120209217162330",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:02Z",
+            "id": "21608",
+            "modified_time": "2022-12-31T10:18:02Z",
+            "name": "parser.rb",
+            "signature": "135709754133594",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:02Z",
+            "id": "21609",
+            "modified_time": "2022-12-31T10:18:02Z",
+            "name": "README.md",
+            "signature": "95337061551194",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:02Z",
+            "id": "21625",
+            "modified_time": "2022-12-31T10:18:02Z",
+            "name": "small_step.rb",
+            "signature": "102879024122970",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:02Z",
+            "id": "21645",
+            "modified_time": "2022-12-31T10:18:02Z",
+            "name": "syntax.rb",
+            "signature": "12388358163546",
+            "tags": [
+            ]
+        }
+    ],
+    "folders": [
+        {
+            "name": "big_step"
+        },
+        {
+            "name": "denotational"
+        },
+        {
+            "name": "parser"
+        },
+        {
+            "name": "small_step"
+        },
+        {
+            "name": "spec"
+        },
+        {
+            "name": "syntax"
+        }
+    ],
+    "id": "21577",
+    "modified_time": "2022-12-31T10:18:02Z",
+    "signature": "132913730423898",
+    "version": 3
+}

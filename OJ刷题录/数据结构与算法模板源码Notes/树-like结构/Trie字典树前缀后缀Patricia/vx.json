@@ -1,0 +1,41 @@
+{
+    "created_time": "2022-12-31T10:18:00Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:00Z",
+            "id": "21011",
+            "modified_time": "2022-12-31T10:18:00Z",
+            "name": "Patricia树.md",
+            "signature": "93223937641560",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:00Z",
+            "id": "21012",
+            "modified_time": "2022-12-31T10:18:00Z",
+            "name": "trie树.md",
+            "signature": "105288500776024",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:00Z",
+            "id": "21013",
+            "modified_time": "2022-12-31T10:18:00Z",
+            "name": "后缀树.md",
+            "signature": "84977600433240",
+            "tags": [
+            ]
+        }
+    ],
+    "folders": [
+    ],
+    "id": "21010",
+    "modified_time": "2022-12-31T10:18:00Z",
+    "signature": "21257465629784",
+    "version": 3
+}

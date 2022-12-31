@@ -1,0 +1,54 @@
+{
+    "created_time": "2022-12-31T10:18:02Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:02Z",
+            "id": "21466",
+            "modified_time": "2022-12-31T10:18:02Z",
+            "name": ".gitignore",
+            "signature": "4970949643354",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:02Z",
+            "id": "21467",
+            "modified_time": "2022-12-31T10:18:02Z",
+            "name": "nixzhu-computation- Understanding Computation- From Simple Machines to Impossible Programs.url",
+            "signature": "135301732240474",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:02Z",
+            "id": "21468",
+            "modified_time": "2022-12-31T10:18:02Z",
+            "name": "Package.swift",
+            "signature": "32926891773018",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:02Z",
+            "id": "21469",
+            "modified_time": "2022-12-31T10:18:02Z",
+            "name": "README.md",
+            "signature": "39837494152282",
+            "tags": [
+            ]
+        }
+    ],
+    "folders": [
+        {
+            "name": "Sources"
+        }
+    ],
+    "id": "21465",
+    "modified_time": "2022-12-31T10:18:02Z",
+    "signature": "135314617142362",
+    "version": 3
+}

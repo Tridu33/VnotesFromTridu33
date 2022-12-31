@@ -1,0 +1,62 @@
+{
+    "created_time": "2022-12-31T10:18:00Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:00Z",
+            "id": "21009",
+            "modified_time": "2022-12-31T10:18:00Z",
+            "name": "FP树.md",
+            "signature": "62613705722968",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:00Z",
+            "id": "21021",
+            "modified_time": "2022-12-31T10:18:00Z",
+            "name": "关于rbt、avl、btree争论的一些总结.md",
+            "signature": "43389432106072",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:00Z",
+            "id": "21022",
+            "modified_time": "2022-12-31T10:18:00Z",
+            "name": "手指树.md",
+            "signature": "61359575272536",
+            "tags": [
+            ]
+        }
+    ],
+    "folders": [
+        {
+            "name": "B+-树"
+        },
+        {
+            "name": "BDD和基数树"
+        },
+        {
+            "name": "Trie字典树前缀后缀Patricia"
+        },
+        {
+            "name": "Union-Find算法并查集"
+        },
+        {
+            "name": "二叉树二叉搜索树平衡"
+        },
+        {
+            "name": "红黑树"
+        },
+        {
+            "name": "线段树"
+        }
+    ],
+    "id": "21004",
+    "modified_time": "2022-12-31T10:18:00Z",
+    "signature": "111155426102360",
+    "version": 3
+}

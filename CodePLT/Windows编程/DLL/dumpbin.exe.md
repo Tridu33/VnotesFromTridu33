@@ -1,0 +1,40 @@
+# 1. dumpbin.exe
+
+
+
+
+
+https://docs.microsoft.com/en-us/cpp/build/reference/dumpbin-options?view=msvc-160&viewFallbackFrom=vs-2017
+
+DUMBPIN需要【选项】和【文件】两个参数，这在帮助信息里已经显示 了。
+
+下面介绍一下常用的选项
+
+说明：直接输出到控制台可能不方便查看内容，我们可以输出到文件进行查看
+
+如： DUMPBIN /ALL "C:\Windows\System32\uxtheme.dll">D:\uxtheme.txt
+
+/ALL   显示除代码反汇编外的所有可用信息。
+
+/ALL /DISASM 显示包括代码反汇编的所有可用信息
+
+/EXPORTS 导出的所有定义。(这里的定义应该就是指的函数名吧)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,72 @@
+vnote_backup_file_826537664 D:/tridu33/Nutstore/VnotesFromTridu33/CodePLT/Windows编程/visual studio/visual studio.md
+
+
+
+
+两大类的区别主要是定义的宏不一样，win32 项目和mfc的为WINDOWS，win32控制台的为CONSOLE，所以：在预处理中把_WINDOWS换成_CONSOLE就行了 。  project  settings  ->  Link  :将/SUBSYSTEM:WINDOWS开关改为/SUBSYSTEM:CONSOLE  。另外， 可将  Win32控制台程序  当成  在Win32项目  使用，反之亦然。/subsystem:windows或/subsystem:console删除,由编译器自己决定也可以
+
+# 1. visual studio 2019
+
+
+Visual Studio 2017 C/C++使用教程2 https://www.bilibili.com/video/BV1zs411u7vp 
+
+1. Help Viewer安装
+2. 解决方案与项目的关系
+3. Visual Studio解决方案目录结构
+4. Win32控制台与Win32项目区别
+5. 如何让程序在小伙伴机器上运行
+6. 程序调试
+
+大多数想单纯创建c++工程的新同学，打开vs后很可能不知道选择创建什么工程，这时候请相信我，空项目是你最好的选择。因为空工程不包含任何的源代码文件，接下来你只需要在相应的源代码文件夹和头文件文件夹加入相应的.cpp和.h文件即可。 https://blog.csdn.net/sl850216662/article/details/78642802 windows提供**win32 api**以供程序员完成各种操作，所以控制台，win32，mfc都可直接调用win32 api。但直接使用win32 api，用代码完成诸如创建窗口，显示窗口等操作太过繁杂，于是我们把这些代码结合抽取出来，变成OOP中的类，也就是**微软基础类库（MFC）**
+
+- 第一类包括win32控制台应用程序
+
+没有界面，只有命令符。生成的“.exe”文件直接运行操作即可
+
+Win32控制台程序：初始代码模版以main为程序入口，默认情况下，只链接C++运行时库和一些核心的win32库，链接器subsystem参数为console类型，所以编译出来的程序会有黑色的控制台窗口作为呈现标准输入（stdin）和标准输出（stdout）。
+
+
+
+
+
+- 第二类win32项目、mfc项目
+
+win32项目包含mfc
+
+
+
+Win32项目，有界面。但是界面里面的控件，基本上要自己去实现。
+Win32项目：初始代码模版实现一个简单的windows窗口，以WinMain作为程序入口，引用了win32Api头文件和库，链接器subsystem参数为windows，所以生成的程序不带黑色的控制台，直接使用标准输入和标准输出，看不到效果。
+
+
+MFC应用程序，也有界面，但界面里的控件不需要自己去实现了，常用的控件都已经在MFC库内写好，直接拖动即可。
+
+Win32项目的界面比较符合UI界面设计；而MFC应用程序的界面基本都是一样的，因为它们都是用同一套控件模板。
+
+MFC应用程序：本质上是个win32工程，只是默认帮你引用了mfc框架的头文件和库，并且程序入口由mfc框架提供，不需要自己写
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,48 @@
+{
+    "created_time": "2022-12-31T10:17:56Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:17:56Z",
+            "id": "19914",
+            "modified_time": "2022-12-31T10:17:56Z",
+            "name": "cpp交叉编译python判断自身运行环境windows.md",
+            "signature": "55557074455636",
+            "tags": [
+            ]
+        }
+    ],
+    "folders": [
+        {
+            "name": "CygWin"
+        },
+        {
+            "name": "Docker"
+        },
+        {
+            "name": "Linux"
+        },
+        {
+            "name": "QEMU"
+        },
+        {
+            "name": "unix-windows_bugs"
+        },
+        {
+            "name": "UNIX环境高级编程（APUE）"
+        },
+        {
+            "name": "Vagrant"
+        },
+        {
+            "name": "WSL_Ubuntu18"
+        },
+        {
+            "name": "《Unix-Linux编程实践教程》"
+        }
+    ],
+    "id": "19913",
+    "modified_time": "2022-12-31T10:17:56Z",
+    "signature": "116386696268884",
+    "version": 3
+}

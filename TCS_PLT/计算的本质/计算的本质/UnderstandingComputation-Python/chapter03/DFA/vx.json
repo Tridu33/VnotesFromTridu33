@@ -1,0 +1,54 @@
+{
+    "created_time": "2022-12-31T10:18:03Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:03Z",
+            "id": "21919",
+            "modified_time": "2022-12-31T10:18:03Z",
+            "name": "DFA.py",
+            "signature": "126389675101275",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:03Z",
+            "id": "21920",
+            "modified_time": "2022-12-31T10:18:03Z",
+            "name": "DFADesign.py",
+            "signature": "44295670205531",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:03Z",
+            "id": "21921",
+            "modified_time": "2022-12-31T10:18:03Z",
+            "name": "DFARulebook.py",
+            "signature": "32312711449691",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:03Z",
+            "id": "21922",
+            "modified_time": "2022-12-31T10:18:03Z",
+            "name": "FARule.py",
+            "signature": "139034058820699",
+            "tags": [
+            ]
+        }
+    ],
+    "folders": [
+        {
+            "name": "__pycache__"
+        }
+    ],
+    "id": "21913",
+    "modified_time": "2022-12-31T10:18:03Z",
+    "signature": "2814876060763",
+    "version": 3
+}

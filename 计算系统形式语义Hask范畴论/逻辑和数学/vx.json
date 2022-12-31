@@ -1,0 +1,240 @@
+{
+    "created_time": "2022-12-31T10:18:14Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:14Z",
+            "id": "24957",
+            "modified_time": "2022-12-31T10:18:14Z",
+            "name": "Haskell写推理程序.md",
+            "signature": "93314131954790",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:14Z",
+            "id": "24958",
+            "modified_time": "2022-12-31T10:18:14Z",
+            "name": "resolution(消解，归结）.md",
+            "signature": "73080541023334",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:14Z",
+            "id": "24959",
+            "modified_time": "2022-12-31T10:18:14Z",
+            "name": "一阶逻辑谓词证明.md",
+            "signature": "98326358789222",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:14Z",
+            "id": "24960",
+            "modified_time": "2022-12-31T10:18:14Z",
+            "name": "三值逻辑.md",
+            "signature": "82993325542502",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:14Z",
+            "id": "24961",
+            "modified_time": "2022-12-31T10:18:14Z",
+            "name": "主析取范式和主合取范式的c++求解程序.md",
+            "signature": "15330410761318",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:14Z",
+            "id": "24962",
+            "modified_time": "2022-12-31T10:18:14Z",
+            "name": "关系逻辑.md",
+            "signature": "4829215722598",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:14Z",
+            "id": "24963",
+            "modified_time": "2022-12-31T10:18:14Z",
+            "name": "几种模态时序逻辑对比.md",
+            "signature": "18117844536422",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:14Z",
+            "id": "24964",
+            "modified_time": "2022-12-31T10:18:14Z",
+            "name": "几种模态时序逻辑对比（CTL-LTL-mu演算）.md",
+            "signature": "108960697814118",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:14Z",
+            "id": "24965",
+            "modified_time": "2022-12-31T10:18:14Z",
+            "name": "数理逻辑.md",
+            "signature": "130877915925606",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:14Z",
+            "id": "24966",
+            "modified_time": "2022-12-31T10:18:14Z",
+            "name": "数理逻辑基础(希尔伯特，阿克曼).pdf.md",
+            "signature": "7174267866214",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:14Z",
+            "id": "24967",
+            "modified_time": "2022-12-31T10:18:14Z",
+            "name": "斯坦福逻辑课程主页.md",
+            "signature": "116657279208550",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:14Z",
+            "id": "24970",
+            "modified_time": "2022-12-31T10:18:14Z",
+            "name": "简介_逻辑代数、布尔代数、命题逻辑、数理逻辑.md",
+            "signature": "97621984152678",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:14Z",
+            "id": "24971",
+            "modified_time": "2022-12-31T10:18:14Z",
+            "name": "紧致性定理.md",
+            "signature": "6418353622118",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:14Z",
+            "id": "24972",
+            "modified_time": "2022-12-31T10:18:14Z",
+            "name": "计算机科学的基石 逻辑学 数学.md",
+            "signature": "103239801375846",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:14Z",
+            "id": "24973",
+            "modified_time": "2022-12-31T10:18:14Z",
+            "name": "计算树逻辑模型.md",
+            "signature": "103918406208614",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:14Z",
+            "id": "24974",
+            "modified_time": "2022-12-31T10:18:14Z",
+            "name": "计算逻辑演化复杂度.md",
+            "signature": "16451397225574",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:14Z",
+            "id": "24976",
+            "modified_time": "2022-12-31T10:18:14Z",
+            "name": "豆瓣逻辑小站.md",
+            "signature": "22764999150694",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:14Z",
+            "id": "24977",
+            "modified_time": "2022-12-31T10:18:14Z",
+            "name": "逻辑代数、布尔代数、命题逻辑、数理逻辑.md",
+            "signature": "7307411852390",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:14Z",
+            "id": "24978",
+            "modified_time": "2022-12-31T10:18:14Z",
+            "name": "逻辑国外教程.md",
+            "signature": "46361549474918",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:14Z",
+            "id": "24979",
+            "modified_time": "2022-12-31T10:18:14Z",
+            "name": "逻辑工具.md",
+            "signature": "79720560462950",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:14Z",
+            "id": "24980",
+            "modified_time": "2022-12-31T10:18:14Z",
+            "name": "逻辑荐书math-CS-pho方向.md",
+            "signature": "57137622420582",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:14Z",
+            "id": "24981",
+            "modified_time": "2022-12-31T10:18:14Z",
+            "name": "逻辑部分概念梳理.md",
+            "signature": "64391822183526",
+            "tags": [
+            ]
+        }
+    ],
+    "folders": [
+        {
+            "name": "直觉主义构造注意"
+        },
+        {
+            "name": "证明论"
+        },
+        {
+            "name": "集合论"
+        }
+    ],
+    "id": "24956",
+    "modified_time": "2022-12-31T10:18:14Z",
+    "signature": "120020238601318",
+    "version": 3
+}

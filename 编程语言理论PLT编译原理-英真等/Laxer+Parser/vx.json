@@ -1,0 +1,203 @@
+{
+    "created_time": "2022-12-31T10:18:12Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:12Z",
+            "id": "24398",
+            "modified_time": "2022-12-31T10:18:12Z",
+            "name": "bison-yacc.md",
+            "signature": "99700748323940",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:12Z",
+            "id": "24399",
+            "modified_time": "2022-12-31T10:18:12Z",
+            "name": "bison.md",
+            "signature": "96084385860708",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:12Z",
+            "id": "24400",
+            "modified_time": "2022-12-31T10:18:12Z",
+            "name": "C++ 编写一个解释器.md",
+            "signature": "51481150491748",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:12Z",
+            "id": "24401",
+            "modified_time": "2022-12-31T10:18:12Z",
+            "name": "chibicc.md",
+            "signature": "62974482975844",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:12Z",
+            "id": "24402",
+            "modified_time": "2022-12-31T10:18:12Z",
+            "name": "C编写的PL - 0编程语言的完整编译器.md",
+            "signature": "65242225708132",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:12Z",
+            "id": "24403",
+            "modified_time": "2022-12-31T10:18:12Z",
+            "name": "flex ++和bisonc ++.md",
+            "signature": "23984769862756",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:12Z",
+            "id": "24404",
+            "modified_time": "2022-12-31T10:18:12Z",
+            "name": "flex.md",
+            "signature": "94087226068068",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:12Z",
+            "id": "24405",
+            "modified_time": "2022-12-31T10:18:12Z",
+            "name": "haskell-parser-generator.md",
+            "signature": "23271805291620",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:12Z",
+            "id": "24406",
+            "modified_time": "2022-12-31T10:18:12Z",
+            "name": "JavaCC.md",
+            "signature": "92867455356004",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:12Z",
+            "id": "24407",
+            "modified_time": "2022-12-31T10:18:12Z",
+            "name": "lexer-scanner解析器生成器扫描器.md",
+            "signature": "119053870959716",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:12Z",
+            "id": "24411",
+            "modified_time": "2022-12-31T10:18:12Z",
+            "name": "ParserToken.md",
+            "signature": "132969564998756",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:12Z",
+            "id": "24417",
+            "modified_time": "2022-12-31T10:18:12Z",
+            "name": "Tiny C Compiler（TCC）.md",
+            "signature": "91677749415012",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:12Z",
+            "id": "24418",
+            "modified_time": "2022-12-31T10:18:12Z",
+            "name": "写paser.md",
+            "signature": "112113203809380",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:12Z",
+            "id": "24419",
+            "modified_time": "2022-12-31T10:18:12Z",
+            "name": "浏览器里看各种解析器生成的 AST.md",
+            "signature": "74862952451172",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:12Z",
+            "id": "24420",
+            "modified_time": "2022-12-31T10:18:12Z",
+            "name": "王垠谈parser.md",
+            "signature": "128936590707812",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:12Z",
+            "id": "24421",
+            "modified_time": "2022-12-31T10:18:12Z",
+            "name": "用Haskell构建Parser Combinator.md",
+            "signature": "25878850440292",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:12Z",
+            "id": "24422",
+            "modified_time": "2022-12-31T10:18:12Z",
+            "name": "第一个C编译器.md",
+            "signature": "6590152313956",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:12Z",
+            "id": "24423",
+            "modified_time": "2022-12-31T10:18:12Z",
+            "name": "语法分析.md",
+            "signature": "25002677111908",
+            "tags": [
+            ]
+        }
+    ],
+    "folders": [
+        {
+            "name": "ANTLR4"
+        },
+        {
+            "name": "LL(k), SLR(k), LALR(k), LR(k)"
+        },
+        {
+            "name": "PEG.js-JSON"
+        },
+        {
+            "name": "PLY（Python Lex-Yacc）"
+        }
+    ],
+    "id": "24395",
+    "modified_time": "2022-12-31T10:18:12Z",
+    "signature": "29319119244388",
+    "version": 3
+}

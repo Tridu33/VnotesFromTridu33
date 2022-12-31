@@ -1,0 +1,55 @@
+{
+    "created_time": "2022-12-31T10:18:08Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:08Z",
+            "id": "23146",
+            "modified_time": "2022-12-31T10:18:08Z",
+            "name": "当代理论物理.md",
+            "signature": "28726413757536",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:08Z",
+            "id": "23161",
+            "modified_time": "2022-12-31T10:18:08Z",
+            "name": "物化生软件集合.md",
+            "signature": "15622468537440",
+            "tags": [
+            ]
+        }
+    ],
+    "folders": [
+        {
+            "name": "不自量力+电动力学"
+        },
+        {
+            "name": "傅里叶力学"
+        },
+        {
+            "name": "四大力学等基础"
+        },
+        {
+            "name": "场论"
+        },
+        {
+            "name": "广义相对论"
+        },
+        {
+            "name": "数学书博客论坛论文圈子"
+        },
+        {
+            "name": "理论物理学家修炼手册"
+        },
+        {
+            "name": "计算机物理"
+        }
+    ],
+    "id": "23105",
+    "modified_time": "2022-12-31T10:18:08Z",
+    "signature": "82684087897184",
+    "version": 3
+}

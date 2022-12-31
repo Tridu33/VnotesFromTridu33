@@ -1,0 +1,84 @@
+{
+    "created_time": "2022-12-31T10:18:14Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:14Z",
+            "id": "24832",
+            "modified_time": "2022-12-31T10:18:14Z",
+            "name": "《Domain-Driven Design –Tackling Complexity in the Heart of Software》（领域驱动设计—软件核心复杂性应对之道.md",
+            "signature": "88271840349286",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:14Z",
+            "id": "24833",
+            "modified_time": "2022-12-31T10:18:14Z",
+            "name": "《实现领域驱动设计》.md",
+            "signature": "115235645033574",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:14Z",
+            "id": "24834",
+            "modified_time": "2022-12-31T10:18:14Z",
+            "name": "《领域驱动设计15年》.md",
+            "signature": "87936832900198",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:14Z",
+            "id": "24835",
+            "modified_time": "2022-12-31T10:18:14Z",
+            "name": "代数类型大小和领域建模.md",
+            "signature": "89255387860070",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:14Z",
+            "id": "24836",
+            "modified_time": "2022-12-31T10:18:14Z",
+            "name": "关系模型与关系运算.md",
+            "signature": "16073440103526",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:14Z",
+            "id": "24837",
+            "modified_time": "2022-12-31T10:18:14Z",
+            "name": "函数范式与领域建模代数数据类型与领域建模.md",
+            "signature": "39163184286822",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:14Z",
+            "id": "24838",
+            "modified_time": "2022-12-31T10:18:14Z",
+            "name": "域模型（domain model）问题域模型（problem space model）.md",
+            "signature": "12457077640294",
+            "tags": [
+            ]
+        }
+    ],
+    "folders": [
+        {
+            "name": "HOTT同伦类型理论"
+        }
+    ],
+    "id": "24828",
+    "modified_time": "2022-12-31T10:18:14Z",
+    "signature": "84127196908646",
+    "version": 3
+}

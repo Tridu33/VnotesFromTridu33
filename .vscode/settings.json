@@ -1,0 +1,4 @@
+{
+    "makefile.extensionOutputFolder": "./.vscode",
+    "cmake.sourceDirectory": "${workspaceFolder}/ZeroStart/协程并发线程/code"
+}

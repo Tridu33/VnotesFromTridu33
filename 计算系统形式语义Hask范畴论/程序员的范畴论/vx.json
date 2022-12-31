@@ -1,0 +1,152 @@
+{
+    "created_time": "2022-12-31T10:18:14Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:14Z",
+            "id": "24922",
+            "modified_time": "2022-12-31T10:18:14Z",
+            "name": "intruduction of catagries 范畴学论文.md",
+            "signature": "64812728978534",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:14Z",
+            "id": "24925",
+            "modified_time": "2022-12-31T10:18:14Z",
+            "name": "sympy类型理论.md",
+            "signature": "26913937558630",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:14Z",
+            "id": "24926",
+            "modified_time": "2022-12-31T10:18:14Z",
+            "name": "伴随函子.md",
+            "signature": "104141744508006",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:14Z",
+            "id": "24927",
+            "modified_time": "2022-12-31T10:18:14Z",
+            "name": "写给程序员的范畴论.md",
+            "signature": "137925957258342",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:14Z",
+            "id": "24928",
+            "modified_time": "2022-12-31T10:18:14Z",
+            "name": "应用范畴学.md",
+            "signature": "117778265672806",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:14Z",
+            "id": "24929",
+            "modified_time": "2022-12-31T10:18:14Z",
+            "name": "程序员学范畴论.md",
+            "signature": "46151096077414",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:14Z",
+            "id": "24933",
+            "modified_time": "2022-12-31T10:18:14Z",
+            "name": "米田引理.md",
+            "signature": "100405122960486",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:14Z",
+            "id": "24934",
+            "modified_time": "2022-12-31T10:18:14Z",
+            "name": "范畴学.md",
+            "signature": "75245204540518",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:14Z",
+            "id": "24935",
+            "modified_time": "2022-12-31T10:18:14Z",
+            "name": "范畴学书籍笔记.md",
+            "signature": "103437369871462",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:14Z",
+            "id": "24936",
+            "modified_time": "2022-12-31T10:18:14Z",
+            "name": "范畴学的应用.md",
+            "signature": "68575120329830",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:14Z",
+            "id": "24937",
+            "modified_time": "2022-12-31T10:18:14Z",
+            "name": "范畴完全装逼指南.md",
+            "signature": "89358467075174",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:14Z",
+            "id": "24938",
+            "modified_time": "2022-12-31T10:18:14Z",
+            "name": "范畴论完全装逼指南.md",
+            "signature": "12001811106918",
+            "tags": [
+            ]
+        }
+    ],
+    "folders": [
+        {
+            "name": "bak"
+        },
+        {
+            "name": "Fibrations方法"
+        },
+        {
+            "name": "F代数fold-Eilenberg-Moore代数"
+        },
+        {
+            "name": "Hask范畴"
+        },
+        {
+            "name": "Monad之上的Kleisi范畴"
+        },
+        {
+            "name": "笛卡尔封闭范畴"
+        },
+        {
+            "name": "语言学背后的代数学"
+        }
+    ],
+    "id": "24913",
+    "modified_time": "2022-12-31T10:18:14Z",
+    "signature": "23585337904230",
+    "version": 3
+}

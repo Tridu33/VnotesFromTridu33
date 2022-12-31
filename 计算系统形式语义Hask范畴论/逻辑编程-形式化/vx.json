@@ -1,0 +1,392 @@
+{
+    "created_time": "2022-12-31T10:18:15Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:15Z",
+            "id": "24992",
+            "modified_time": "2022-12-31T10:18:15Z",
+            "name": "AGI逻辑导论.md",
+            "signature": "140348318813287",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:15Z",
+            "id": "25003",
+            "modified_time": "2022-12-31T10:18:15Z",
+            "name": "Haskell写推理程序.md",
+            "signature": "24543115611239",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:15Z",
+            "id": "25008",
+            "modified_time": "2022-12-31T10:18:15Z",
+            "name": "mathematical  models.md",
+            "signature": "56506262228071",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:15Z",
+            "id": "25011",
+            "modified_time": "2022-12-31T10:18:15Z",
+            "name": "neverendingbook无休止的书.md",
+            "signature": "138063396211815",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:15Z",
+            "id": "25030",
+            "modified_time": "2022-12-31T10:18:15Z",
+            "name": "resolution(消解，归结）.md",
+            "signature": "92055706537063",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:15Z",
+            "id": "25034",
+            "modified_time": "2022-12-31T10:18:15Z",
+            "name": "《互补性、概念格和塔尔斯基不动点定理》.md",
+            "signature": "138716231240807",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:15Z",
+            "id": "25035",
+            "modified_time": "2022-12-31T10:18:15Z",
+            "name": "一阶逻辑谓词证明.md",
+            "signature": "111709476883559",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:15Z",
+            "id": "25036",
+            "modified_time": "2022-12-31T10:18:15Z",
+            "name": "三值逻辑.md",
+            "signature": "38402975075431",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:15Z",
+            "id": "25037",
+            "modified_time": "2022-12-31T10:18:15Z",
+            "name": "主析取范式和主合取范式的c++求解程序.md",
+            "signature": "112662959623271",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:15Z",
+            "id": "25038",
+            "modified_time": "2022-12-31T10:18:15Z",
+            "name": "关系逻辑.md",
+            "signature": "112096023940199",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:15Z",
+            "id": "25039",
+            "modified_time": "2022-12-31T10:18:15Z",
+            "name": "几种模态时序逻辑对比.md",
+            "signature": "21038422297703",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:15Z",
+            "id": "25040",
+            "modified_time": "2022-12-31T10:18:15Z",
+            "name": "几种模态时序逻辑对比（CTL-LTL-mu演算）.md",
+            "signature": "47134643588199",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:15Z",
+            "id": "25049",
+            "modified_time": "2022-12-31T10:18:15Z",
+            "name": "数学观念计算机的建议.md",
+            "signature": "21330480073831",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:15Z",
+            "id": "25050",
+            "modified_time": "2022-12-31T10:18:15Z",
+            "name": "数理逻辑.md",
+            "signature": "17044102712423",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:15Z",
+            "id": "25051",
+            "modified_time": "2022-12-31T10:18:15Z",
+            "name": "数理逻辑中集合论、模型论、证明论、可计算性理论.md",
+            "signature": "68407616605287",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:15Z",
+            "id": "25052",
+            "modified_time": "2022-12-31T10:18:15Z",
+            "name": "数理逻辑基础(希尔伯特，阿克曼).pdf.md",
+            "signature": "8995333999719",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:15Z",
+            "id": "25053",
+            "modified_time": "2022-12-31T10:18:15Z",
+            "name": "斯坦福逻辑课程主页.md",
+            "signature": "46597772676199",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:15Z",
+            "id": "25054",
+            "modified_time": "2022-12-31T10:18:15Z",
+            "name": "浅析逻辑代数、命题逻辑、一阶逻辑、高阶逻辑和数理逻辑.md",
+            "signature": "136564452625511",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:15Z",
+            "id": "25057",
+            "modified_time": "2022-12-31T10:18:15Z",
+            "name": "矩阵运算库blas, cblas, openblas, atlas, lapack, mkl.md",
+            "signature": "117666596523111",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:15Z",
+            "id": "25058",
+            "modified_time": "2022-12-31T10:18:15Z",
+            "name": "简介_逻辑代数、布尔代数、命题逻辑、数理逻辑.md",
+            "signature": "23267510324327",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:15Z",
+            "id": "25059",
+            "modified_time": "2022-12-31T10:18:15Z",
+            "name": "类C的数学专用语言Englab.md",
+            "signature": "66191413480551",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:15Z",
+            "id": "25060",
+            "modified_time": "2022-12-31T10:18:15Z",
+            "name": "紧致性定理.md",
+            "signature": "74596664478823",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:15Z",
+            "id": "25061",
+            "modified_time": "2022-12-31T10:18:15Z",
+            "name": "计算机.md",
+            "signature": "51747438464103",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:15Z",
+            "id": "25062",
+            "modified_time": "2022-12-31T10:18:15Z",
+            "name": "计算机科学的基石 逻辑学 数学.md",
+            "signature": "67780551380071",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:15Z",
+            "id": "25063",
+            "modified_time": "2022-12-31T10:18:15Z",
+            "name": "计算树逻辑模型.md",
+            "signature": "102363628047463",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:15Z",
+            "id": "25064",
+            "modified_time": "2022-12-31T10:18:15Z",
+            "name": "计算逻辑演化复杂度.md",
+            "signature": "45416656669799",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:15Z",
+            "id": "25065",
+            "modified_time": "2022-12-31T10:18:15Z",
+            "name": "豆瓣逻辑小站.md",
+            "signature": "106035825085543",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:15Z",
+            "id": "25066",
+            "modified_time": "2022-12-31T10:18:15Z",
+            "name": "逻辑国外教程.md",
+            "signature": "93992736787559",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:15Z",
+            "id": "25067",
+            "modified_time": "2022-12-31T10:18:15Z",
+            "name": "逻辑就是几何本质上逻辑就是代数几何拓扑.md",
+            "signature": "32935481707623",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:15Z",
+            "id": "25068",
+            "modified_time": "2022-12-31T10:18:15Z",
+            "name": "逻辑工具.md",
+            "signature": "44961390136423",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:15Z",
+            "id": "25069",
+            "modified_time": "2022-12-31T10:18:15Z",
+            "name": "逻辑荐书math-CS-pho方向.md",
+            "signature": "10416968174695",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:15Z",
+            "id": "25070",
+            "modified_time": "2022-12-31T10:18:15Z",
+            "name": "逻辑部分概念梳理.md",
+            "signature": "26647649586279",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:15Z",
+            "id": "25071",
+            "modified_time": "2022-12-31T10:18:15Z",
+            "name": "集合论和一阶逻辑关联.md",
+            "signature": "136770611055719",
+            "tags": [
+            ]
+        }
+    ],
+    "folders": [
+        {
+            "name": "(mini)kanren"
+        },
+        {
+            "name": "ASP-AnswerSetProgramming答案集编程"
+        },
+        {
+            "name": "Constraint Horn Clause(CHC)"
+        },
+        {
+            "name": "Datalog"
+        },
+        {
+            "name": "haskell-logic"
+        },
+        {
+            "name": "K语言框架_面向通用程序语言的形式化语义"
+        },
+        {
+            "name": "LogicPrgramme"
+        },
+        {
+            "name": "Mercury水星"
+        },
+        {
+            "name": "Prolog逻辑编程"
+        },
+        {
+            "name": "《Knowledge in Action》"
+        },
+        {
+            "name": "分离逻辑"
+        },
+        {
+            "name": "定理证明-程序验证程序分析"
+        },
+        {
+            "name": "形式化系统可信性"
+        },
+        {
+            "name": "情景演算SituationCalculus"
+        },
+        {
+            "name": "直觉主义构造注意"
+        },
+        {
+            "name": "霍尔逻辑"
+        },
+        {
+            "name": "非单调逻辑"
+        }
+    ],
+    "id": "24984",
+    "modified_time": "2022-12-31T10:18:15Z",
+    "signature": "82490814368871",
+    "version": 3
+}

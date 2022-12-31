@@ -1,0 +1,149 @@
+{
+    "created_time": "2022-12-31T10:18:10Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:10Z",
+            "id": "23789",
+            "modified_time": "2022-12-31T10:18:10Z",
+            "name": "CATIA.md",
+            "signature": "10773450460258",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:10Z",
+            "id": "23790",
+            "modified_time": "2022-12-31T10:18:10Z",
+            "name": "Excel靠谱生产调度算法.md",
+            "signature": "55312261319778",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:10Z",
+            "id": "23791",
+            "modified_time": "2022-12-31T10:18:10Z",
+            "name": "Mathtype快捷.md",
+            "signature": "14338273315938",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:10Z",
+            "id": "23792",
+            "modified_time": "2022-12-31T10:18:10Z",
+            "name": "PlantSimulation例程.md",
+            "signature": "28876737612898",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:10Z",
+            "id": "23793",
+            "modified_time": "2022-12-31T10:18:10Z",
+            "name": "SCM.md",
+            "signature": "12908049206370",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:10Z",
+            "id": "23794",
+            "modified_time": "2022-12-31T10:18:10Z",
+            "name": "thingjs一键生成城市三维地图.md",
+            "signature": "96256184552546",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:10Z",
+            "id": "23795",
+            "modified_time": "2022-12-31T10:18:10Z",
+            "name": "《物流配送路径优化与物流跟踪实训》.md",
+            "signature": "18010470354018",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:10Z",
+            "id": "23809",
+            "modified_time": "2022-12-31T10:18:10Z",
+            "name": "供应链管理.md",
+            "signature": "127733999864930",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:10Z",
+            "id": "23810",
+            "modified_time": "2022-12-31T10:18:10Z",
+            "name": "供应链管理_copy.md",
+            "signature": "104803169471586",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:10Z",
+            "id": "23811",
+            "modified_time": "2022-12-31T10:18:10Z",
+            "name": "傅里叶哲学.md",
+            "signature": "86686997417058",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:10Z",
+            "id": "23812",
+            "modified_time": "2022-12-31T10:18:10Z",
+            "name": "傻瓜也能懂的卡尔曼滤波器（翻译自外网博客）.md",
+            "signature": "90775806282850",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:10Z",
+            "id": "23813",
+            "modified_time": "2022-12-31T10:18:10Z",
+            "name": "基础工业工程课本纠错.docx",
+            "signature": "106637120506978",
+            "tags": [
+            ]
+        }
+    ],
+    "folders": [
+        {
+            "name": "供应链管理"
+        },
+        {
+            "name": "安全系统工程0"
+        },
+        {
+            "name": "工业工程"
+        },
+        {
+            "name": "研究生课程"
+        },
+        {
+            "name": "系统工程"
+        },
+        {
+            "name": "运筹学最优化"
+        }
+    ],
+    "id": "23788",
+    "modified_time": "2022-12-31T10:18:10Z",
+    "signature": "70860042931298",
+    "version": 3
+}

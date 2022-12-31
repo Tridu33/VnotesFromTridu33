@@ -1,0 +1,24 @@
+{
+    "created_time": "2022-12-31T10:18:11Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:11Z",
+            "id": "24046",
+            "modified_time": "2022-12-31T10:18:11Z",
+            "name": "音视频开发学习资料.md",
+            "signature": "61308035664995",
+            "tags": [
+            ]
+        }
+    ],
+    "folders": [
+        {
+            "name": "ffmpeg"
+        }
+    ],
+    "id": "24039",
+    "modified_time": "2022-12-31T10:18:11Z",
+    "signature": "56991593532515",
+    "version": 3
+}

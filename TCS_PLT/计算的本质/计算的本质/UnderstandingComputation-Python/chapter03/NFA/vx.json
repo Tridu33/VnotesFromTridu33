@@ -1,0 +1,54 @@
+{
+    "created_time": "2022-12-31T10:18:03Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:03Z",
+            "id": "21929",
+            "modified_time": "2022-12-31T10:18:03Z",
+            "name": "FARule.py",
+            "signature": "109897000684635",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:03Z",
+            "id": "21930",
+            "modified_time": "2022-12-31T10:18:03Z",
+            "name": "NFA.py",
+            "signature": "134936660020315",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:03Z",
+            "id": "21931",
+            "modified_time": "2022-12-31T10:18:03Z",
+            "name": "NFADesign.py",
+            "signature": "135134228515931",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:03Z",
+            "id": "21932",
+            "modified_time": "2022-12-31T10:18:03Z",
+            "name": "NFARulebook.py",
+            "signature": "26428606254171",
+            "tags": [
+            ]
+        }
+    ],
+    "folders": [
+        {
+            "name": "__pycache__"
+        }
+    ],
+    "id": "21923",
+    "modified_time": "2022-12-31T10:18:03Z",
+    "signature": "100190374595675",
+    "version": 3
+}

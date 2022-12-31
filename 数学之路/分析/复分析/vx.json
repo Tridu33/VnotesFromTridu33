@@ -1,0 +1,41 @@
+{
+    "created_time": "2022-12-31T10:18:05Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:05Z",
+            "id": "22429",
+            "modified_time": "2022-12-31T10:18:05Z",
+            "name": "场论与复变函数【西电梁昌洪】（附课件）.md",
+            "signature": "133566565452893",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:05Z",
+            "id": "22430",
+            "modified_time": "2022-12-31T10:18:05Z",
+            "name": "复分析.md",
+            "signature": "11993221172317",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:05Z",
+            "id": "22431",
+            "modified_time": "2022-12-31T10:18:05Z",
+            "name": "复分析可视化.md",
+            "signature": "16820764413021",
+            "tags": [
+            ]
+        }
+    ],
+    "folders": [
+    ],
+    "id": "22428",
+    "modified_time": "2022-12-31T10:18:05Z",
+    "signature": "71877950180445",
+    "version": 3
+}

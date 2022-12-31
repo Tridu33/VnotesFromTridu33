@@ -1,0 +1,2 @@
+require_relative 'the_simplest_computers/finite_automata'
+require_relative 'the_simplest_computers/regular_expressions'

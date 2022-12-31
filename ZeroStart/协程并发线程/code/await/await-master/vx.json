@@ -1,0 +1,90 @@
+{
+    "created_time": "2022-12-31T10:18:04Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:04Z",
+            "id": "22063",
+            "modified_time": "2022-12-31T10:18:04Z",
+            "name": ".editorconfig",
+            "signature": "69614502415452",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:04Z",
+            "id": "22064",
+            "modified_time": "2022-12-31T10:18:04Z",
+            "name": ".gitattributes",
+            "signature": "135198653025372",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:04Z",
+            "id": "22065",
+            "modified_time": "2022-12-31T10:18:04Z",
+            "name": ".gitignore",
+            "signature": "95753673378908",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:04Z",
+            "id": "22066",
+            "modified_time": "2022-12-31T10:18:04Z",
+            "name": ".gitmodules",
+            "signature": "54071015771228",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:04Z",
+            "id": "22089",
+            "modified_time": "2022-12-31T10:18:04Z",
+            "name": "await.sln",
+            "signature": "44733756869724",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:04Z",
+            "id": "22090",
+            "modified_time": "2022-12-31T10:18:04Z",
+            "name": "co_algorithm.h",
+            "signature": "15652533308508",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:04Z",
+            "id": "22091",
+            "modified_time": "2022-12-31T10:18:04Z",
+            "name": "readme.md",
+            "signature": "23349114702940",
+            "tags": [
+            ]
+        }
+    ],
+    "folders": [
+        {
+            "name": ".vs"
+        },
+        {
+            "name": "async"
+        },
+        {
+            "name": "x64"
+        }
+    ],
+    "id": "22062",
+    "modified_time": "2022-12-31T10:18:04Z",
+    "signature": "3227192921180",
+    "version": 3
+}

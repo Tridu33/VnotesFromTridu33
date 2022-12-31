@@ -1,0 +1,64 @@
+{
+    "created_time": "2022-12-31T10:18:13Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:13Z",
+            "id": "24590",
+            "modified_time": "2022-12-31T10:18:13Z",
+            "name": "midi口琴前端React项目.md",
+            "signature": "37930528672869",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:13Z",
+            "id": "24643",
+            "modified_time": "2022-12-31T10:18:13Z",
+            "name": "计算器音域.md",
+            "signature": "73595937098853",
+            "tags": [
+            ]
+        }
+    ],
+    "folders": [
+        {
+            "name": "AI扒谱音频转化"
+        },
+        {
+            "name": "EOP"
+        },
+        {
+            "name": "others"
+        },
+        {
+            "name": "pdf-msz-midi电子音乐资源"
+        },
+        {
+            "name": "Piano乐器"
+        },
+        {
+            "name": "synthesia音乐软件osu!"
+        },
+        {
+            "name": "乐器"
+        },
+        {
+            "name": "乐理wiwi全家桶"
+        },
+        {
+            "name": "口琴"
+        },
+        {
+            "name": "打谱调音全家桶"
+        },
+        {
+            "name": "简谱专栏"
+        }
+    ],
+    "id": "24578",
+    "modified_time": "2022-12-31T10:18:13Z",
+    "signature": "90204575632485",
+    "version": 3
+}

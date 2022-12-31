@@ -1,0 +1,21 @@
+{
+    "created_time": "2022-12-31T10:18:11Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:11Z",
+            "id": "24004",
+            "modified_time": "2022-12-31T10:18:11Z",
+            "name": "Netty4核心原理与手写RPC框架实战.md",
+            "signature": "64847088716899",
+            "tags": [
+            ]
+        }
+    ],
+    "folders": [
+    ],
+    "id": "24003",
+    "modified_time": "2022-12-31T10:18:11Z",
+    "signature": "65671722437731",
+    "version": 3
+}

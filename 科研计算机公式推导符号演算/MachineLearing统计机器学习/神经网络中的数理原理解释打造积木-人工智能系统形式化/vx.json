@@ -1,0 +1,239 @@
+{
+    "created_time": "2022-12-31T10:18:09Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:09Z",
+            "id": "23327",
+            "modified_time": "2022-12-31T10:18:09Z",
+            "name": "Flexible Transmitter神经元.md",
+            "signature": "116124703263841",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:09Z",
+            "id": "23328",
+            "modified_time": "2022-12-31T10:18:09Z",
+            "name": "Label Propagation Algorithm LPA 标签传播算法解析.md",
+            "signature": "46881240517729",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:09Z",
+            "id": "23329",
+            "modified_time": "2022-12-31T10:18:09Z",
+            "name": "Machine Learning：A Probabilistic Perspective（MLAPP）.md",
+            "signature": "65237930740833",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:09Z",
+            "id": "23354",
+            "modified_time": "2022-12-31T10:18:09Z",
+            "name": "RPML.md",
+            "signature": "34159547386977",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:09Z",
+            "id": "23355",
+            "modified_time": "2022-12-31T10:18:09Z",
+            "name": "Skope-rules是一个基于逻辑规则的Python机器学习模块.md",
+            "signature": "67690357066849",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:09Z",
+            "id": "23356",
+            "modified_time": "2022-12-31T10:18:09Z",
+            "name": "TCS怎么解释神经网络效果好.md",
+            "signature": "15403425205345",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:09Z",
+            "id": "23357",
+            "modified_time": "2022-12-31T10:18:09Z",
+            "name": "《人工智能系统的形式化验证技术研究进展与趋势》.md",
+            "signature": "109175446178913",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:09Z",
+            "id": "23358",
+            "modified_time": "2022-12-31T10:18:09Z",
+            "name": "二值神经网络可解释性.md",
+            "signature": "123417557732449",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:09Z",
+            "id": "23359",
+            "modified_time": "2022-12-31T10:18:09Z",
+            "name": "互信息解释神经网络学到的特征工程.md",
+            "signature": "71366849072225",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:09Z",
+            "id": "23370",
+            "modified_time": "2022-12-31T10:18:09Z",
+            "name": "形式化先验知识Embeddeding结合进神经网络的设计中.md",
+            "signature": "83805074361441",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:09Z",
+            "id": "23371",
+            "modified_time": "2022-12-31T10:18:09Z",
+            "name": "梯度相关算法数学原理.md",
+            "signature": "126625898302561",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:09Z",
+            "id": "23372",
+            "modified_time": "2022-12-31T10:18:09Z",
+            "name": "深度神经网络可解释性.md",
+            "signature": "12092005420129",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:09Z",
+            "id": "23373",
+            "modified_time": "2022-12-31T10:18:09Z",
+            "name": "用已训练的概率实数神经网络创建软确定性规则决策树.md",
+            "signature": "21927480527969",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:09Z",
+            "id": "23374",
+            "modified_time": "2022-12-31T10:18:09Z",
+            "name": "看凸优化部分笔记就行.md",
+            "signature": "110494001138785",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:09Z",
+            "id": "23375",
+            "modified_time": "2022-12-31T10:18:09Z",
+            "name": "神经网络MIT.md",
+            "signature": "99649208716385",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:09Z",
+            "id": "23376",
+            "modified_time": "2022-12-31T10:18:09Z",
+            "name": "神经网络可解释性初步整理.md",
+            "signature": "3321682201697",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:09Z",
+            "id": "23377",
+            "modified_time": "2022-12-31T10:18:09Z",
+            "name": "神经网络拓扑解释.md",
+            "signature": "108690114874465",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:09Z",
+            "id": "23378",
+            "modified_time": "2022-12-31T10:18:09Z",
+            "name": "神经网络数理解释打造积木抽象机.md",
+            "signature": "13230171753569",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:09Z",
+            "id": "23391",
+            "modified_time": "2022-12-31T10:18:09Z",
+            "name": "花书、.md",
+            "signature": "5447691013217",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:09Z",
+            "id": "23394",
+            "modified_time": "2022-12-31T10:18:09Z",
+            "name": "超智能体YJanGo.md",
+            "signature": "102428052556897",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:09Z",
+            "id": "23395",
+            "modified_time": "2022-12-31T10:18:09Z",
+            "name": "通用近似定理.md",
+            "signature": "125565041380449",
+            "tags": [
+            ]
+        }
+    ],
+    "folders": [
+        {
+            "name": "pic"
+        },
+        {
+            "name": "归纳逻辑编程推理ILP可微分归纳逻辑编程-神经逻辑机"
+        },
+        {
+            "name": "符号逻辑推理神经网络符号人工智能"
+        },
+        {
+            "name": "结构学习Structured prediction结构化预测任务"
+        },
+        {
+            "name": "自动微分矩阵求导"
+        },
+        {
+            "name": "计算共形几何---顾险峰"
+        }
+    ],
+    "id": "23326",
+    "modified_time": "2022-12-31T10:18:09Z",
+    "signature": "81107834899553",
+    "version": 3
+}

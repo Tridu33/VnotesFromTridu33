@@ -1,0 +1,107 @@
+{
+    "created_time": "2022-12-31T10:18:00Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:00Z",
+            "id": "20892",
+            "modified_time": "2022-12-31T10:18:00Z",
+            "name": "CMU 15210 lecture notes.md",
+            "signature": "121544951991384",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:00Z",
+            "id": "20893",
+            "modified_time": "2022-12-31T10:18:00Z",
+            "name": "《代码之美》（Beautiful Code）.md",
+            "signature": "139347591433304",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:00Z",
+            "id": "20894",
+            "modified_time": "2022-12-31T10:18:00Z",
+            "name": "《程序设计语言——实践之路》（Michael L. Scott, Programming Language Pragmatics, Morgan Kaufmann, 1999）.md",
+            "signature": "128408309730392",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:00Z",
+            "id": "20895",
+            "modified_time": "2022-12-31T10:18:00Z",
+            "name": "常用算法深入浅出.md",
+            "signature": "5159928204376",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:00Z",
+            "id": "20898",
+            "modified_time": "2022-12-31T10:18:00Z",
+            "name": "算法新解AlgoXY.md",
+            "signature": "30513120152664",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:00Z",
+            "id": "20901",
+            "modified_time": "2022-12-31T10:18:00Z",
+            "name": "算法设计与分析.md",
+            "signature": "114423896214616",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:00Z",
+            "id": "20902",
+            "modified_time": "2022-12-31T10:18:00Z",
+            "name": "计算机算法设计与分析.md",
+            "signature": "69992459537496",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:00Z",
+            "id": "20903",
+            "modified_time": "2022-12-31T10:18:00Z",
+            "name": "趣题学算法C++.md",
+            "signature": "48371594169432",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:00Z",
+            "id": "20904",
+            "modified_time": "2022-12-31T10:18:00Z",
+            "name": "邓俊辉.md",
+            "signature": "46043721895000",
+            "tags": [
+            ]
+        }
+    ],
+    "folders": [
+        {
+            "name": "算法导论"
+        },
+        {
+            "name": "算法第四版"
+        }
+    ],
+    "id": "20891",
+    "modified_time": "2022-12-31T10:18:00Z",
+    "signature": "29495212903512",
+    "version": 3
+}

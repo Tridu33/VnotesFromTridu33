@@ -1,0 +1,24 @@
+{
+    "created_time": "2022-12-31T10:18:14Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:14Z",
+            "id": "24701",
+            "modified_time": "2022-12-31T10:18:14Z",
+            "name": "All About Monads翻译.md",
+            "signature": "69739056467046",
+            "tags": [
+            ]
+        }
+    ],
+    "folders": [
+        {
+            "name": "code"
+        }
+    ],
+    "id": "24700",
+    "modified_time": "2022-12-31T10:18:14Z",
+    "signature": "136238035111014",
+    "version": 3
+}

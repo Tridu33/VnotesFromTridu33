@@ -1,0 +1,687 @@
+{
+    "created_time": "2022-12-31T10:18:05Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:05Z",
+            "id": "22481",
+            "modified_time": "2022-12-31T10:18:05Z",
+            "name": "kkt.md",
+            "signature": "71860770311261",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:05Z",
+            "id": "22482",
+            "modified_time": "2022-12-31T10:18:05Z",
+            "name": "OpenMDAO使用说明-多目标优化.md",
+            "signature": "50892739972189",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:05Z",
+            "id": "22483",
+            "modified_time": "2022-12-31T10:18:05Z",
+            "name": "Python 的优化问题 Scipy.optimize 和 CVXOPT.md",
+            "signature": "109274230426717",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:05Z",
+            "id": "22484",
+            "modified_time": "2022-12-31T10:18:05Z",
+            "name": "python 非线性规划（scipy.optimize.minimize）求解局部最优.md",
+            "signature": "36964161031261",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:05Z",
+            "id": "22492",
+            "modified_time": "2022-12-31T10:18:05Z",
+            "name": "Python之CVXOPT模块.md",
+            "signature": "51897762319453",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:05Z",
+            "id": "22493",
+            "modified_time": "2022-12-31T10:18:05Z",
+            "name": "SVM原理.md",
+            "signature": "14604561288285",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:05Z",
+            "id": "22494",
+            "modified_time": "2022-12-31T10:18:05Z",
+            "name": "《统计计算》.md",
+            "signature": "47924917570653",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:05Z",
+            "id": "22495",
+            "modified_time": "2022-12-31T10:18:05Z",
+            "name": "内点法.md",
+            "signature": "67028932103261",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:05Z",
+            "id": "22496",
+            "modified_time": "2022-12-31T10:18:05Z",
+            "name": "凸优化.md",
+            "signature": "72749828541533",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:05Z",
+            "id": "22497",
+            "modified_time": "2022-12-31T10:18:05Z",
+            "name": "凸规划问题与二阶锥规划.md",
+            "signature": "83594620963933",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:05Z",
+            "id": "22498",
+            "modified_time": "2022-12-31T10:18:05Z",
+            "name": "分支定界法.md",
+            "signature": "89852388314205",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:05Z",
+            "id": "22499",
+            "modified_time": "2022-12-31T10:18:05Z",
+            "name": "单纯形法+2改进单纯形法和对偶单纯形法.md",
+            "signature": "78883041840221",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:05Z",
+            "id": "22500",
+            "modified_time": "2022-12-31T10:18:05Z",
+            "name": "对偶.md",
+            "signature": "67681767132253",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:05Z",
+            "id": "22501",
+            "modified_time": "2022-12-31T10:18:05Z",
+            "name": "应用最优化方法及MATLAB实现.md",
+            "signature": "84548103703645",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:05Z",
+            "id": "22502",
+            "modified_time": "2022-12-31T10:18:05Z",
+            "name": "影子价格互补松弛性定理.md",
+            "signature": "38755162393693",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:05Z",
+            "id": "22503",
+            "modified_time": "2022-12-31T10:18:05Z",
+            "name": "报童模型.md",
+            "signature": "86884565912669",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:05Z",
+            "id": "22504",
+            "modified_time": "2022-12-31T10:18:05Z",
+            "name": "指派问题匈牙利法.md",
+            "signature": "82885951360093",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:05Z",
+            "id": "22505",
+            "modified_time": "2022-12-31T10:18:05Z",
+            "name": "梯度下降法.md",
+            "signature": "126084732423261",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:05Z",
+            "id": "22506",
+            "modified_time": "2022-12-31T10:18:05Z",
+            "name": "用人话讲运筹-B站专栏.md",
+            "signature": "23495143591005",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:05Z",
+            "id": "22507",
+            "modified_time": "2022-12-31T10:18:05Z",
+            "name": "线性规划.md",
+            "signature": "99537539566685",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:05Z",
+            "id": "22508",
+            "modified_time": "2022-12-31T10:18:05Z",
+            "name": "线性规划之单纯形法【超详解+图解】C++源码.md",
+            "signature": "103922701175901",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:05Z",
+            "id": "22509",
+            "modified_time": "2022-12-31T10:18:05Z",
+            "name": "运筹学.md",
+            "signature": "7230102441053",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:06Z",
+            "id": "22510",
+            "modified_time": "2022-12-31T10:18:06Z",
+            "name": "运筹系列10：线性规划开源软件GLPK和PyMathProg.md",
+            "signature": "42899805834334",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:06Z",
+            "id": "22511",
+            "modified_time": "2022-12-31T10:18:06Z",
+            "name": "运筹系列11：google的OR-Tools简介.md",
+            "signature": "32725028310110",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:06Z",
+            "id": "22512",
+            "modified_time": "2022-12-31T10:18:06Z",
+            "name": "运筹系列12：约束规划和python求解.md",
+            "signature": "12654646135902",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:06Z",
+            "id": "22513",
+            "modified_time": "2022-12-31T10:18:06Z",
+            "name": "运筹系列13：Network Flows模型与python代码求解.md",
+            "signature": "138256669740126",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:06Z",
+            "id": "22514",
+            "modified_time": "2022-12-31T10:18:06Z",
+            "name": "运筹系列14：Assignment问题模型与python代码求解.md",
+            "signature": "35542526856286",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:06Z",
+            "id": "22515",
+            "modified_time": "2022-12-31T10:18:06Z",
+            "name": "运筹系列15：routing模型之TSP问题.md",
+            "signature": "10605946735710",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:06Z",
+            "id": "22516",
+            "modified_time": "2022-12-31T10:18:06Z",
+            "name": "运筹系列16：routing模型之VRP问题.md",
+            "signature": "109604942908510",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:06Z",
+            "id": "22517",
+            "modified_time": "2022-12-31T10:18:06Z",
+            "name": "运筹系列17：routing模型之CVRP问题.md",
+            "signature": "61595798473822",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:06Z",
+            "id": "22518",
+            "modified_time": "2022-12-31T10:18:06Z",
+            "name": "运筹系列18：routing模型之VRPTW问题.md",
+            "signature": "112516930735198",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:06Z",
+            "id": "22519",
+            "modified_time": "2022-12-31T10:18:06Z",
+            "name": "运筹系列19：scheduling模型与python代码求解.md",
+            "signature": "36702168026206",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:06Z",
+            "id": "22520",
+            "modified_time": "2022-12-31T10:18:06Z",
+            "name": "运筹系列1：线性规划单纯形法python代码.md",
+            "signature": "7105548389470",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:06Z",
+            "id": "22521",
+            "modified_time": "2022-12-31T10:18:06Z",
+            "name": "运筹系列20：IBM的cplex算法包.md",
+            "signature": "30745048386654",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:06Z",
+            "id": "22522",
+            "modified_time": "2022-12-31T10:18:06Z",
+            "name": "运筹系列21：静态最优化问题解析法.md",
+            "signature": "60380322729054",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:06Z",
+            "id": "22523",
+            "modified_time": "2022-12-31T10:18:06Z",
+            "name": "运筹系列22：动态最优化问题.md",
+            "signature": "24886712994910",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:06Z",
+            "id": "22524",
+            "modified_time": "2022-12-31T10:18:06Z",
+            "name": "运筹系列23：凸规划求解包cvxopt.md",
+            "signature": "102183239421022",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:06Z",
+            "id": "22525",
+            "modified_time": "2022-12-31T10:18:06Z",
+            "name": "运筹系列24：Cplex中的Benders分解.md",
+            "signature": "57300831177822",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:06Z",
+            "id": "22526",
+            "modified_time": "2022-12-31T10:18:06Z",
+            "name": "运筹系列25：Cplex的分布式求解.md",
+            "signature": "106675775212638",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:06Z",
+            "id": "22527",
+            "modified_time": "2022-12-31T10:18:06Z",
+            "name": "运筹系列26：对偶问题和对偶单纯形法.md",
+            "signature": "124126227336286",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:06Z",
+            "id": "22528",
+            "modified_time": "2022-12-31T10:18:06Z",
+            "name": "运筹系列27：Cplex中的callback function.md",
+            "signature": "56832679742558",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:06Z",
+            "id": "22529",
+            "modified_time": "2022-12-31T10:18:06Z",
+            "name": "运筹系列28：网络单纯形法.md",
+            "signature": "54440382958686",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:06Z",
+            "id": "22530",
+            "modified_time": "2022-12-31T10:18:06Z",
+            "name": "运筹系列29：routing模型之VRPPD问题.md",
+            "signature": "84767147035742",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:06Z",
+            "id": "22531",
+            "modified_time": "2022-12-31T10:18:06Z",
+            "name": "运筹系列2：线性规划两阶段法python代码.md",
+            "signature": "74897312189534",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:06Z",
+            "id": "22532",
+            "modified_time": "2022-12-31T10:18:06Z",
+            "name": "运筹系列31：内点法python代码.md",
+            "signature": "42770956815454",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:06Z",
+            "id": "22533",
+            "modified_time": "2022-12-31T10:18:06Z",
+            "name": "运筹系列32：APMonitor-Gekko套装.md",
+            "signature": "131341772393566",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:06Z",
+            "id": "22534",
+            "modified_time": "2022-12-31T10:18:06Z",
+            "name": "运筹系列33：有效集法与APOPT和BPOPT.md",
+            "signature": "116330861694046",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:06Z",
+            "id": "22535",
+            "modified_time": "2022-12-31T10:18:06Z",
+            "name": "运筹系列34：标准文件格式和benchmark.md",
+            "signature": "64482016496734",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:06Z",
+            "id": "22536",
+            "modified_time": "2022-12-31T10:18:06Z",
+            "name": "运筹系列35：凸优化接口cvxpy.md",
+            "signature": "22696279673950",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:06Z",
+            "id": "22537",
+            "modified_time": "2022-12-31T10:18:06Z",
+            "name": "运筹系列36：cvxpy与pytorch结合.md",
+            "signature": "22563135687774",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:06Z",
+            "id": "22538",
+            "modified_time": "2022-12-31T10:18:06Z",
+            "name": "运筹系列37：numpy-scipy常用科学计算.md",
+            "signature": "89023459626078",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:06Z",
+            "id": "22539",
+            "modified_time": "2022-12-31T10:18:06Z",
+            "name": "运筹系列38：优化软件测试包pyCUTEst.md",
+            "signature": "130074757041246",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:06Z",
+            "id": "22540",
+            "modified_time": "2022-12-31T10:18:06Z",
+            "name": "运筹系列39：ALNS使用.md",
+            "signature": "10421263141982",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:06Z",
+            "id": "22541",
+            "modified_time": "2022-12-31T10:18:06Z",
+            "name": "运筹系列3：整数规划分支定界法python代码.md",
+            "signature": "84483679194206",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:06Z",
+            "id": "22542",
+            "modified_time": "2022-12-31T10:18:06Z",
+            "name": "运筹系列40：L-BFGS的pytorch版本.md",
+            "signature": "62433317096542",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:06Z",
+            "id": "22543",
+            "modified_time": "2022-12-31T10:18:06Z",
+            "name": "运筹系列41：Julia入门.md",
+            "signature": "14093460180062",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:06Z",
+            "id": "22544",
+            "modified_time": "2022-12-31T10:18:06Z",
+            "name": "运筹系列43：julia用于科学计算.md",
+            "signature": "100375058189406",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:06Z",
+            "id": "22545",
+            "modified_time": "2022-12-31T10:18:06Z",
+            "name": "运筹系列44：求根算法的python代码.md",
+            "signature": "28129413303390",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:06Z",
+            "id": "22546",
+            "modified_time": "2022-12-31T10:18:06Z",
+            "name": "运筹系列45：连续优化问题的python代码.md",
+            "signature": "5791288396894",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:06Z",
+            "id": "22547",
+            "modified_time": "2022-12-31T10:18:06Z",
+            "name": "运筹系列46：线性规划求解器python代码.md",
+            "signature": "38987090627678",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:06Z",
+            "id": "22548",
+            "modified_time": "2022-12-31T10:18:06Z",
+            "name": "运筹系列47：JuMP数学建模语言.md",
+            "signature": "112525520669790",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:06Z",
+            "id": "22549",
+            "modified_time": "2022-12-31T10:18:06Z",
+            "name": "运筹系列4：整数规划割平面法python代码.md",
+            "signature": "72307446910046",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:06Z",
+            "id": "22550",
+            "modified_time": "2022-12-31T10:18:06Z",
+            "name": "运筹系列5：凸优化问题的拉格朗日乘子法和KKT条件.md",
+            "signature": "15347590630494",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:06Z",
+            "id": "22551",
+            "modified_time": "2022-12-31T10:18:06Z",
+            "name": "运筹系列6：梯度下降法介绍.md",
+            "signature": "120849167289438",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:06Z",
+            "id": "22552",
+            "modified_time": "2022-12-31T10:18:06Z",
+            "name": "运筹系列7大规模线性规划的Blenders-DW分解.md",
+            "signature": "35868944370782",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:06Z",
+            "id": "22553",
+            "modified_time": "2022-12-31T10:18:06Z",
+            "name": "运筹系列8：Set partitioning问题的列生成方法.md",
+            "signature": "123400377863262",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:06Z",
+            "id": "22554",
+            "modified_time": "2022-12-31T10:18:06Z",
+            "name": "运筹系列9：混合整数非线性规划扩展割平面法.md",
+            "signature": "118615784295518",
+            "tags": [
+            ]
+        }
+    ],
+    "folders": [
+        {
+            "name": "CPLEX"
+        },
+        {
+            "name": "PythonOperationResearch"
+        }
+    ],
+    "id": "22477",
+    "modified_time": "2022-12-31T10:18:05Z",
+    "signature": "110549835713629",
+    "version": 3
+}

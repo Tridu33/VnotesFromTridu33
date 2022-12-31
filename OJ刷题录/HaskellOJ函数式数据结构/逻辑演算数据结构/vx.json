@@ -1,0 +1,111 @@
+{
+    "created_time": "2022-12-31T10:17:59Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:17:59Z",
+            "id": "20817",
+            "modified_time": "2022-12-31T10:17:59Z",
+            "name": "Abstract Syntax and Logic Programming.md",
+            "signature": "123997378317399",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:17:59Z",
+            "id": "20818",
+            "modified_time": "2022-12-31T10:17:59Z",
+            "name": "AI Algorithms, Data Structures, and Idioms in Prolog, Lisp, and Java .md",
+            "signature": "4253690104919",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:17:59Z",
+            "id": "20819",
+            "modified_time": "2022-12-31T10:17:59Z",
+            "name": "Full Logic Programming Data structures Pure LP allows.md",
+            "signature": "16636080819287",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:17:59Z",
+            "id": "20820",
+            "modified_time": "2022-12-31T10:17:59Z",
+            "name": "Live Data Structures in Logic Programs书.md",
+            "signature": "18585995971671",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:17:59Z",
+            "id": "20821",
+            "modified_time": "2022-12-31T10:17:59Z",
+            "name": "Logic ProgrammingUsing Data Structures.md",
+            "signature": "14660395863127",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:17:59Z",
+            "id": "20822",
+            "modified_time": "2022-12-31T10:17:59Z",
+            "name": "Programming Language Paradigms - CMPSCI 287.md",
+            "signature": "14836489522263",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:17:59Z",
+            "id": "20823",
+            "modified_time": "2022-12-31T10:17:59Z",
+            "name": "prolog-doc.md",
+            "signature": "136993949355095",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:17:59Z",
+            "id": "20824",
+            "modified_time": "2022-12-31T10:17:59Z",
+            "name": "Separation logic.md",
+            "signature": "53568504597591",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:17:59Z",
+            "id": "20825",
+            "modified_time": "2022-12-31T10:17:59Z",
+            "name": "《从规范出发的程序设计》.md",
+            "signature": "105013622869079",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:17:59Z",
+            "id": "20826",
+            "modified_time": "2022-12-31T10:17:59Z",
+            "name": "软件基础coq.md",
+            "signature": "74051203632215",
+            "tags": [
+            ]
+        }
+    ],
+    "folders": [
+    ],
+    "id": "20816",
+    "modified_time": "2022-12-31T10:17:59Z",
+    "signature": "115308659477591",
+    "version": 3
+}

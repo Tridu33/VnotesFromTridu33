@@ -1,0 +1,41 @@
+{
+    "created_time": "2022-12-31T10:18:03Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:03Z",
+            "id": "21689",
+            "modified_time": "2022-12-31T10:18:03Z",
+            "name": "ski_call.rb",
+            "signature": "64383232248923",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:03Z",
+            "id": "21690",
+            "modified_time": "2022-12-31T10:18:03Z",
+            "name": "ski_combinator.rb",
+            "signature": "83487246781531",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:03Z",
+            "id": "21691",
+            "modified_time": "2022-12-31T10:18:03Z",
+            "name": "ski_symbol.rb",
+            "signature": "124474119687259",
+            "tags": [
+            ]
+        }
+    ],
+    "folders": [
+    ],
+    "id": "21688",
+    "modified_time": "2022-12-31T10:18:03Z",
+    "signature": "71542942731355",
+    "version": 3
+}

@@ -1,0 +1,81 @@
+{
+    "created_time": "2022-12-31T10:18:04Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:04Z",
+            "id": "22039",
+            "modified_time": "2022-12-31T10:18:04Z",
+            "name": "15-814 类型和编程语言课程.md",
+            "signature": "97149537750108",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:04Z",
+            "id": "22040",
+            "modified_time": "2022-12-31T10:18:04Z",
+            "name": "Haskell实现一个编译器.md",
+            "signature": "12371178294364",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:04Z",
+            "id": "22041",
+            "modified_time": "2022-12-31T10:18:04Z",
+            "name": "parser_cources.md",
+            "signature": "20265328184412",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:04Z",
+            "id": "22042",
+            "modified_time": "2022-12-31T10:18:04Z",
+            "name": "《Compiling with Continuations》.md",
+            "signature": "69270905031772",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:04Z",
+            "id": "22043",
+            "modified_time": "2022-12-31T10:18:04Z",
+            "name": "函数式语言编译器的实现.md",
+            "signature": "85677680102492",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:04Z",
+            "id": "22044",
+            "modified_time": "2022-12-31T10:18:04Z",
+            "name": "构造逻辑课程.md",
+            "signature": "20273918119004",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:04Z",
+            "id": "22045",
+            "modified_time": "2022-12-31T10:18:04Z",
+            "name": "高阶类型语言（如 ML 和 Haskell）的编译器的实现课程.md",
+            "signature": "38995680562268",
+            "tags": [
+            ]
+        }
+    ],
+    "folders": [
+    ],
+    "id": "22038",
+    "modified_time": "2022-12-31T10:18:04Z",
+    "signature": "61123352071260",
+    "version": 3
+}

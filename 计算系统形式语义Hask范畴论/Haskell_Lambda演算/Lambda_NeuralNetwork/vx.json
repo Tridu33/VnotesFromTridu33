@@ -1,0 +1,41 @@
+{
+    "created_time": "2022-12-31T10:18:14Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:14Z",
+            "id": "24757",
+            "modified_time": "2022-12-31T10:18:14Z",
+            "name": "LambdaNeuralNetworl.md",
+            "signature": "5971677023334",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:14Z",
+            "id": "24758",
+            "modified_time": "2022-12-31T10:18:14Z",
+            "name": "lambda演算图Graphic Lambda Calculus.md",
+            "signature": "80420640132198",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:14Z",
+            "id": "24759",
+            "modified_time": "2022-12-31T10:18:14Z",
+            "name": "带有动画归约法的Lambda微积分的图形表示法.md",
+            "signature": "4206445464678",
+            "tags": [
+            ]
+        }
+    ],
+    "folders": [
+    ],
+    "id": "24756",
+    "modified_time": "2022-12-31T10:18:14Z",
+    "signature": "130216490962022",
+    "version": 3
+}

@@ -1,0 +1,186 @@
+{
+    "created_time": "2022-12-31T10:17:13Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:17:57Z",
+            "id": "20031",
+            "modified_time": "2022-12-31T10:17:57Z",
+            "name": "deletevx.json.py",
+            "signature": "113491888311381",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:01Z",
+            "id": "21252",
+            "modified_time": "2022-12-31T10:18:01Z",
+            "name": "README.md",
+            "signature": "5774108527705",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:04Z",
+            "id": "21990",
+            "modified_time": "2022-12-31T10:18:04Z",
+            "name": "TODO.md",
+            "signature": "24577475349596",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:04Z",
+            "id": "22178",
+            "modified_time": "2022-12-31T10:18:04Z",
+            "name": "一个8bitCPU的设计和实现.md",
+            "signature": "22447171570780",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:04Z",
+            "id": "22179",
+            "modified_time": "2022-12-31T10:18:04Z",
+            "name": "什么是真正的编程能力.md",
+            "signature": "70709719075932",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:04Z",
+            "id": "22180",
+            "modified_time": "2022-12-31T10:18:04Z",
+            "name": "从零开始系列.md",
+            "signature": "120836282387548",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:13Z",
+            "id": "24644",
+            "modified_time": "2022-12-31T10:18:13Z",
+            "name": "计算机自学指南.md",
+            "signature": "51970776763493",
+            "tags": [
+            ]
+        }
+    ],
+    "folders": [
+        {
+            "name": ".vscode"
+        },
+        {
+            "name": "_v_recycle_bin"
+        },
+        {
+            "name": "automata theory-FSA-CFG自动化理论（automata theory）"
+        },
+        {
+            "name": "CodePLT"
+        },
+        {
+            "name": "CS底层硬件等"
+        },
+        {
+            "name": "fancy_ideas"
+        },
+        {
+            "name": "FPGA+Risc-v_IC_Soc_Hardware"
+        },
+        {
+            "name": "jobcareer"
+        },
+        {
+            "name": "job面试"
+        },
+        {
+            "name": "k8s云原生分布式微服务远程RESTful api和gRPC"
+        },
+        {
+            "name": "Latex-Markdown-etc-PanDoc"
+        },
+        {
+            "name": "manim_可视化DS复分析运筹"
+        },
+        {
+            "name": "MIT公开课挑战等慕课，资源，教程，工具Online"
+        },
+        {
+            "name": "OJ刷题录"
+        },
+        {
+            "name": "Openproblems"
+        },
+        {
+            "name": "OSQEMU跨平台虚拟环境"
+        },
+        {
+            "name": "TCS_PLT"
+        },
+        {
+            "name": "ZeroStart"
+        },
+        {
+            "name": "协程并发编程线程"
+        },
+        {
+            "name": "大前端"
+        },
+        {
+            "name": "定理证明语言"
+        },
+        {
+            "name": "操作系统"
+        },
+        {
+            "name": "数学之路"
+        },
+        {
+            "name": "日志DB数据库models分布式数据模型"
+        },
+        {
+            "name": "服务器编程后端网络全家桶"
+        },
+        {
+            "name": "浮生梦呓"
+        },
+        {
+            "name": "现代前端工程化全家桶"
+        },
+        {
+            "name": "理论物理学家之路"
+        },
+        {
+            "name": "科研计算机公式推导符号演算"
+        },
+        {
+            "name": "程序形式验证静态分析ModelCheck"
+        },
+        {
+            "name": "编程看文档api规范开源项目源码"
+        },
+        {
+            "name": "编程语言理论PLT编译原理-英真等"
+        },
+        {
+            "name": "计算器音乐MIDi计算器js键盘online"
+        },
+        {
+            "name": "计算系统形式语义Hask范畴论"
+        },
+        {
+            "name": "近期英真CP-OS"
+        }
+    ],
+    "id": "17517",
+    "modified_time": "2022-12-31T10:17:13Z",
+    "signature": "177766140970",
+    "version": 3
+}

@@ -1,0 +1,56 @@
+vnote_backup_file_826537664 D:/tridu33/qqmailsNutstore/VnotesFromTridu33/CodePLT/C++/gcc编译链接相关/C++ ABI.md
+```
+A library is binary compatible, if a program linked dynamically to a former version of the library continues running with newer versions of the library without the need to recompile.
+```
+
+
+# C++ ABI
+
+C++ ABI问题 
+https://linyt.blog.csdn.net/article/details/46841845
+
+
+
+
+![ABI](_v_images/abi_1627789704_279.png)
+
+
+
+
+
+
+```
+ $ find . -name '*.a'|xargs nm -f posix|cut -f1 -d' '|LANG=C sort -u > all_symbols
+ $ find . -name '*.so'|xargs nm -f posix -D|cut -f1 -d' '|LANG=C sort -u >> all_symbols
+ $ grep '^_Z' all_symbols | c++filt|sort > demangled_c++_symbols
+```
+如果你的文件是空的，恭喜你了，你的lib都是C写的，不需要重新编译，是ABI兼容的。
+
+如果你的文件中没有包含std::这样的字符，并且你的函数中没有一个的参数或返回值用到了标准类库中的对象，你的库有90%的就会是ABI兼容的。
+
+如果你的文件中有包含std::这样的字符，或者你的函数中有一个的参数或返回值用到了标准类库中的对象，你的库有90%的就会不是ABI兼容的。
+
+
+
+
+## Linux standard Base（LSB）
+http://refspecs.linuxfoundation.org/lsb.shtml
+
+## 保持C++ ABI兼容的方法是Q指针和D指针
+为什么C有统一的ABI呢？主要是因为各主流的OS都以C作为系统API接口，所以在OS层面确定了在同一系统内C的ABI。
+C的ABI兼容性，其实是由OS来制定并且推广的。对于不同风格的OS（例如说win->*nix），其实一样是不兼容的。
+为什么 C++ 标准不明确二进制接口 (ABI) 标准？ - 瞿中明的回答 - 知乎
+https://www.zhihu.com/question/39148567/answer/79944380
+
+
+https://blog.csdn.net/a137748099/article/details/98760796 Qt二进制兼容Q，D指针
+
+-  引入D指针以保证动态链接库代码的二进制兼容性
+- 引入Q指针以实现Private类对父类或者公有类方法的访问
+- 针对多层继承关系下Q、D指针造成的空间浪费优化
+
+
+
+
+
+

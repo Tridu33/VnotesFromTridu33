@@ -1,0 +1,33 @@
+
+
+
+
+
+
+
+Kmeans原理公式图文详解 blog.csdn.net/u010946556/article/details/50963952
+
+
+
+https://www.youtube.com/watch?v=_S5tvagaQRU 好生动，直接从13.33开始，原来就是分k个聚类中心，然后找最近的点，每一类的点的质心作为“聚类中心”，然后迭代直到质心不发生改变
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

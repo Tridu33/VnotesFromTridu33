@@ -1,0 +1,91 @@
+{
+    "created_time": "2022-12-31T10:18:14Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:14Z",
+            "id": "24787",
+            "modified_time": "2022-12-31T10:18:14Z",
+            "name": "comonad.md",
+            "signature": "114028759223398",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:14Z",
+            "id": "24788",
+            "modified_time": "2022-12-31T10:18:14Z",
+            "name": "monad maybe for.md",
+            "signature": "4992424479846",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:14Z",
+            "id": "24789",
+            "modified_time": "2022-12-31T10:18:14Z",
+            "name": "Monad 是一个自函子范畴上的幺半群.md",
+            "signature": "55329441188966",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:14Z",
+            "id": "24790",
+            "modified_time": "2022-12-31T10:18:14Z",
+            "name": "Monad自函子范畴上的幺半群.md",
+            "signature": "60281538481254",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:14Z",
+            "id": "24791",
+            "modified_time": "2022-12-31T10:18:14Z",
+            "name": "monoid.md",
+            "signature": "122803377409126",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:14Z",
+            "id": "24792",
+            "modified_time": "2022-12-31T10:18:14Z",
+            "name": "函子Functor.md",
+            "signature": "107955675466854",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:14Z",
+            "id": "24793",
+            "modified_time": "2022-12-31T10:18:14Z",
+            "name": "状态monad栈.md",
+            "signature": "38355730435174",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:14Z",
+            "id": "24794",
+            "modified_time": "2022-12-31T10:18:14Z",
+            "name": "狼、山羊、卷心菜：列表 MonadPlus 和逻辑问题.md",
+            "signature": "10885119609958",
+            "tags": [
+            ]
+        }
+    ],
+    "folders": [
+    ],
+    "id": "24786",
+    "modified_time": "2022-12-31T10:18:14Z",
+    "signature": "29774385777766",
+    "version": 3
+}

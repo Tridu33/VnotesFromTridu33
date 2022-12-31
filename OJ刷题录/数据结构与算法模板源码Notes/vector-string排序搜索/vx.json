@@ -1,0 +1,39 @@
+{
+    "created_time": "2022-12-31T10:18:00Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:00Z",
+            "id": "20924",
+            "modified_time": "2022-12-31T10:18:00Z",
+            "name": "排序算法汇总.md",
+            "signature": "104326428101720",
+            "tags": [
+            ]
+        }
+    ],
+    "folders": [
+        {
+            "name": "二分查找"
+        },
+        {
+            "name": "双指针法"
+        },
+        {
+            "name": "字符串位运算"
+        },
+        {
+            "name": "字符串常见算法-KMP等"
+        },
+        {
+            "name": "快慢指针技巧"
+        },
+        {
+            "name": "滑动窗口"
+        }
+    ],
+    "id": "20909",
+    "modified_time": "2022-12-31T10:18:00Z",
+    "signature": "75524377414744",
+    "version": 3
+}

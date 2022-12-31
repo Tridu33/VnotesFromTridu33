@@ -1,0 +1,61 @@
+{
+    "created_time": "2022-12-31T10:18:04Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:04Z",
+            "id": "21966",
+            "modified_time": "2022-12-31T10:18:04Z",
+            "name": "DTM.py",
+            "signature": "57369550654556",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:04Z",
+            "id": "21967",
+            "modified_time": "2022-12-31T10:18:04Z",
+            "name": "DTMRulebook.py",
+            "signature": "46756686466140",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:04Z",
+            "id": "21968",
+            "modified_time": "2022-12-31T10:18:04Z",
+            "name": "Tape.py",
+            "signature": "33541072096348",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:04Z",
+            "id": "21969",
+            "modified_time": "2022-12-31T10:18:04Z",
+            "name": "TMConfiguration.py",
+            "signature": "25191655672924",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:04Z",
+            "id": "21970",
+            "modified_time": "2022-12-31T10:18:04Z",
+            "name": "TMRule.py",
+            "signature": "110322202446940",
+            "tags": [
+            ]
+        }
+    ],
+    "folders": [
+    ],
+    "id": "21965",
+    "modified_time": "2022-12-31T10:18:04Z",
+    "signature": "107199761222748",
+    "version": 3
+}

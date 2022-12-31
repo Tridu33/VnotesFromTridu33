@@ -1,0 +1,36 @@
+{
+    "created_time": "2022-12-31T10:18:03Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:03Z",
+            "id": "21804",
+            "modified_time": "2022-12-31T10:18:03Z",
+            "name": "mod.rs",
+            "signature": "8956679294043",
+            "tags": [
+            ]
+        }
+    ],
+    "folders": [
+        {
+            "name": "cyclic_tag_systems"
+        },
+        {
+            "name": "iota"
+        },
+        {
+            "name": "partial_recursive_function"
+        },
+        {
+            "name": "ski_calculus"
+        },
+        {
+            "name": "tag_systems"
+        }
+    ],
+    "id": "21793",
+    "modified_time": "2022-12-31T10:18:03Z",
+    "signature": "2243645410395",
+    "version": 3
+}

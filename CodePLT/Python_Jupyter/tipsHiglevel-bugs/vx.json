@@ -1,0 +1,122 @@
+{
+    "created_time": "2022-12-31T10:17:55Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:17:55Z",
+            "id": "19495",
+            "modified_time": "2022-12-31T10:17:55Z",
+            "name": "LEGB命名空间.md",
+            "signature": "48092421295187",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:17:55Z",
+            "id": "19497",
+            "modified_time": "2022-12-31T10:17:55Z",
+            "name": "python一行执行命令.md",
+            "signature": "84917470891091",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:17:55Z",
+            "id": "19498",
+            "modified_time": "2022-12-31T10:17:55Z",
+            "name": "python交互模式中怎么运行py文件.md",
+            "signature": "87460091530323",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:17:55Z",
+            "id": "19499",
+            "modified_time": "2022-12-31T10:17:55Z",
+            "name": "python奇淫怪技.md",
+            "signature": "125848509221971",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:17:55Z",
+            "id": "19502",
+            "modified_time": "2022-12-31T10:17:55Z",
+            "name": "python编码注释风格.md",
+            "signature": "15313230892115",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:17:55Z",
+            "id": "19503",
+            "modified_time": "2022-12-31T10:17:55Z",
+            "name": "python路径.md",
+            "signature": "74824297745491",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:17:55Z",
+            "id": "19504",
+            "modified_time": "2022-12-31T10:17:55Z",
+            "name": "with.md",
+            "signature": "100697180736595",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:17:55Z",
+            "id": "19507",
+            "modified_time": "2022-12-31T10:17:55Z",
+            "name": "海象运算符.md",
+            "signature": "71903719984211",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:17:55Z",
+            "id": "19508",
+            "modified_time": "2022-12-31T10:17:55Z",
+            "name": "清除所有变量.md",
+            "signature": "64520671202387",
+            "tags": [
+            ]
+        }
+    ],
+    "folders": [
+        {
+            "name": "bugs"
+        },
+        {
+            "name": "class类-封装"
+        },
+        {
+            "name": "lambda"
+        },
+        {
+            "name": "python_packages"
+        },
+        {
+            "name": "python类型检查"
+        },
+        {
+            "name": "方法解析顺序MRO"
+        },
+        {
+            "name": "装饰器注解"
+        }
+    ],
+    "id": "19482",
+    "modified_time": "2022-12-31T10:17:55Z",
+    "signature": "61067517496403",
+    "version": 3
+}

@@ -1,0 +1,61 @@
+{
+    "created_time": "2022-12-31T10:18:10Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:10Z",
+            "id": "23714",
+            "modified_time": "2022-12-31T10:18:10Z",
+            "name": "ConnectedPapers.md",
+            "signature": "47306442280034",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:10Z",
+            "id": "23715",
+            "modified_time": "2022-12-31T10:18:10Z",
+            "name": "paperCiteNetwork论文引用网络图.md",
+            "signature": "60414682467426",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:10Z",
+            "id": "23716",
+            "modified_time": "2022-12-31T10:18:10Z",
+            "name": "zotero.md",
+            "signature": "64409002052706",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:10Z",
+            "id": "23717",
+            "modified_time": "2022-12-31T10:18:10Z",
+            "name": "文献泛读WebOfScience+Zotera.md",
+            "signature": "72470655667298",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:10Z",
+            "id": "23718",
+            "modified_time": "2022-12-31T10:18:10Z",
+            "name": "社交的Zotero_online.md",
+            "signature": "30702098713698",
+            "tags": [
+            ]
+        }
+    ],
+    "folders": [
+    ],
+    "id": "23713",
+    "modified_time": "2022-12-31T10:18:10Z",
+    "signature": "127201423920226",
+    "version": 3
+}

@@ -1,0 +1,477 @@
+-> x { -> y { x.call(y) } }
+-> x { x + 2 }.call(1)
+-> x, y {
+  x + y
+}.call(3, 4)
+-> x {
+  -> y {
+    x + y
+  }
+}.call(3).call(4)
+p = -> n { n * 2 }
+q = -> x { p.call(x) }
+p.call(5)
+q.call(5)
+-> x { x + 5 }[6]
+(1..100).each do |n|
+  if (n % 15).zero?
+    puts 'FizzBuzz'
+  elsif (n % 3).zero?
+    puts 'Fizz'
+  elsif (n % 5).zero?
+    puts 'Buzz'
+  else
+    puts n.to_s
+  end
+end
+(1..100).map do |n|
+  if (n % 15).zero?
+    'FizzBuzz'
+  elsif (n % 3).zero?
+    'Fizz'
+  elsif (n % 5).zero?
+    'Buzz'
+  else
+    n.to_s
+  end
+end
+
+def one(proc, x)
+  proc[x]
+end
+
+def two(proc, x)
+  proc[proc[x]]
+end
+
+def three(proc, x)
+  proc[proc[proc[x]]]
+end
+
+def zero(proc, x)
+  x
+end
+
+to_integer(ZERO)
+to_integer(THREE)
+to_integer(FIVE)
+to_integer(FIFTEEN)
+to_integer(HUNDRED)
+success = true
+if success then 'happy' else 'sad' end
+success = false
+if success then 'happy' else 'sad' end
+
+def true(x, y)
+  x
+end
+
+def false(x, y)
+  y
+end
+
+success = :true
+send(success, 'happy', 'sad')
+success = :false
+send(success, 'happy', 'sad')
+
+def to_boolean(proc)
+  proc[true][false]
+end
+
+to_boolean(TRUE)
+to_boolean(FALSE)
+
+def if(proc, x, y)
+  proc[x][y]
+end
+
+IF =
+  -> b {
+    -> x {
+      -> y {
+        b[x][y]
+      }
+    }
+  }
+IF[TRUE]['happy']['sad']
+IF[FALSE]['happy']['sad']
+
+-> y {
+  b[x][y]
+}
+IF =
+  -> b {
+    -> x {
+      b[x]
+    }
+  }
+-> x {
+  b[x]
+}
+
+def zero?(n)
+  if n == 0
+    true
+  else
+    false
+  end
+end
+
+def zero?(proc)
+  proc[-> x { FALSE }][TRUE]
+end
+
+to_boolean(IS_ZERO[ZERO])
+to_boolean(IS_ZERO[THREE])
+-> f { f[x][y] }
+my_pair = PAIR[THREE][FIVE]
+to_integer(LEFT[my_pair])
+to_integer(RIGHT[my_pair])
+
+def slide(pair)
+  [pair.last, pair.last + 1]
+end
+
+slide([3, 4])
+slide([8, 9])
+slide([-1, 0])
+slide(slide([-1, 0]))
+slide(slide(slide([-1, 0])))
+slide(slide(slide(slide([-1, 0]))))
+slide([0, 0])
+slide(slide([0, 0]))
+slide(slide(slide([0, 0])))
+slide(slide(slide(slide([0, 0]))))
+to_integer(DECREMENT[FIVE])
+to_integer(DECREMENT[FIFTEEN])
+to_integer(DECREMENT[HUNDRED])
+to_integer(DECREMENT[ZERO])
+
+def mod(m, n)
+  if n <= m
+    mod(m - n, n)
+  else
+    m
+  end
+end
+
+def less_or_equal?(m, n)
+  m - n <= 0
+end
+
+to_integer(SUBTRACT[FIVE][THREE])
+to_integer(SUBTRACT[THREE][FIVE])
+
+def less_or_equal?(m, n)
+  IS_ZERO[SUBTRACT[m][n]]
+end
+
+to_boolean(IS_LESS_OR_EQUAL[ONE][TWO])
+to_boolean(IS_LESS_OR_EQUAL[TWO][TWO])
+to_boolean(IS_LESS_OR_EQUAL[THREE][TWO])
+
+def mod(m, n)
+  IF[IS_LESS_OR_EQUAL[n][m]][
+    mod(SUBTRACT[m][n], n)
+  ][
+    m
+  ]
+end
+
+MOD =
+  -> m { -> n {
+    IF[IS_LESS_OR_EQUAL[n][m]][
+      MOD[SUBTRACT[m][n]][n]
+    ][
+      m
+    ]
+  } }
+to_integer(MOD[THREE][TWO])
+MOD =
+  -> m { -> n {
+    IF[IS_LESS_OR_EQUAL[n][m]][
+      MOD[SUBTRACT[m][n]][n]
+    ][
+      m
+    ]
+  } }
+MOD =
+  -> m { -> n {
+    IF[IS_LESS_OR_EQUAL[n][m]][
+      -> x {
+        MOD[SUBTRACT[m][n]][n][x]
+      }
+    ][
+      m
+    ]
+  } }
+to_integer(MOD[THREE][TWO])
+to_integer(MOD[
+     POWER[THREE][THREE]
+   ][
+     ADD[THREE][TWO]
+   ])
+to_integer(MOD[THREE][TWO])
+to_integer(MOD[
+  POWER[THREE][THREE]
+][
+  ADD[THREE][TWO]
+])
+my_list =
+  UNSHIFT[
+    UNSHIFT[
+      UNSHIFT[EMPTY][THREE]
+    ][TWO]
+  ][ONE]
+to_integer(FIRST[my_list])
+to_integer(FIRST[REST[my_list]])
+to_integer(FIRST[REST[REST[my_list]]])
+to_boolean(IS_EMPTY[my_list])
+to_boolean(IS_EMPTY[EMPTY])
+
+to_array(my_list)
+to_array(my_list).map { |p| to_integer(p) }
+
+def range(m, n)
+  if m <= n
+    range(m + 1, n).unshift(m)
+  else
+    []
+  end
+end
+
+my_range = RANGE[ONE][FIVE]
+to_array(my_range).map { |p| to_integer(p) }
+to_integer(FOLD[RANGE[ONE][FIVE]][ZERO][ADD])
+to_integer(FOLD[RANGE[ONE][FIVE]][ONE][MULTIPLY])
+my_list = MAP[RANGE[ONE][FIVE]][INCREMENT]
+to_array(my_list).map { |p| to_integer(p) }
+
+to_char(ZED)
+to_string(FIZZBUZZ)
+
+def to_digits(n)
+  previous_digits =
+    if n < 10
+      []
+    else
+      to_digits(n / 10)
+    end
+
+  previous_digits.push(n % 10)
+end
+
+to_array(TO_DIGITS[FIVE]).map { |p| to_integer(p) }
+to_array(TO_DIGITS[POWER[FIVE][THREE]]).map { |p| to_integer(p) }
+to_string(TO_DIGITS[FIVE])
+to_string(TO_DIGITS[POWER[FIVE][THREE]])
+MAP[RANGE[ONE][HUNDRED]][-> n {
+  IF[IS_ZERO[MOD[n][FIFTEEN]]][
+    FIZZBUZZ
+  ][IF[IS_ZERO[MOD[n][THREE]]][
+    FIZZ
+  ][IF[IS_ZERO[MOD[n][FIVE]]][
+    BUZZ
+  ][
+    TO_DIGITS[n]
+  ]]]
+}]
+to_array(solution).each do |p|
+  puts to_string(p)
+end; nil
+ZEROS = Z[-> f { UNSHIFT[f][ZERO] }]
+to_integer(FIRST[ZEROS])
+to_integer(FIRST[REST[ZEROS]])
+to_integer(FIRST[REST[REST[REST[REST[REST[ZEROS]]]]]])
+
+def to_array(l, count = nil)
+  array = []
+
+  until to_boolean(IS_EMPTY[l]) || count == 0
+    array.push(FIRST[l])
+    l = REST[l]
+    count = count - 1 unless count.nil?
+  end
+
+  array
+end
+
+to_array(ZEROS, 5).map { |p| to_integer(p) }
+to_array(ZEROS, 10).map { |p| to_integer(p) }
+to_array(ZEROS, 20).map { |p| to_integer(p) }
+UPWARDS_OF = Z[-> f { -> n { UNSHIFT[-> x { f[INCREMENT[n]][x] }][n] } }]
+to_array(UPWARDS_OF[ZERO], 5).map { |p| to_integer(p) }
+to_array(UPWARDS_OF[FIFTEEN], 20).map { |p| to_integer(p) }
+MULTIPLES_OF =
+  -> m {
+    Z[-> f {
+      -> n { UNSHIFT[-> x { f[ADD[m][n]][x] }][n] }
+    }][m]
+  }
+to_array(MULTIPLES_OF[TWO], 10).map { |p| to_integer(p) }
+to_array(MULTIPLES_OF[FIVE], 20).map { |p| to_integer(p) }
+to_array(MULTIPLES_OF[THREE], 10).map { |p| to_integer(p) }
+to_array(MAP[MULTIPLES_OF[THREE]][INCREMENT], 10).map { |p| to_integer(p) }
+to_array(MAP[MULTIPLES_OF[THREE]][MULTIPLY[TWO]], 10).map { |p| to_integer(p) }
+MULTIPLY_STREAMS =
+  Z[-> f {
+    -> k { -> l {
+      UNSHIFT[-> x { f[REST[k]][REST[l]][x] }][MULTIPLY[FIRST[k]][FIRST[l]]]
+    } }
+  }]
+to_array(MULTIPLY_STREAMS[UPWARDS_OF[ONE]][MULTIPLES_OF[THREE]], 10).
+  map { |p| to_integer(p) }
+
+def multiples_of(n)
+  Enumerator.new do |yielder|
+    value = n
+    loop do
+      yielder.yield(value)
+      value = value + n
+    end
+  end
+end
+
+multiples_of_three = multiples_of(3)
+multiples_of_three.next
+multiples_of_three.next
+multiples_of_three.next
+multiples_of(3).first
+multiples_of(3).take(10)
+multiples_of(3).detect { |x| x > 100 }
+multiples_of(3).lazy.map { |x| x * 2 }.take(10).force
+multiples_of(3).lazy.map { |x| x * 2 }.select { |x| x > 100 }.take(10).force
+multiples_of(3).lazy.zip(multiples_of(4)).map { |a, b| a * b }.take(10).force
+
+def decrease(m, n)
+  if n <= m
+    m - n
+  else
+    m
+  end
+end
+
+decrease(17, 5)
+decrease(decrease(17, 5), 5)
+decrease(decrease(decrease(17, 5), 5), 5)
+decrease(decrease(decrease(decrease(17, 5), 5), 5), 5)
+decrease(decrease(decrease(decrease(decrease(17, 5), 5), 5), 5), 5)
+MOD =
+  -> m { -> n {
+    m[-> x {
+      IF[IS_LESS_OR_EQUAL[n][x]][
+        SUBTRACT[x][n]
+      ][
+        x
+      ]
+    }][m]
+  } }
+to_integer(MOD[THREE][TWO])
+to_integer(MOD[
+     POWER[THREE][THREE]
+   ][
+     ADD[THREE][TWO]
+   ])
+to_integer(MOD[THREE][ZERO])
+
+def countdown(pair)
+  [pair.first.unshift(pair.last), pair.last - 1]
+end
+
+countdown([[], 10])
+countdown(countdown([[], 10]))
+countdown(countdown(countdown([[], 10])))
+countdown(countdown(countdown(countdown([[], 10]))))
+COUNTDOWN = -> p { PAIR[UNSHIFT[LEFT[p]][RIGHT[p]]][DECREMENT[RIGHT[p]]] }
+RANGE = -> m { -> n { LEFT[INCREMENT[SUBTRACT[n][m]][COUNTDOWN][PAIR[EMPTY][n]]] } }
+to_array(RANGE[FIVE][TEN]).map { |p| to_integer(p) }
+
+one =
+  LCFunction.new(:p,
+    LCFunction.new(:x,
+      LCCall.new(LCVariable.new(:p), LCVariable.new(:x))
+    )
+  )
+increment =
+  LCFunction.new(:n,
+    LCFunction.new(:p,
+      LCFunction.new(:x,
+        LCCall.new(
+          LCVariable.new(:p),
+          LCCall.new(
+            LCCall.new(LCVariable.new(:n), LCVariable.new(:p)),
+            LCVariable.new(:x)
+          )
+        )
+      )
+    )
+  )
+add =
+  LCFunction.new(:m,
+    LCFunction.new(:n,
+      LCCall.new(LCCall.new(LCVariable.new(:n), increment), LCVariable.new(:m))
+    )
+  )
+
+expression = LCVariable.new(:x)
+expression.replace(:x, LCFunction.new(:y, LCVariable.new(:y)))
+expression.replace(:z, LCFunction.new(:y, LCVariable.new(:y)))
+expression =
+  LCCall.new(
+    LCCall.new(
+      LCCall.new(
+        LCVariable.new(:a),
+        LCVariable.new(:b)
+      ),
+      LCVariable.new(:c)
+    ),
+    LCVariable.new(:b)
+  )
+expression.replace(:a, LCVariable.new(:x))
+expression.replace(:b, LCFunction.new(:x, LCVariable.new(:x)))
+expression =
+  LCFunction.new(:y,
+    LCCall.new(LCVariable.new(:x), LCVariable.new(:y))
+  )
+expression.replace(:x, LCVariable.new(:z))
+expression.replace(:y, LCVariable.new(:z))
+expression =
+  LCCall.new(
+    LCCall.new(LCVariable.new(:x), LCVariable.new(:y)),
+    LCFunction.new(:y, LCCall.new(LCVariable.new(:y), LCVariable.new(:x)))
+  )
+expression.replace(:x, LCVariable.new(:z))
+expression.replace(:y, LCVariable.new(:z))
+expression =
+  LCFunction.new(:x,
+    LCCall.new(LCVariable.new(:x), LCVariable.new(:y))
+  )
+replacement = LCCall.new(LCVariable.new(:z), LCVariable.new(:x))
+expression.replace(:y, replacement)
+
+function =
+  LCFunction.new(:x,
+    LCFunction.new(:y,
+      LCCall.new(LCVariable.new(:x), LCVariable.new(:y))
+    )
+  )
+argument = LCFunction.new(:z, LCVariable.new(:z))
+function.call(argument)
+
+expression = LCCall.new(LCCall.new(add, one), one)
+while expression.reducible?
+  puts expression
+  expression = expression.reduce
+end; puts expression
+inc, zero = LCVariable.new(:inc), LCVariable.new(:zero)
+expression = LCCall.new(LCCall.new(expression, inc), zero)
+while expression.reducible?
+  puts expression
+  expression = expression.reduce
+end; puts expression
+require 'treetop'
+Treetop.load('lambda_calculus')
+parse_tree = LambdaCalculusParser.new.parse('-> x { x[x] }[-> y { y }]')
+expression = parse_tree.to_ast
+expression.reduce

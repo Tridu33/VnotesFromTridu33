@@ -1,0 +1,51 @@
+{
+    "created_time": "2022-12-31T10:18:07Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:07Z",
+            "id": "22814",
+            "modified_time": "2022-12-31T10:18:07Z",
+            "name": "z真题.md",
+            "signature": "122932226427999",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:07Z",
+            "id": "22815",
+            "modified_time": "2022-12-31T10:18:07Z",
+            "name": "雅思学习本机.md",
+            "signature": "50407408667743",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:07Z",
+            "id": "22816",
+            "modified_time": "2022-12-31T10:18:07Z",
+            "name": "雅思精听.md",
+            "signature": "29593997151327",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:07Z",
+            "id": "22817",
+            "modified_time": "2022-12-31T10:18:07Z",
+            "name": "雅思精度.md",
+            "signature": "21540933471327",
+            "tags": [
+            ]
+        }
+    ],
+    "folders": [
+    ],
+    "id": "22813",
+    "modified_time": "2022-12-31T10:18:07Z",
+    "signature": "97901157026911",
+    "version": 3
+}

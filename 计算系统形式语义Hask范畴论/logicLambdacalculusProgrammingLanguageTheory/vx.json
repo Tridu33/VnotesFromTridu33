@@ -1,0 +1,61 @@
+{
+    "created_time": "2022-12-31T10:18:14Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:14Z",
+            "id": "24780",
+            "modified_time": "2022-12-31T10:18:14Z",
+            "name": "logicLambdacalculusProgrammingLanguageTheory.md",
+            "signature": "117344473975910",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:14Z",
+            "id": "24781",
+            "modified_time": "2022-12-31T10:18:14Z",
+            "name": "Scott-Siek-LC2018Ses0.pdf",
+            "signature": "80124287388774",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:14Z",
+            "id": "24782",
+            "modified_time": "2022-12-31T10:18:14Z",
+            "name": "Scott-Siek-LC2018Ses1.pdf",
+            "signature": "71843590442086",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:14Z",
+            "id": "24783",
+            "modified_time": "2022-12-31T10:18:14Z",
+            "name": "Scott-Siek-LC2018Ses2.pdf",
+            "signature": "115596422286438",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:14Z",
+            "id": "24784",
+            "modified_time": "2022-12-31T10:18:14Z",
+            "name": "Scott-Siek-LC2018Ses3.pdf",
+            "signature": "35576886594662",
+            "tags": [
+            ]
+        }
+    ],
+    "folders": [
+    ],
+    "id": "24779",
+    "modified_time": "2022-12-31T10:18:14Z",
+    "signature": "107655027756134",
+    "version": 3
+}

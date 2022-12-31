@@ -1,0 +1,69 @@
+{
+    "created_time": "2022-12-31T10:18:02Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:02Z",
+            "id": "21486",
+            "modified_time": "2022-12-31T10:18:02Z",
+            "name": "FARule.swift",
+            "signature": "124426875047002",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:02Z",
+            "id": "21508",
+            "modified_time": "2022-12-31T10:18:02Z",
+            "name": "PDAConfiguration.swift",
+            "signature": "10885119609946",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:02Z",
+            "id": "21509",
+            "modified_time": "2022-12-31T10:18:02Z",
+            "name": "PDARule.swift",
+            "signature": "25986224622682",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:02Z",
+            "id": "21517",
+            "modified_time": "2022-12-31T10:18:02Z",
+            "name": "Stack.swift",
+            "signature": "81889518947418",
+            "tags": [
+            ]
+        }
+    ],
+    "folders": [
+        {
+            "name": "DFA"
+        },
+        {
+            "name": "DPDA"
+        },
+        {
+            "name": "NFA"
+        },
+        {
+            "name": "NPDA"
+        },
+        {
+            "name": "RE"
+        },
+        {
+            "name": "TM"
+        }
+    ],
+    "id": "21470",
+    "modified_time": "2022-12-31T10:18:02Z",
+    "signature": "137638194449498",
+    "version": 3
+}

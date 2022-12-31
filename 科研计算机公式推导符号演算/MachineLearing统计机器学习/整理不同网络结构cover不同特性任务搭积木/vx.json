@@ -1,0 +1,47 @@
+{
+    "created_time": "2022-12-31T10:18:08Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:08Z",
+            "id": "23298",
+            "modified_time": "2022-12-31T10:18:08Z",
+            "name": "全aicheatsheets.md",
+            "signature": "85853773761632",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:08Z",
+            "id": "23302",
+            "modified_time": "2022-12-31T10:18:08Z",
+            "name": "整理不同网络结构cover不同特性任务搭积木.md",
+            "signature": "13655373515872",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:08Z",
+            "id": "23303",
+            "modified_time": "2022-12-31T10:18:08Z",
+            "name": "神经网络.md",
+            "signature": "84414959717472",
+            "tags": [
+            ]
+        }
+    ],
+    "folders": [
+        {
+            "name": "RNN循环神经网络"
+        },
+        {
+            "name": "卷积系CNN图像处理"
+        }
+    ],
+    "id": "23293",
+    "modified_time": "2022-12-31T10:18:08Z",
+    "signature": "118680208804960",
+    "version": 3
+}

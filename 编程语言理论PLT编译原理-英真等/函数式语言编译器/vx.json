@@ -1,0 +1,51 @@
+{
+    "created_time": "2022-12-31T10:18:13Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:13Z",
+            "id": "24488",
+            "modified_time": "2022-12-31T10:18:13Z",
+            "name": "15-501-15-819 HOT Compilation, Fall 2006.url",
+            "signature": "62536396311653",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:13Z",
+            "id": "24489",
+            "modified_time": "2022-12-31T10:18:13Z",
+            "name": "conversion-assn.tgz",
+            "signature": "5860007873637",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:13Z",
+            "id": "24490",
+            "modified_time": "2022-12-31T10:18:13Z",
+            "name": "Modern Compiler Implementation in ML.url",
+            "signature": "26377066646629",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:13Z",
+            "id": "24491",
+            "modified_time": "2022-12-31T10:18:13Z",
+            "name": "函数式语言编译器.md",
+            "signature": "69146350980197",
+            "tags": [
+            ]
+        }
+    ],
+    "folders": [
+    ],
+    "id": "24487",
+    "modified_time": "2022-12-31T10:18:13Z",
+    "signature": "42951345441893",
+    "version": 3
+}

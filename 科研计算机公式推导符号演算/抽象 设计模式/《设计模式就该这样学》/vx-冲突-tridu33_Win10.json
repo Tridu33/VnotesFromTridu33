@@ -1,0 +1,55 @@
+{
+    "created_time": "2021-08-06T00:12:03Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "created_time": "2021-08-06T00:12:03Z",
+            "id": "0",
+            "modified_time": "2021-08-06T00:12:03Z",
+            "name": "23种设计模式.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2021-08-06T00:12:03Z",
+            "id": "0",
+            "modified_time": "2021-08-06T00:12:03Z",
+            "name": "Java设计模式.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2021-08-06T00:12:03Z",
+            "id": "0",
+            "modified_time": "2021-08-06T00:12:03Z",
+            "name": "《设计模式就该这样学》.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2021-08-06T00:12:03Z",
+            "id": "0",
+            "modified_time": "2021-08-06T00:12:03Z",
+            "name": "多线程编程的12种设计模式.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2021-08-06T00:12:03Z",
+            "id": "0",
+            "modified_time": "2021-08-06T00:12:03Z",
+            "name": "设计模式之软件设计七大原则.md",
+            "tags": [
+            ]
+        }
+    ],
+    "folders": [
+    ],
+    "id": "0",
+    "modified_time": "2021-08-06T00:12:03Z",
+    "version": "1"
+}

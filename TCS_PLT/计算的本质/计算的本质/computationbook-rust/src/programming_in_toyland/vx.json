@@ -1,0 +1,27 @@
+{
+    "created_time": "2022-12-31T10:18:03Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:03Z",
+            "id": "21731",
+            "modified_time": "2022-12-31T10:18:03Z",
+            "name": "mod.rs",
+            "signature": "127373222612059",
+            "tags": [
+            ]
+        }
+    ],
+    "folders": [
+        {
+            "name": "signs"
+        },
+        {
+            "name": "types"
+        }
+    ],
+    "id": "21730",
+    "modified_time": "2022-12-31T10:18:03Z",
+    "signature": "96689976249435",
+    "version": 3
+}

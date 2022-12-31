@@ -1,0 +1,161 @@
+{
+    "created_time": "2022-12-31T10:18:06Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:06Z",
+            "id": "22556",
+            "modified_time": "2022-12-31T10:18:06Z",
+            "name": "bayes贝叶斯参数估计.md",
+            "signature": "131303117687902",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:06Z",
+            "id": "22557",
+            "modified_time": "2022-12-31T10:18:06Z",
+            "name": "《统计计算》.md",
+            "signature": "117580697177182",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:06Z",
+            "id": "22558",
+            "modified_time": "2022-12-31T10:18:06Z",
+            "name": "三门问题囚徒问题.md",
+            "signature": "109647892581470",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:06Z",
+            "id": "22559",
+            "modified_time": "2022-12-31T10:18:06Z",
+            "name": "三门问题求解.md",
+            "signature": "76155737607262",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:06Z",
+            "id": "22560",
+            "modified_time": "2022-12-31T10:18:06Z",
+            "name": "常见概率分布模型的关系.md",
+            "signature": "47435291298910",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:06Z",
+            "id": "22561",
+            "modified_time": "2022-12-31T10:18:06Z",
+            "name": "拉普拉斯《概率的哲学》.md",
+            "signature": "87369897217118",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:06Z",
+            "id": "22562",
+            "modified_time": "2022-12-31T10:18:06Z",
+            "name": "方差的期望公式推导.md",
+            "signature": "70726898945118",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:06Z",
+            "id": "22563",
+            "modified_time": "2022-12-31T10:18:06Z",
+            "name": "泊松分布.md",
+            "signature": "128850691361886",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:06Z",
+            "id": "22564",
+            "modified_time": "2022-12-31T10:18:06Z",
+            "name": "测度.md",
+            "signature": "32334186286174",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:06Z",
+            "id": "22565",
+            "modified_time": "2022-12-31T10:18:06Z",
+            "name": "独立和条件独立.md",
+            "signature": "132784881405022",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:06Z",
+            "id": "22566",
+            "modified_time": "2022-12-31T10:18:06Z",
+            "name": "神图统计.md",
+            "signature": "54264289299550",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:06Z",
+            "id": "22567",
+            "modified_time": "2022-12-31T10:18:06Z",
+            "name": "肥尾长尾分布.md",
+            "signature": "21472213994590",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:06Z",
+            "id": "22568",
+            "modified_time": "2022-12-31T10:18:06Z",
+            "name": "贝叶斯公式.md",
+            "signature": "76267406756958",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:06Z",
+            "id": "22569",
+            "modified_time": "2022-12-31T10:18:06Z",
+            "name": "随机过程.md",
+            "signature": "125586516216926",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:06Z",
+            "id": "22570",
+            "modified_time": "2022-12-31T10:18:06Z",
+            "name": "马尔可夫链收敛.md",
+            "signature": "2497048480862",
+            "tags": [
+            ]
+        }
+    ],
+    "folders": [
+    ],
+    "id": "22555",
+    "modified_time": "2022-12-31T10:18:06Z",
+    "signature": "22477236341854",
+    "version": 3
+}

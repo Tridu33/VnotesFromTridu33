@@ -1,0 +1,71 @@
+{
+    "created_time": "2022-12-31T10:18:14Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:14Z",
+            "id": "24942",
+            "modified_time": "2022-12-31T10:18:14Z",
+            "name": "Haskell中定义Y组合子.md",
+            "signature": "133527910747238",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:14Z",
+            "id": "24943",
+            "modified_time": "2022-12-31T10:18:14Z",
+            "name": "Y不动点组合子.md",
+            "signature": "116386696268902",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:14Z",
+            "id": "24944",
+            "modified_time": "2022-12-31T10:18:14Z",
+            "name": "对比λ演算和组合子逻辑.md",
+            "signature": "93619074632806",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:14Z",
+            "id": "24945",
+            "modified_time": "2022-12-31T10:18:14Z",
+            "name": "组合子逻辑.md",
+            "signature": "51824747875430",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:14Z",
+            "id": "24946",
+            "modified_time": "2022-12-31T10:18:14Z",
+            "name": "论面向组合子程序设计方法系列blog.md",
+            "signature": "27747161214054",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:14Z",
+            "id": "24947",
+            "modified_time": "2022-12-31T10:18:14Z",
+            "name": "逻辑最小完备符号集.md",
+            "signature": "87580350614630",
+            "tags": [
+            ]
+        }
+    ],
+    "folders": [
+    ],
+    "id": "24941",
+    "modified_time": "2022-12-31T10:18:14Z",
+    "signature": "57730327907430",
+    "version": 3
+}

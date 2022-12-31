@@ -1,0 +1,41 @@
+{
+    "created_time": "2022-12-31T10:18:03Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:03Z",
+            "id": "21801",
+            "modified_time": "2022-12-31T10:18:03Z",
+            "name": "iota.rs",
+            "signature": "9390470990939",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:03Z",
+            "id": "21802",
+            "modified_time": "2022-12-31T10:18:03Z",
+            "name": "mod.rs",
+            "signature": "69133466078299",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:03Z",
+            "id": "21803",
+            "modified_time": "2022-12-31T10:18:03Z",
+            "name": "to_iota.rs",
+            "signature": "88684157209691",
+            "tags": [
+            ]
+        }
+    ],
+    "folders": [
+    ],
+    "id": "21800",
+    "modified_time": "2022-12-31T10:18:03Z",
+    "signature": "132643147484251",
+    "version": 3
+}

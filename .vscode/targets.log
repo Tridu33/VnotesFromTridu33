@@ -1,0 +1,385 @@
+make.exe all --print-data-base --no-builtin-variables --no-builtin-rules --question
+make: *** No rule to make target 'all'.  Stop.
+
+# GNU Make 4.3
+# Built for Windows32
+# Copyright (C) 1988-2020 Free Software Foundation, Inc.
+# License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>
+# This is free software: you are free to change and redistribute it.
+# There is NO WARRANTY, to the extent permitted by law.
+
+# Make data base, printed on Wed Jun 08 11:41:25 2022
+
+# Variables
+
+# environment
+ORACLE_JAVAHOME = C:\Program Files (x86)\Common Files\Oracle\Java\javapath
+# environment
+GO111MODULE = auto
+# environment
+JAVA_HOME = C:\Program Files\Java\jdk1.8.0_261
+# environment
+SYSTEMDRIVE = C:
+# environment
+GHCUP_INSTALL_BASE_PREFIX = D:\
+# environment
+LC_ALL = C
+# environment
+_MSYS2_BASH = C:\tools\msys64\usr\bin\bash.exe
+# environment
+USERPROFILE = C:\Users\HUMAN
+# environment
+VBOX_MSI_INSTALL_PATH = C:\Program Files\Oracle\VirtualBox\
+# environment
+LOCALAPPDATA = C:\Users\HUMAN\AppData\Local
+# environment
+VSCODE_IPC_HOOK_EXTHOST = \\.\pipe\vscode-ipc-de5eb2c7-d9b5-4825-bc8e-416af0093bcb-sock
+# environment
+VSCODE_CWD = D:\Users\HUMAN\AppData\Local\Programs\Microsoft VS Code
+# environment
+CHOCOLATEYINSTALL = C:\ProgramData\chocolatey
+# environment
+SYSTEMROOT = C:\WINDOWS
+# environment
+PROCESSOR_LEVEL = 6
+# environment
+PSMODULEPATH = C:\Program Files\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules
+# default
+MAKE_COMMAND := C:/ProgramData/chocolatey/lib/make/tools/install/bin/make.exe
+# environment
+TEMP_DLL_ENVIRONMENT = ;
+# environment
+GOPATH = C:\Users\HUMAN\go
+# automatic
+@D = $(patsubst %/,%,$(patsubst %\,%,$(dir $@)))
+# environment
+LUA_DEV = D:\Program Files (x86)\Lua\5.1
+# environment
+CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_26436_PSCROUYCFAZPXEGQ
+# environment
+VS160COMCOMNTOOLS = C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\Tools\
+# environment
+VSCODE_HANDLES_UNCAUGHT_ERRORS = true
+# default
+.VARIABLES := 
+# automatic
+%D = $(patsubst %/,%,$(patsubst %\,%,$(dir $%)))
+# automatic
+^D = $(patsubst %/,%,$(patsubst %\,%,$(dir $^)))
+# environment
+VSCODE_LOG_STACK = false
+# automatic
+%F = $(notdir $%)
+# environment
+VSCODE_CODE_CACHE_PATH = C:\Users\HUMAN\AppData\Roaming\Code\CachedData\c3511e6c69bb39013c4a4b7b9566ec1ca73fc4d5
+# environment
+LANG = C
+# default
+.LOADED := 
+# environment
+TMP = C:\Users\HUMAN\AppData\Local\Temp
+# default
+.INCLUDE_DIRS = .
+# environment
+PROCESSOR_ARCHITEW6432 = AMD64
+# makefile
+MAKEFLAGS = pqrR
+# environment
+TOMCAT_CLASSPATH = D:\arch\apache-tomcat-9.0.39\lib\servlet-api.jar
+# environment
+ONEDRIVE = C:\Users\HUMAN\OneDrive
+# makefile
+CURDIR := d:/tridu33/Nutstore/VnotesFromTridu33
+# environment
+VSCODE_PIPE_LOGGING = true
+# environment
+APPLICATION_INSIGHTS_NO_DIAGNOSTIC_CHANNEL = true
+# automatic
+*D = $(patsubst %/,%,$(patsubst %\,%,$(dir $*)))
+# environment
+PROGRAMFILES = C:\Program Files (x86)
+# environment
+MFLAGS = -pqrR
+# default
+.SHELLFLAGS := -c
+# environment
+COMMONPROGRAMW6432 = C:\Program Files\Common Files
+# automatic
++D = $(patsubst %/,%,$(patsubst %\,%,$(dir $+)))
+# makefile
+MAKEFILE_LIST := 
+# automatic
+@F = $(notdir $@)
+# environment
+VSCODE_VERBOSE_LOGGING = true
+# environment
+VSCODE_PID = 26436
+# environment
+PYTHONPATH0 = D:\ProgramData\Anaconda3
+# environment
+CLION = D:\Program Files\JetBrains\CLion 2022.1\bin;
+# environment
+CUDA_PATH = C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.0
+# automatic
+?D = $(patsubst %/,%,$(patsubst %\,%,$(dir $?)))
+# automatic
+*F = $(notdir $*)
+# environment
+JAVA11_HOME = C:\Users\HUMAN\.jdks\adopt-openjdk-11.0.11
+# environment
+PYTHONHOME0 = D:\ProgramData\Anaconda3
+# environment
+LUA_PATH = ;;D:\Program Files (x86)\Lua\5.1\lua\?.luac
+# automatic
+<D = $(patsubst %/,%,$(patsubst %\,%,$(dir $<)))
+# environment
+MUJOCO_PY_MJKEY_PATH = C:\Users\HUMAN\.mujoco\mjpro131\bin
+# environment
+VSCODE_NLS_CONFIG = {"locale":"zh-cn","availableLanguages":{"*":"zh-cn"},"_languagePackId":"42e84e0914b17800d483f69e299e1b00.zh-cn","_translationsConfigFile":"C:\\Users\\HUMAN\\AppData\\Roaming\\Code\\clp\\42e84e0914b17800d483f69e299e1b00.zh-cn\\tcf.json","_cacheRoot":"C:\\Users\\HUMAN\\AppData\\Roaming\\Code\\clp\\42e84e0914b17800d483f69e299e1b00.zh-cn","_resolvedLanguagePackCoreLocation":"C:\\Users\\HUMAN\\AppData\\Roaming\\Code\\clp\\42e84e0914b17800d483f69e299e1b00.zh-cn\\c3511e6c69bb39013c4a4b7b9566ec1ca73fc4d5","_corruptedFile":"C:\\Users\\HUMAN\\AppData\\Roaming\\Code\\clp\\42e84e0914b17800d483f69e299e1b00.zh-cn\\corrupted.info","_languagePackSupport":true}
+# environment
+ONEDRIVECONSUMER = C:\Users\HUMAN\OneDrive
+# default
+MAKE_HOST := Windows32
+# environment
+PROGRAMDATA = C:\ProgramData
+# default
+SHELL := sh.exe
+# environment
+CLASSPATH = .;%JAVA_HOME%\lib\dt.jar;%JAVA_HOME%\lib\tools.jar;
+# environment
+HOMEPATH = \Users\HUMAN
+# environment
+PLATFORMIO_CALLER = vscode
+# default
+MAKECMDGOALS := all
+# environment
+RUBYOPT = -Eutf-8
+# environment
+DRIVERDATA = C:\Windows\System32\Drivers\DriverData
+# environment
+COMSPEC = C:\WINDOWS\system32\cmd.exe
+# environment
+WINDIR = C:\WINDOWS
+# environment
+MAKELEVEL := 0
+# default
+MAKE = $(MAKE_COMMAND)
+# environment
+PATH = C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files\Microsoft\jdk-11.0.12.7-hotspot\bin;D:\Program Files\VMware\VMwareWorkstation\bin\;C:\Python39\Scripts\;C:\Python39\;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.0\bin;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.0\libnvvp;C:\Python38\Scripts\;C:\Python38\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Pandoc\;C:\ProgramData\chocolatey\bin;C:\texlive\2020\bin\win32;D:\Program Files\Git\cmd;D:\Program Files (x86)\Lua\5.1;D:\Program Files (x86)\Lua\5.1\clibs;C:\Program Files\TortoiseSVN\bin;D:\Program Files\CMake\bin;D:\Program Files (x86)\Yarn\bin\;C:\Program Files\NVIDIA Corporation\Nsight Compute 2020.1.2\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;D:\Users\HUMAN\AppData\Roaming\nvm;C:\Program Files\nodejs;D:\Program Files\Go\bin;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Graphviz\bin;C:\Program Files\dotnet\;D:\arch\png2ico;D;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Java\jdk1.8.0_261;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;D:\Program Files\LLVM\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Docker\Docker\resources\bin;C:\ProgramData\DockerDesktop\version-bin;D:\Program Files\nodejs\;D:\win-v8\depot_tools;D:\Program Files\IBM\ILOG\CPLEX_Studio_Community201\opl\bin\x64_win64;D:\Program Files\IBM\ILOG\CPLEX_Studio_Community201\opl\oplide\;D:\Program Files\IBM\ILOG\CPLEX_Studio_Community201\cplex\bin\x64_win64;D:\Program Files\IBM\ILOG\CPLEX_Studio_Community201\cpoptimizer\bin\x64_win64;D:\Program Files\VMware\VMwareWorkstation\bin\;C:\Python39\Scripts\;C:\Python39\;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.0\bin;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.0\libnvvp;C:\Python38\Scripts\;C:\Python38\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Pandoc\;C:\ProgramData\chocolatey\bin;C:\texlive\2020\bin\win32;D:\Program Files\MATLAB\R2020a\runtime\win64;D:\Program Files\MATLAB\R2020a\bin;D:\Program Files\Git\cmd;C:\Program Files\Docker\Docker\resources\bin;C:\ProgramData\DockerDesktop\version-bin;D:\Program Files (x86)\Lua\5.1;D:\Program Files (x86)\Lua\5.1\clibs;C:\Program Files\TortoiseSVN\b;D:\arch\myexe;D:\arch\myexe\clingo;C:\Program Files\Java\jdk1.8.0_261\bin;C:\Program Files\Java\jdk1.8.0_261\jre\bin;D:\arch\myexe\protoc\bin;D:\arch\myenv;D:\Users\HUMAN\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\HUMAN\.dotnet\tools;C:\Users\HUMAN\AppData\Local\Microsoft\WindowsApps;D:\Program Files\Racket;C:\Users\HUMAN\AppData\Roaming\npm;F:\tridu33learning\!CSBooksMoocWebExercise\SICP\sicpJS\js-slang;;D:\Program Files\JetBrains\CLion 2022.1\bin;;D:\intelFPGA\17.1\modelsim_ase\win32aloem;D:\intelFPGA_lite\17.1\modelsim_ase\win32aloem
+# environment
+COMPUTERNAME = TRIDU33
+# default
+MAKEFILES := 
+# automatic
+^F = $(notdir $^)
+# environment
+_MSYS2_PREFIX = x86_64
+# environment
+PROMPT = $P$G
+# environment
+CHOCOLATEYLASTPATHUPDATE = 132586219286809606
+# environment
+NVTOOLSEXT_PATH = C:\Program Files\NVIDIA Corporation\NvToolsExt\
+# environment
+JAVA8_HOME = C:\Program Files\Java\jdk1.8.0_261
+# environment
+INTELLIJ IDEA = D:\Program Files\IntelliJ IDEA 2020.2.2\bin;
+# environment
+LOGONSERVER = \\TRIDU33
+# environment
+QSYS_ROOTDIR = D:\intelFPGA_lite\17.1\quartus\sopc_builder\bin
+# environment
+VSCODE_LOG_NATIVE = false
+# environment
+MUJOCO = C:\Users\HUMAN\.mujoco\mjpro200
+# environment
+USERNAME = HUMAN
+# environment
+COMMONPROGRAMFILES = C:\Program Files (x86)\Common Files
+# automatic
+?F = $(notdir $?)
+# environment
+PROGRAMW6432 = C:\Program Files
+# environment
+NO_PROXY = 127.0.0.1
+# environment
+PATHEXT = .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.wlua;.lexe
+# automatic
++F = $(notdir $+)
+# environment
+ORIGINAL_XDG_CURRENT_DESKTOP = undefined
+# environment
+MAVEN_HOME = D:\arch\apache-maven-3.6.3
+# environment
+USERDOMAIN = TRIDU33
+# 'override' directive
+GNUMAKEFLAGS := 
+# environment
+JAVA15_HOME = C:\Program Files\Java\jdk-15
+# environment
+VS140COMNTOOLS = C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\Tools\
+# environment
+OS = Windows_NT
+# environment
+TOMCAT_HOME = D:\arch\apache-tomcat-9.0.39
+# environment
+NVM_NODEJS_ORG_MIRROR = https://npm.taobao.org/mirrors/node
+# environment
+PLATFORMIO_PATH = C:\Users\HUMAN\.platformio\python3;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files\Microsoft\jdk-11.0.12.7-hotspot\bin;D:\Program Files\VMware\VMwareWorkstation\bin\;C:\Python39\Scripts\;C:\Python39\;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.0\bin;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.0\libnvvp;C:\Python38\Scripts\;C:\Python38\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Pandoc\;C:\ProgramData\chocolatey\bin;C:\texlive\2020\bin\win32;D:\Program Files\Git\cmd;D:\Program Files (x86)\Lua\5.1;D:\Program Files (x86)\Lua\5.1\clibs;C:\Program Files\TortoiseSVN\bin;D:\Program Files\CMake\bin;D:\Program Files (x86)\Yarn\bin\;C:\Program Files\NVIDIA Corporation\Nsight Compute 2020.1.2\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;D:\Users\HUMAN\AppData\Roaming\nvm;C:\Program Files\nodejs;D:\Program Files\Go\bin;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Graphviz\bin;C:\Program Files\dotnet\;D:\arch\png2ico;D;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Java\jdk1.8.0_261;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;D:\Program Files\LLVM\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Docker\Docker\resources\bin;C:\ProgramData\DockerDesktop\version-bin;D:\Program Files\nodejs\;D:\win-v8\depot_tools;D:\Program Files\IBM\ILOG\CPLEX_Studio_Community201\opl\bin\x64_win64;D:\Program Files\IBM\ILOG\CPLEX_Studio_Community201\opl\oplide\;D:\Program Files\IBM\ILOG\CPLEX_Studio_Community201\cplex\bin\x64_win64;D:\Program Files\IBM\ILOG\CPLEX_Studio_Community201\cpoptimizer\bin\x64_win64;D:\Program Files\VMware\VMwareWorkstation\bin\;C:\Python39\Scripts\;C:\Python39\;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.0\bin;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.0\libnvvp;C:\Python38\Scripts\;C:\Python38\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Pandoc\;C:\ProgramData\chocolatey\bin;C:\texlive\2020\bin\win32;D:\Program Files\MATLAB\R2020a\runtime\win64;D:\Program Files\MATLAB\R2020a\bin;D:\Program Files\Git\cmd;C:\Program Files\Docker\Docker\resources\bin;C:\ProgramData\DockerDesktop\version-bin;D:\Program Files (x86)\Lua\5.1;D:\Program Files (x86)\Lua\5.1\clibs;C:\Program Files\TortoiseSVN\b;D:\arch\myexe;D:\arch\myexe\clingo;C:\Program Files\Java\jdk1.8.0_261\bin;C:\Program Files\Java\jdk1.8.0_261\jre\bin;D:\arch\myexe\protoc\bin;D:\arch\myenv;D:\Users\HUMAN\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\HUMAN\.dotnet\tools;C:\Users\HUMAN\AppData\Local\Microsoft\WindowsApps;D:\Program Files\Racket;C:\Users\HUMAN\AppData\Roaming\npm;F:\tridu33learning\!CSBooksMoocWebExercise\SICP\sicpJS\js-slang;;D:\Program Files\JetBrains\CLion 2022.1\bin;;D:\intelFPGA\17.1\modelsim_ase\win32aloem;D:\intelFPGA_lite\17.1\modelsim_ase\win32aloem;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files\Microsoft\jdk-11.0.12.7-hotspot\bin;D:\Program Files\VMware\VMwareWorkstation\bin\;C:\Python39\Scripts\;C:\Python39\;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.0\bin;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.0\libnvvp;C:\Python38\Scripts\;C:\Python38\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Pandoc\;C:\ProgramData\chocolatey\bin;C:\texlive\2020\bin\win32;D:\Program Files\Git\cmd;D:\Program Files (x86)\Lua\5.1;D:\Program Files (x86)\Lua\5.1\clibs;C:\Program Files\TortoiseSVN\bin;D:\Program Files\CMake\bin;D:\Program Files (x86)\Yarn\bin\;C:\Program Files\NVIDIA Corporation\Nsight Compute 2020.1.2\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;D:\Users\HUMAN\AppData\Roaming\nvm;C:\Program Files\nodejs;D:\Program Files\Go\bin;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Graphviz\bin;C:\Program Files\dotnet\;D:\arch\png2ico;D;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Java\jdk1.8.0_261;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;D:\Program Files\LLVM\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Docker\Docker\resources\bin;C:\ProgramData\DockerDesktop\version-bin;D:\Program Files\nodejs\;D:\win-v8\depot_tools;D:\Program Files\IBM\ILOG\CPLEX_Studio_Community201\opl\bin\x64_win64;D:\Program Files\IBM\ILOG\CPLEX_Studio_Community201\opl\oplide\;D:\Program Files\IBM\ILOG\CPLEX_Studio_Community201\cplex\bin\x64_win64;D:\Program Files\IBM\ILOG\CPLEX_Studio_Community201\cpoptimizer\bin\x64_win64;D:\Program Files\VMware\VMwareWorkstation\bin\;C:\Python39\Scripts\;C:\Python39\;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.0\bin;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.0\libnvvp;C:\Python38\Scripts\;C:\Python38\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Pandoc\;C:\ProgramData\chocolatey\bin;C:\texlive\2020\bin\win32;D:\Program Files\MATLAB\R2020a\runtime\win64;D:\Program Files\MATLAB\R2020a\bin;D:\Program Files\Git\cmd;C:\Program Files\Docker\Docker\resources\bin;C:\ProgramData\DockerDesktop\version-bin;D:\Program Files (x86)\Lua\5.1;D:\Program Files (x86)\Lua\5.1\clibs;C:\Program Files\TortoiseSVN\b;D:\arch\myexe;D:\arch\myexe\clingo;C:\Program Files\Java\jdk1.8.0_261\bin;C:\Program Files\Java\jdk1.8.0_261\jre\bin;D:\arch\myexe\protoc\bin;D:\arch\myenv;D:\Users\HUMAN\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\HUMAN\.dotnet\tools;C:\Users\HUMAN\AppData\Local\Microsoft\WindowsApps;D:\Program Files\Racket;C:\Users\HUMAN\AppData\Roaming\npm;F:\tridu33learning\!CSBooksMoocWebExercise\SICP\sicpJS\js-slang;;D:\Program Files\JetBrains\CLion 2022.1\bin;;D:\intelFPGA\17.1\modelsim_ase\win32aloem;D:\intelFPGA_lite\17.1\modelsim_ase\win32aloem
+# makefile
+.DEFAULT_GOAL := 
+# default
+MAKE_VERSION := 4.3
+# environment
+PROGRAMFILES(X86) = C:\Program Files (x86)
+# environment
+NVCUDASAMPLES_ROOT = C:\ProgramData\NVIDIA Corporation\CUDA Samples\v11.0
+# environment
+USERDOMAIN_ROAMINGPROFILE = TRIDU33
+# environment
+CUDA_PATH_V11_0 = C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.0
+# environment
+NUMBER_OF_PROCESSORS = 12
+# environment
+PUBLIC = C:\Users\Public
+# environment
+QUARTUS_ROOTDIR = D:\intelFPGA_lite\17.1\quartus
+# environment
+SOPC_KIT_NIOS2 = D:\intelFPGA_lite\17.1\nios2eds
+# environment
+MOZ_PLUGIN_PATH = D:\PROGRAM FILES (X86)\FOXIT SOFTWARE\FOXIT PDF EDITOR\plugins\
+# environment
+APPDATA = C:\Users\HUMAN\AppData\Roaming
+# environment
+ALGS4_JAVA_HOME = C:\Users\HUMAN\algs4\java
+# environment
+HOMEDRIVE = C:
+# environment
+JAVA6_HOME = C:\Program Files\Java\jdk1.6.0_45
+# environment
+PROCESSOR_ARCHITECTURE = x86
+# environment
+M2_HOME = D:\arch\apache-maven-3.6.3
+# environment
+NODE_PATH = C:\Users\HUMAN\AppData\Roaming\npm
+# environment
+ORACLE_JAVA_PATH = C:\Program Files\Common Files\Oracle\Java\javapath
+# environment
+DEVECO STUDIO = D:\Program Files\Huawei\DevEco Studio\bin;
+# environment
+STACK_ROOT = C:\sr
+# environment
+VSCODE_AMD_ENTRYPOINT = vs/workbench/api/node/extensionHostProcess
+# environment
+PLATFORMIO_IDE = 2.4.3
+# environment
+COMMONPROGRAMFILES(X86) = C:\Program Files (x86)\Common Files
+# environment
+ELECTRON_RUN_AS_NODE = 1
+# environment
+TEMP = C:\Users\HUMAN\AppData\Local\Temp
+# environment
+VSCODE_IPC_HOOK = \\.\pipe\fbad41c6ad9eab1342ca8c72ce9f9784-1.67.2-main-sock
+# default
+.RECIPEPREFIX := 
+# automatic
+<F = $(notdir $<)
+# default
+SUFFIXES := 
+# environment
+ALLUSERSPROFILE = C:\ProgramData
+# environment
+SESSIONNAME = Console
+# default
+.FEATURES := target-specific order-only second-expansion else-if shortest-stem undefine oneshell nocomment grouped-target extra-prereqs archives jobserver output-sync load
+# environment
+PROCESSOR_REVISION = 9e0a
+# environment
+JAVA7_HOME = C:\Users\HUMAN\algs4\java
+# environment
+CUDA_HOME = C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.0
+# environment
+NVCUDASAMPLES11_0_ROOT = C:\ProgramData\NVIDIA Corporation\CUDA Samples\v11.0
+# environment
+CHOCOLATEYTOOLSLOCATION = C:\tools
+# environment
+PROCESSOR_IDENTIFIER = Intel64 Family 6 Model 158 Stepping 10, GenuineIntel
+# environment
+PLANTUML_JAR = D:\arch\plantUML\plantuml.jar
+# variable set hash-table stats:
+# Load=147/1024=14%, Rehash=0, Collisions=16/171=9%
+
+# Pattern-specific Variable Values
+
+# No pattern-specific variable values.
+
+# Directories
+
+# . (key d:/tridu33/Nutstore/VnotesFromTridu33, mtime 1654659181): 36 files, no impossibilities.
+
+# 36 files, no impossibilities in 1 directories.
+
+# Implicit Rules
+
+# No implicit rules.
+
+# Files
+
+# Not a target:
+Makefile:
+#  Implicit rule search has been done.
+#  File does not exist.
+#  File has been updated.
+#  Failed to be updated.
+
+# Not a target:
+.DEFAULT:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# Not a target:
+all:
+#  Command line target.
+#  Implicit rule search has been done.
+#  File does not exist.
+#  File has not been updated.
+
+# Not a target:
+makefile:
+#  Implicit rule search has been done.
+#  File does not exist.
+#  File has been updated.
+#  Failed to be updated.
+
+# Not a target:
+makefile.mak:
+#  Implicit rule search has been done.
+#  File does not exist.
+#  File has been updated.
+#  Failed to be updated.
+
+# Not a target:
+GNUmakefile:
+#  Implicit rule search has been done.
+#  File does not exist.
+#  File has been updated.
+#  Failed to be updated.
+
+# files hash-table stats:
+# Load=7/1024=1%, Rehash=0, Collisions=0/16=0%
+# VPATH Search Paths
+
+# No 'vpath' search paths.
+
+# No general ('VPATH' variable) search path.
+
+# strcache buffers: 1 (0) / strings = 43 / storage = 681 B / avg = 15 B
+# current buf: size = 8174 B / used = 681 B / count = 43 / avg = 15 B
+
+# strcache performance: lookups = 46 / hit rate = 6%
+# hash-table stats:
+# Load=43/8192=1%, Rehash=0, Collisions=0/46=0%
+# Finished Make data base on Wed Jun 08 11:41:25 2022
+
+ 

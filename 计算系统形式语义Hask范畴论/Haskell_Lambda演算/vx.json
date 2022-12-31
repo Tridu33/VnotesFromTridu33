@@ -1,0 +1,163 @@
+{
+    "created_time": "2022-12-31T10:18:14Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:14Z",
+            "id": "24750",
+            "modified_time": "2022-12-31T10:18:14Z",
+            "name": " LambdaLab-OCaml and Functional Programming.md",
+            "signature": "88379214531686",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:14Z",
+            "id": "24755",
+            "modified_time": "2022-12-31T10:18:14Z",
+            "name": "lambda_interp.md",
+            "signature": "82696972799078",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:14Z",
+            "id": "24760",
+            "modified_time": "2022-12-31T10:18:14Z",
+            "name": "LambdaLab-OCaml and Functional Programming.md",
+            "signature": "134713321720934",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:14Z",
+            "id": "24761",
+            "modified_time": "2022-12-31T10:18:14Z",
+            "name": "Lambda演算.md",
+            "signature": "63369619967078",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:14Z",
+            "id": "24762",
+            "modified_time": "2022-12-31T10:18:14Z",
+            "name": "lambda演算how探索实无穷.md",
+            "signature": "13621013777510",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:14Z",
+            "id": "24763",
+            "modified_time": "2022-12-31T10:18:14Z",
+            "name": "Lambda终极版.md",
+            "signature": "60225703906406",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:14Z",
+            "id": "24764",
+            "modified_time": "2022-12-31T10:18:14Z",
+            "name": "MDA_blog.md",
+            "signature": "25101461359718",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:14Z",
+            "id": "24765",
+            "modified_time": "2022-12-31T10:18:14Z",
+            "name": "MDA_bolg.md",
+            "signature": "74162872781926",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:14Z",
+            "id": "24766",
+            "modified_time": "2022-12-31T10:18:14Z",
+            "name": "SKI组合子.md",
+            "signature": "96677091347558",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:14Z",
+            "id": "24771",
+            "modified_time": "2022-12-31T10:18:14Z",
+            "name": "手把手教你做λ.md",
+            "signature": "72917332266086",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:14Z",
+            "id": "24772",
+            "modified_time": "2022-12-31T10:18:14Z",
+            "name": "用lambda表达式表示常见控制结构.md",
+            "signature": "58829839535206",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:14Z",
+            "id": "24773",
+            "modified_time": "2022-12-31T10:18:14Z",
+            "name": "结构化程序理论.md",
+            "signature": "66015319821414",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:14Z",
+            "id": "24774",
+            "modified_time": "2022-12-31T10:18:14Z",
+            "name": "认知科学家写给小白的lambda演算.md",
+            "signature": "42697942371430",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:14Z",
+            "id": "24775",
+            "modified_time": "2022-12-31T10:18:14Z",
+            "name": "（基于λ演算）。7行代码，3分钟，从0开始实现一个图灵等价的编程语言。.md",
+            "signature": "87047774669926",
+            "tags": [
+            ]
+        }
+    ],
+    "folders": [
+        {
+            "name": "DomainTheory-Dana Scott"
+        },
+        {
+            "name": "DomainTheory=lambda的语义（by Dana Scott）"
+        },
+        {
+            "name": "Lambda_NeuralNetwork"
+        },
+        {
+            "name": "不动点定理-偏序集"
+        }
+    ],
+    "id": "24749",
+    "modified_time": "2022-12-31T10:18:14Z",
+    "signature": "37947708542054",
+    "version": 3
+}

@@ -1,0 +1,56 @@
+{
+    "created_time": "2022-12-31T10:18:03Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:03Z",
+            "id": "21830",
+            "modified_time": "2022-12-31T10:18:03Z",
+            "name": ".gitattributes",
+            "signature": "10180744973403",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:04Z",
+            "id": "21971",
+            "modified_time": "2022-12-31T10:18:04Z",
+            "name": "README.md",
+            "signature": "137522230332508",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:04Z",
+            "id": "21972",
+            "modified_time": "2022-12-31T10:18:04Z",
+            "name": "ryoua-UnderstandingComputation- 🐚计算的本质.深入剖析程序和计算机 源码和笔记.url",
+            "signature": "1114069011548",
+            "tags": [
+            ]
+        }
+    ],
+    "folders": [
+        {
+            "name": ".idea"
+        },
+        {
+            "name": "chapter02"
+        },
+        {
+            "name": "chapter03"
+        },
+        {
+            "name": "chapter04"
+        },
+        {
+            "name": "chapter05"
+        }
+    ],
+    "id": "21829",
+    "modified_time": "2022-12-31T10:18:03Z",
+    "signature": "9695413668955",
+    "version": 3
+}

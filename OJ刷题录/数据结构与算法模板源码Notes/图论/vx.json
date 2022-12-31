@@ -1,0 +1,40 @@
+{
+    "created_time": "2022-12-31T10:18:00Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:00Z",
+            "id": "20946",
+            "modified_time": "2022-12-31T10:18:00Z",
+            "name": "AnyTree.md",
+            "signature": "82052727704664",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:00Z",
+            "id": "20947",
+            "modified_time": "2022-12-31T10:18:00Z",
+            "name": "Graph相关大组研究成果算法code.md",
+            "signature": "2080436653144",
+            "tags": [
+            ]
+        }
+    ],
+    "folders": [
+        {
+            "name": "图论CS算法"
+        },
+        {
+            "name": "图论数学研究相关"
+        },
+        {
+            "name": "超图超边"
+        }
+    ],
+    "id": "20945",
+    "modified_time": "2022-12-31T10:18:00Z",
+    "signature": "4356769320024",
+    "version": 3
+}

@@ -1,0 +1,178 @@
+{
+    "created_time": "2022-12-31T10:17:54Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:17:54Z",
+            "id": "19379",
+            "modified_time": "2022-12-31T10:17:54Z",
+            "name": "if __name__ == '__main__'.md",
+            "signature": "100503907208274",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:17:54Z",
+            "id": "19382",
+            "modified_time": "2022-12-31T10:17:54Z",
+            "name": "Pycharm中文指南.md",
+            "signature": "88761466621010",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:17:54Z",
+            "id": "19383",
+            "modified_time": "2022-12-31T10:17:54Z",
+            "name": "PyDoc文档.md",
+            "signature": "17787132054610",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:17:54Z",
+            "id": "19384",
+            "modified_time": "2022-12-31T10:17:54Z",
+            "name": "python_Online.md",
+            "signature": "101311361059922",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:17:54Z",
+            "id": "19385",
+            "modified_time": "2022-12-31T10:17:54Z",
+            "name": "python基础.md",
+            "signature": "53607159303250",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:17:54Z",
+            "id": "19386",
+            "modified_time": "2022-12-31T10:17:54Z",
+            "name": "python学习资源.md",
+            "signature": "73737671019602",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:17:54Z",
+            "id": "19387",
+            "modified_time": "2022-12-31T10:17:54Z",
+            "name": "python官方文档.md",
+            "signature": "121613671468114",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:17:54Z",
+            "id": "19388",
+            "modified_time": "2022-12-31T10:17:54Z",
+            "name": "python进阶教程.md",
+            "signature": "83306858155090",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:17:54Z",
+            "id": "19389",
+            "modified_time": "2022-12-31T10:17:54Z",
+            "name": "py科学手册.md",
+            "signature": "69687516859474",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:17:54Z",
+            "id": "19392",
+            "modified_time": "2022-12-31T10:17:54Z",
+            "name": "yield和yield from的用法.md",
+            "signature": "77895199362130",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:17:54Z",
+            "id": "19393",
+            "modified_time": "2022-12-31T10:17:54Z",
+            "name": "《Effective Python 编写高质量Python代码的59个有效方法.md",
+            "signature": "49200522857554",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:17:54Z",
+            "id": "19394",
+            "modified_time": "2022-12-31T10:17:54Z",
+            "name": "《python进阶》.md",
+            "signature": "80583848889426",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:17:54Z",
+            "id": "19401",
+            "modified_time": "2022-12-31T10:17:54Z",
+            "name": "好书python-cookBook.md",
+            "signature": "111748131589202",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:17:54Z",
+            "id": "19408",
+            "modified_time": "2022-12-31T10:17:54Z",
+            "name": "流畅的python.md",
+            "signature": "54801160211538",
+            "tags": [
+            ]
+        }
+    ],
+    "folders": [
+        {
+            "name": "AST编译原理前端"
+        },
+        {
+            "name": "asyncio并发包"
+        },
+        {
+            "name": "builtin"
+        },
+        {
+            "name": "PDB"
+        },
+        {
+            "name": "String"
+        },
+        {
+            "name": "内置builtin"
+        },
+        {
+            "name": "参数arparser"
+        },
+        {
+            "name": "批处理"
+        },
+        {
+            "name": "文件处理"
+        }
+    ],
+    "id": "19373",
+    "modified_time": "2022-12-31T10:17:54Z",
+    "signature": "87936832900178",
+    "version": 3
+}

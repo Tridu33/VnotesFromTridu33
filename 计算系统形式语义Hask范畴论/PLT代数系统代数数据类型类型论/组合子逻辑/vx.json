@@ -1,0 +1,71 @@
+{
+    "created_time": "2022-12-31T10:18:14Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:14Z",
+            "id": "24855",
+            "modified_time": "2022-12-31T10:18:14Z",
+            "name": "Haskell中定义Y组合子.md",
+            "signature": "131075484421222",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:14Z",
+            "id": "24856",
+            "modified_time": "2022-12-31T10:18:14Z",
+            "name": "Y不动点组合子.md",
+            "signature": "70220092804198",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:14Z",
+            "id": "24857",
+            "modified_time": "2022-12-31T10:18:14Z",
+            "name": "对比λ演算和组合子逻辑.md",
+            "signature": "124328090799206",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:14Z",
+            "id": "24858",
+            "modified_time": "2022-12-31T10:18:14Z",
+            "name": "组合子逻辑.md",
+            "signature": "32557524585574",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:14Z",
+            "id": "24859",
+            "modified_time": "2022-12-31T10:18:14Z",
+            "name": "论面向组合子程序设计方法系列blog.md",
+            "signature": "125839919287398",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:14Z",
+            "id": "24860",
+            "modified_time": "2022-12-31T10:18:14Z",
+            "name": "逻辑最小完备符号集.md",
+            "signature": "92120131046502",
+            "tags": [
+            ]
+        }
+    ],
+    "folders": [
+    ],
+    "id": "24854",
+    "modified_time": "2022-12-31T10:18:14Z",
+    "signature": "108316452719718",
+    "version": 3
+}

@@ -1,0 +1,194 @@
+{
+    "created_time": "2022-12-31T10:18:13Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:13Z",
+            "id": "24648",
+            "modified_time": "2022-12-31T10:18:13Z",
+            "name": "Computational trinitarianism计算三位一体.md",
+            "signature": "29572522314853",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:13Z",
+            "id": "24649",
+            "modified_time": "2022-12-31T10:18:13Z",
+            "name": "EMQ-映云科技分享haskell.md",
+            "signature": "74068383501413",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:14Z",
+            "id": "24776",
+            "modified_time": "2022-12-31T10:18:14Z",
+            "name": "haskell文学编程.md",
+            "signature": "53005863881830",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:14Z",
+            "id": "24785",
+            "modified_time": "2022-12-31T10:18:14Z",
+            "name": "MIT博士对数学的思考.md",
+            "signature": "9180017593446",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:14Z",
+            "id": "24883",
+            "modified_time": "2022-12-31T10:18:14Z",
+            "name": "北大教授裘宗燕（Qiu Zongyan）.md",
+            "signature": "80768532483174",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:14Z",
+            "id": "24884",
+            "modified_time": "2022-12-31T10:18:14Z",
+            "name": "希尔伯特及其23个著名数学问题.md",
+            "signature": "120479800101990",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:14Z",
+            "id": "24885",
+            "modified_time": "2022-12-31T10:18:14Z",
+            "name": "希尔伯特第十问题：一段数学发现史.md",
+            "signature": "90548173016166",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:14Z",
+            "id": "24910",
+            "modified_time": "2022-12-31T10:18:14Z",
+            "name": "理论计算机科学编程语言背后代数学.md",
+            "signature": "38884011412582",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:14Z",
+            "id": "24911",
+            "modified_time": "2022-12-31T10:18:14Z",
+            "name": "研究世界运作的规律.md",
+            "signature": "14273848806502",
+            "tags": [
+            ]
+        }
+    ],
+    "folders": [
+        {
+            "name": "C--"
+        },
+        {
+            "name": "GHC"
+        },
+        {
+            "name": "ghcjs"
+        },
+        {
+            "name": "Grothendieck-scheme"
+        },
+        {
+            "name": "Haskell"
+        },
+        {
+            "name": "Haskell-books-papers"
+        },
+        {
+            "name": "Haskell_Lambda演算"
+        },
+        {
+            "name": "LING"
+        },
+        {
+            "name": "logicLambdacalculusProgrammingLanguageTheory"
+        },
+        {
+            "name": "monad"
+        },
+        {
+            "name": "PDDL+Golog程序"
+        },
+        {
+            "name": "PLT代数系统代数数据类型类型论"
+        },
+        {
+            "name": "Scott's domain theory"
+        },
+        {
+            "name": "TemplateHaskell"
+        },
+        {
+            "name": "代数几何"
+        },
+        {
+            "name": "并发CSP通信进程代数"
+        },
+        {
+            "name": "形式语义学"
+        },
+        {
+            "name": "数据分析haskell"
+        },
+        {
+            "name": "模型论"
+        },
+        {
+            "name": "神经网络数理解释打造积木"
+        },
+        {
+            "name": "程序员的范畴论"
+        },
+        {
+            "name": "组合子逻辑"
+        },
+        {
+            "name": "范畴逻辑"
+        },
+        {
+            "name": "证明论"
+        },
+        {
+            "name": "递归论"
+        },
+        {
+            "name": "逻辑和数学"
+        },
+        {
+            "name": "逻辑编程-形式化"
+        },
+        {
+            "name": "集合论模型出发的计算机自动机"
+        },
+        {
+            "name": "雾雨魔法店"
+        },
+        {
+            "name": "霍尔逻辑"
+        },
+        {
+            "name": "非标准分析"
+        }
+    ],
+    "id": "24645",
+    "modified_time": "2022-12-31T10:18:13Z",
+    "signature": "92253275032677",
+    "version": 3
+}

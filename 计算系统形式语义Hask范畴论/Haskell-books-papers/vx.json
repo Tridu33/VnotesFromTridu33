@@ -1,0 +1,111 @@
+{
+    "created_time": "2022-12-31T10:18:14Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:14Z",
+            "id": "24739",
+            "modified_time": "2022-12-31T10:18:14Z",
+            "name": "functional programming in scala.md",
+            "signature": "7809923026022",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:14Z",
+            "id": "24740",
+            "modified_time": "2022-12-31T10:18:14Z",
+            "name": "hasekll+algorithm+DS教程.md",
+            "signature": "93653434371174",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:14Z",
+            "id": "24741",
+            "modified_time": "2022-12-31T10:18:14Z",
+            "name": "Haskell入门张凇+数据结构.md",
+            "signature": "18611765775462",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:14Z",
+            "id": "24742",
+            "modified_time": "2022-12-31T10:18:14Z",
+            "name": "Introduce Haskell简介电子书.md",
+            "signature": "20278213086310",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:14Z",
+            "id": "24743",
+            "modified_time": "2022-12-31T10:18:14Z",
+            "name": "learnyouhaskell.md",
+            "signature": "65482743876710",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:14Z",
+            "id": "24744",
+            "modified_time": "2022-12-31T10:18:14Z",
+            "name": "papers.md",
+            "signature": "21347659943014",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:14Z",
+            "id": "24745",
+            "modified_time": "2022-12-31T10:18:14Z",
+            "name": "Programming in Haskell.md",
+            "signature": "67810616151142",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:14Z",
+            "id": "24746",
+            "modified_time": "2022-12-31T10:18:14Z",
+            "name": "Write Yourself a Scheme in 48 Hours.md",
+            "signature": "113363039292518",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:14Z",
+            "id": "24747",
+            "modified_time": "2022-12-31T10:18:14Z",
+            "name": "《Haskell函数式编程入门》第二版出版.md",
+            "signature": "133180018396262",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:14Z",
+            "id": "24748",
+            "modified_time": "2022-12-31T10:18:14Z",
+            "name": "推荐免费入门书.md",
+            "signature": "73991074090086",
+            "tags": [
+            ]
+        }
+    ],
+    "folders": [
+    ],
+    "id": "24738",
+    "modified_time": "2022-12-31T10:18:14Z",
+    "signature": "40035062647910",
+    "version": 3
+}

@@ -1,0 +1,6 @@
+make.exe --dry-run --always-make --keep-going --print-directory
+make: Entering directory 'd:/tridu33/Nutstore/VnotesFromTridu33'
+make: Leaving directory 'd:/tridu33/Nutstore/VnotesFromTridu33'
+ 
+make: *** No targets specified and no makefile found.  Stop.
+

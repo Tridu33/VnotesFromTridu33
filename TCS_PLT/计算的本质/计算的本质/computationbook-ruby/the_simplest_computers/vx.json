@@ -1,0 +1,47 @@
+{
+    "created_time": "2022-12-31T10:18:02Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:02Z",
+            "id": "21657",
+            "modified_time": "2022-12-31T10:18:02Z",
+            "name": "finite_automata.rb",
+            "signature": "4747611343962",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:02Z",
+            "id": "21658",
+            "modified_time": "2022-12-31T10:18:02Z",
+            "name": "irb.txt",
+            "signature": "7290231983194",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:02Z",
+            "id": "21667",
+            "modified_time": "2022-12-31T10:18:02Z",
+            "name": "regular_expressions.rb",
+            "signature": "83989757955162",
+            "tags": [
+            ]
+        }
+    ],
+    "folders": [
+        {
+            "name": "finite_automata"
+        },
+        {
+            "name": "regular_expressions"
+        }
+    ],
+    "id": "21647",
+    "modified_time": "2022-12-31T10:18:02Z",
+    "signature": "105425939729498",
+    "version": 3
+}

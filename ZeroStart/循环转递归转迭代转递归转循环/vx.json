@@ -1,0 +1,51 @@
+{
+    "created_time": "2022-12-31T10:18:04Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:04Z",
+            "id": "22163",
+            "modified_time": "2022-12-31T10:18:04Z",
+            "name": "corecursion is a type of operation that is dual to recursion.md",
+            "signature": "90582532754524",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:04Z",
+            "id": "22164",
+            "modified_time": "2022-12-31T10:18:04Z",
+            "name": "Haskell中的foldl和foldr.md",
+            "signature": "33983453727836",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:04Z",
+            "id": "22165",
+            "modified_time": "2022-12-31T10:18:04Z",
+            "name": "图灵完备“重复-递归-循环”的实现方法---控制结构的等效非常规实现方法.md",
+            "signature": "52782525582428",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:04Z",
+            "id": "22166",
+            "modified_time": "2022-12-31T10:18:04Z",
+            "name": "循环转递归转循环.md",
+            "signature": "74102743239772",
+            "tags": [
+            ]
+        }
+    ],
+    "folders": [
+    ],
+    "id": "22162",
+    "modified_time": "2022-12-31T10:18:04Z",
+    "signature": "59285106068572",
+    "version": 3
+}

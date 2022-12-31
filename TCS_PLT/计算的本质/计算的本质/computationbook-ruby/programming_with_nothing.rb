@@ -1,0 +1,2 @@
+require_relative 'programming_with_nothing/fizzbuzz'
+require_relative 'programming_with_nothing/lambda_calculus'

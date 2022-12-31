@@ -1,0 +1,101 @@
+{
+    "created_time": "2022-12-31T10:18:03Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:03Z",
+            "id": "21720",
+            "modified_time": "2022-12-31T10:18:03Z",
+            "name": "dpda.rs",
+            "signature": "2084731620443",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:03Z",
+            "id": "21721",
+            "modified_time": "2022-12-31T10:18:03Z",
+            "name": "dpdadesign.rs",
+            "signature": "70714014043227",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:03Z",
+            "id": "21722",
+            "modified_time": "2022-12-31T10:18:03Z",
+            "name": "dpdarulebook.rs",
+            "signature": "136250920012891",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:03Z",
+            "id": "21723",
+            "modified_time": "2022-12-31T10:18:03Z",
+            "name": "mod.rs",
+            "signature": "87348422380635",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:03Z",
+            "id": "21724",
+            "modified_time": "2022-12-31T10:18:03Z",
+            "name": "npda.rs",
+            "signature": "71525762862171",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:03Z",
+            "id": "21725",
+            "modified_time": "2022-12-31T10:18:03Z",
+            "name": "npdadesign.rs",
+            "signature": "116687343979611",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:03Z",
+            "id": "21726",
+            "modified_time": "2022-12-31T10:18:03Z",
+            "name": "npdarulebook.rs",
+            "signature": "120819102518363",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:03Z",
+            "id": "21727",
+            "modified_time": "2022-12-31T10:18:03Z",
+            "name": "pdaconfiguration.rs",
+            "signature": "65521398582363",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:03Z",
+            "id": "21728",
+            "modified_time": "2022-12-31T10:18:03Z",
+            "name": "pdarule.rs",
+            "signature": "6298094537819",
+            "tags": [
+            ]
+        }
+    ],
+    "folders": [
+    ],
+    "id": "21719",
+    "modified_time": "2022-12-31T10:18:03Z",
+    "signature": "56867039480923",
+    "version": 3
+}

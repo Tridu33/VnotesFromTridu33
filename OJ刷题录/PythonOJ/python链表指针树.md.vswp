@@ -1,0 +1,134 @@
+vnote_backup_file_826537664 D:/tridu33/vnote_notebooks/OJ刷题录/PythonOJ/python链表指针树.md
+# python链表
+[Python -二叉树 创建与遍历算法(很详细）](https://www.cnblogs.com/sxf1061700625/p/11319617.html)
+
+
+Python treelib库创建多叉树的用法介绍
+
+blog.csdn.net/weixin_43790276/article/details/108248298?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-4.channel_param&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-4.channel_param
+
+
+
+
+
+
+[实python现（列表放着不用用链表）https://blog.csdn.net/qq_43779324/article/details/104968597](https://blog.csdn.net/qq_43779324/article/details/104968597)
+
+
+Java、Python中没有指针，怎么实现链表、图等数据结构？ - rainoftime的回答 - 知乎 https://www.zhihu.com/question/22680562/answer/36439335
+
+-----------------------------------------------------
+
+python中的树数据结构 - python之战的文章 - 知乎
+https://zhuanlan.zhihu.com/p/62005586
+
+
+
+
+
+线性数据中的典型顺序表和链表已经讲完：
+
+《[顺序表数据结构在python中的应用](https://link.zhihu.com/?target=http%3A//mp.weixin.qq.com/s%3F__biz%3DMzI2OTQ1NzEyMQ%3D%3D%26mid%3D2247484317%26idx%3D1%26sn%3D07fedcd9a9b21554f988a7a0297fa761%26chksm%3Deae14013dd96c905a5aed9b05a5bcfdc92dee3b44cbba901335642c1700b06afad92c3621c52%26scene%3D21%23wechat_redirect)》
+
+《[python实现单向链表数据结构及其基本方法](https://link.zhihu.com/?target=http%3A//mp.weixin.qq.com/s%3F__biz%3DMzI2OTQ1NzEyMQ%3D%3D%26mid%3D2247484323%26idx%3D1%26sn%3D497036bb2c2e4ec29917319c5004fcad%26chksm%3Deae1402ddd96c93b08ce3c5ec52e2f3c6cc81e6321dd36ce9100105c6677424d7beb97acc402%26scene%3D21%23wechat_redirect)》
+
+《[python实现单向循环链表数据结构及其方法](https://link.zhihu.com/?target=http%3A//mp.weixin.qq.com/s%3F__biz%3DMzI2OTQ1NzEyMQ%3D%3D%26mid%3D2247484329%26idx%3D1%26sn%3D8b6531019b053bf0cc112716c426c7dc%26chksm%3Deae14027dd96c931cfec7afbc917093141acdd246a8635ec9cab66eab0b53d9aee14865095f6%26scene%3D21%23wechat_redirect)》
+
+《[python实现双向链表基本结构及其基本方法](https://link.zhihu.com/?target=http%3A//mp.weixin.qq.com/s%3F__biz%3DMzI2OTQ1NzEyMQ%3D%3D%26mid%3D2247484341%26idx%3D1%26sn%3Df7faf926cd15ccb6e21304066d86a4b2%26chksm%3Deae1403bdd96c92de2b948418eb96f75563498d11905ebaa96ca72d234604c3178a07fa6bd79%26scene%3D21%23wechat_redirect)》
+
+《[python实现双向循环链表基本结构及其基本方法](https://link.zhihu.com/?target=http%3A//mp.weixin.qq.com/s%3F__biz%3DMzI2OTQ1NzEyMQ%3D%3D%26mid%3D2247484347%26idx%3D1%26sn%3D1cefd972158a249046aaa2fc68af1ac0%26chksm%3Deae14035dd96c9234d7739847f0d8df1297fdae2a63db8b6b4e2b84db90fb6c817c619cbe7ba%26scene%3D21%23wechat_redirect)》
+
+《[python实现堆栈数据结构及其基本方法](https://link.zhihu.com/?target=http%3A//mp.weixin.qq.com/s%3F__biz%3DMzI2OTQ1NzEyMQ%3D%3D%26mid%3D2247484353%26idx%3D1%26sn%3Dc949a404d3bef4fcbd8ad3ab5a5d7078%26chksm%3Deae1404fdd96c95924773b2c8bb1f60d44dadda39eabe35a27731f382a764e68d87d8c9deae2%26scene%3D21%23wechat_redirect)》
+
+《[Python实现双端队列数据结构及其基本方法](https://link.zhihu.com/?target=http%3A//mp.weixin.qq.com/s%3F__biz%3DMzI2OTQ1NzEyMQ%3D%3D%26mid%3D2247484359%26idx%3D1%26sn%3Dca67a39aa98a2314f88fe3625826573c%26chksm%3Deae14049dd96c95fb0375aca5d91cb40d8f3da99a6dd395c3aafe149c915dc21a903bb38897b%26scene%3D21%23wechat_redirect)》
+
+下面将说图形结构中的典型数据机构：树；是一种重要的非线性数据结构，直观地看，它是数据元素（在树中称为结点）按分支关系组织起来的结构，很象自然界中的树那样。
+
+
+
+**常用树的分类：**
+
+**无序树：**树中任意节点的子节点之间没有顺序关系，这种树称为无序树，也称为自由树；
+
+**有序树：**树中任意节点的子节点之间有顺序关系，这种树称为有序树；
+
+**二叉树：**每个节点最多含有两个子树的树称为二叉树；
+
+**完全二叉树：**对于一颗二叉树，假设其深度为d(d>1)。除了第d层外，其它各层的节点数目均已达最大值，且第d层所有节点从左向右连续地紧密排列，这样的二叉树被称为完全二叉树，其中满二叉树的定义是所有叶节点都在最底层的完全二叉树;
+
+**平衡二叉树（AVL树）**：当且仅当任何节点的两棵子树的高度差不大于1的二叉树；
+
+**排序二叉树**（二叉查找树（英语：Binary Search Tree），也称二叉搜索树、有序二叉树）；
+
+**霍夫曼树**（用于信息编码）：带权路径最短的二叉树称为哈夫曼树或最优二叉树；
+
+**B树**：一种对读写操作进行优化的自平衡的二叉查找树，能够保持数据有序，拥有多余两个子树。
+
+
+
+
+
+
+# 多叉树
+
+Python的treelib构建多叉树具体的参考 Useful APIs https://treelib.readthedocs.io/en/latest/pyapi.html
+
+
+
+```
+from treelib import Node, Tree
+
+tree = Tree()
+
+tree.show()
+
+# # 取得根节点到每一个叶节点的标识路径，返回值为标识list列表的list列表（二重列表），根节点不省略
+
+tree.paths_to_leaves()
+
+# # 建议使用remove_node来删除节点，因为remove_subtree将消耗内存以存储新树（返回值）
+
+# # 移除以nid标识的节点，同时移除其所有的子节点 ,返回值为移除的节点个
+
+tree.remove_node( identifier)
+
+# # 移除以nid标识为根节点的一棵子树 ,返回值为移除该子树的树，nid不存在则返回一个空树
+
+remove_subtree(self, nid)
+
+# # 返回所有叶节点对象list列表，若给定root则返回以root为根节点的树的所有叶节点对象list列表
+
+leaves(self, root=None)
+
+# # 返回以nid为标识(identifier)子节点，nid不存在则返回list为空
+
+children(self, nid)
+
+# # 返回以nid为标识(identifier)父节点，nid不存在则返回list为空
+
+parent(self, nid) 
+
+
+tree.create_node('ROOT','root')  # root node
+
+tree.create_node(temps[yy][xx],temps_id[yy][xx],parent="root")
+ 
+```
+
+
+
+
+Python的treelib构建多叉树——快速命名节点id
+blog.csdn.net/u012111465/article/details/82908552
+
+Python的treelib构建多叉树——根据id快速建树
+blog.csdn.net/u012111465/article/details/82908601 
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,54 @@
+{
+    "created_time": "2022-12-31T10:18:14Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:14Z",
+            "id": "24887",
+            "modified_time": "2022-12-31T10:18:14Z",
+            "name": "CSP与Go.md",
+            "signature": "29065716173926",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:14Z",
+            "id": "24888",
+            "modified_time": "2022-12-31T10:18:14Z",
+            "name": "Go—+CSP.md",
+            "signature": "104670025485414",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:14Z",
+            "id": "24889",
+            "modified_time": "2022-12-31T10:18:14Z",
+            "name": "四种并发编程模型简介.md",
+            "signature": "28674874149990",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:14Z",
+            "id": "24891",
+            "modified_time": "2022-12-31T10:18:14Z",
+            "name": "并发并行.md",
+            "signature": "131238693178470",
+            "tags": [
+            ]
+        }
+    ],
+    "folders": [
+        {
+            "name": "并发CSP通信进程代数"
+        }
+    ],
+    "id": "24886",
+    "modified_time": "2022-12-31T10:18:14Z",
+    "signature": "56433247784038",
+    "version": 3
+}

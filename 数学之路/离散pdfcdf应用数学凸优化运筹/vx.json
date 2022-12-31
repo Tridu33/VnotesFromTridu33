@@ -1,0 +1,35 @@
+{
+    "created_time": "2022-12-31T10:18:05Z",
+    "files": [
+    ],
+    "folders": [
+        {
+            "name": "CS_math数值计算方法"
+        },
+        {
+            "name": "OdePde"
+        },
+        {
+            "name": "有限元"
+        },
+        {
+            "name": "求解器"
+        },
+        {
+            "name": "离散数学"
+        },
+        {
+            "name": "线性规划"
+        },
+        {
+            "name": "组合优化"
+        },
+        {
+            "name": "运筹凸优化OperationalResearch"
+        }
+    ],
+    "id": "22443",
+    "modified_time": "2022-12-31T10:18:05Z",
+    "signature": "95959831809117",
+    "version": 3
+}

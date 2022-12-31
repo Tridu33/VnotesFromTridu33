@@ -1,0 +1,308 @@
+TAPE        = -> l { -> m { -> r { -> b { PAIR[PAIR[l][m]][PAIR[r][b]] } } } }
+TAPE_LEFT   = -> t { LEFT[LEFT[t]] }
+TAPE_MIDDLE = -> t { RIGHT[LEFT[t]] }
+TAPE_RIGHT  = -> t { LEFT[RIGHT[t]] }
+TAPE_BLANK  = -> t { RIGHT[RIGHT[t]] }
+TAPE_WRITE = -> t { -> c { TAPE[TAPE_LEFT[t]][c][TAPE_RIGHT[t]][TAPE_BLANK[t]] } }
+TAPE_MOVE_HEAD_RIGHT =
+  -> t {
+    TAPE[
+      PUSH[TAPE_LEFT[t]][TAPE_MIDDLE[t]]
+    ][
+      IF[IS_EMPTY[TAPE_RIGHT[t]]][
+        TAPE_BLANK[t]
+      ][
+        FIRST[TAPE_RIGHT[t]]
+      ]
+    ][
+      IF[IS_EMPTY[TAPE_RIGHT[t]]][
+        EMPTY
+      ][
+        REST[TAPE_RIGHT[t]]
+      ]
+    ][
+      TAPE_BLANK[t]
+    ]
+  }
+current_tape = TAPE[EMPTY][ZERO][EMPTY][ZERO]
+current_tape = TAPE_WRITE[current_tape][ONE]
+current_tape = TAPE_MOVE_HEAD_RIGHT[current_tape]
+current_tape = TAPE_WRITE[current_tape][TWO]
+current_tape = TAPE_MOVE_HEAD_RIGHT[current_tape]
+current_tape = TAPE_WRITE[current_tape][THREE]
+current_tape = TAPE_MOVE_HEAD_RIGHT[current_tape]
+to_array(TAPE_LEFT[current_tape]).map { |p| to_integer(p) }
+to_integer(TAPE_MIDDLE[current_tape])
+to_array(TAPE_RIGHT[current_tape]).map { |p| to_integer(p) }
+
+zero
+increment(zero)
+increment(increment(zero))
+
+def two
+  increment(increment(zero))
+end
+
+two
+
+def three
+  increment(two)
+end
+
+three
+
+def add_three(x)
+  increment(increment(increment(x)))
+end
+
+add_three(two)
+
+def add_zero_to_x(x)
+  x
+end
+
+def increment_easier_result(x, easier_y, easier_result)
+  increment(easier_result)
+end
+
+def add(x, y)
+  recurse(:add_zero_to_x, :increment_easier_result, x, y)
+end
+
+add(two, three)
+
+def multiply_x_by_zero(x)
+  zero
+end
+
+def add_x_to_easier_result(x, easier_y, easier_result)
+  add(x, easier_result)
+end
+
+def multiply(x, y)
+  recurse(:multiply_x_by_zero, :add_x_to_easier_result, x, y)
+end
+
+def easier_x(easier_x, easier_result)
+  easier_x
+end
+
+def decrement(x)
+  recurse(:zero, :easier_x, x)
+end
+
+def subtract_zero_from_x(x)
+  x
+end
+
+def decrement_easier_result(x, easier_y, easier_result)
+  decrement(easier_result)
+end
+
+def subtract(x, y)
+  recurse(:subtract_zero_from_x, :decrement_easier_result, x, y)
+end
+
+multiply(two, three)
+
+def six
+  multiply(two, three)
+end
+
+decrement(six)
+subtract(six, two)
+subtract(two, six)
+
+def divide(x, y)
+  minimize { |n| subtract(increment(x), multiply(y, increment(n))) }
+end
+
+divide(six, two)
+
+def ten
+  increment(multiply(three, three))
+end
+
+ten
+divide(ten, three)
+divide(six, zero)
+
+x = SKISymbol.new(:x)
+expression = SKICall.new(SKICall.new(S, K), SKICall.new(I, x))
+
+y, z = SKISymbol.new(:y), SKISymbol.new(:z)
+S.call(x, y, z)
+expression = SKICall.new(SKICall.new(SKICall.new(S, x), y), z)
+combinator = expression.left.left.left
+first_argument = expression.left.left.right
+second_argument = expression.left.right
+third_argument = expression.right
+combinator.call(first_argument, second_argument, third_argument)
+
+expression
+combinator = expression.combinator
+arguments = expression.arguments
+combinator.call(*arguments)
+expression = SKICall.new(SKICall.new(x, y), z)
+combinator = expression.combinator
+arguments = expression.arguments
+combinator.call(*arguments)
+expression = SKICall.new(SKICall.new(S, x), y)
+combinator = expression.combinator
+arguments = expression.arguments
+combinator.call(*arguments)
+
+def add(x, y)
+  x + y
+end
+
+add_method = method(:add)
+add_method.arity
+expression = SKICall.new(SKICall.new(x, y), z)
+expression.combinator.callable?(*expression.arguments)
+expression = SKICall.new(SKICall.new(S, x), y)
+expression.combinator.callable?(*expression.arguments)
+expression = SKICall.new(SKICall.new(SKICall.new(S, x), y), z)
+expression.combinator.callable?(*expression.arguments)
+
+swap = SKICall.new(SKICall.new(S, SKICall.new(K, SKICall.new(S, I))), K)
+expression = SKICall.new(SKICall.new(swap, x), y)
+
+while expression.reducible?
+  puts expression
+  expression = expression.reduce
+end; puts expression
+
+original = SKICall.new(SKICall.new(S, K), I)
+function = original.as_a_function_of(:x)
+function.reducible?
+expression = SKICall.new(function, y)
+
+while expression.reducible?
+  puts expression
+  expression = expression.reduce
+end; puts expression
+
+expression == original
+original = SKICall.new(SKICall.new(S, x), I)
+function = original.as_a_function_of(:x)
+expression = SKICall.new(function, y)
+
+while expression.reducible?
+  puts expression
+  expression = expression.reduce
+end; puts expression
+
+expression == original
+
+two = LambdaCalculusParser.new.parse('-> p { -> x { p[p[x]] } }').to_ast
+two.to_ski
+inc, zero = SKISymbol.new(:inc), SKISymbol.new(:zero)
+expression = SKICall.new(SKICall.new(two.to_ski, inc), zero)
+while expression.reducible?
+  puts expression
+  expression = expression.reduce
+end; puts expression
+identity = SKICall.new(SKICall.new(S, K), K)
+expression = SKICall.new(identity, x)
+while expression.reducible?
+  puts expression
+  expression = expression.reduce
+end; puts expression
+
+expression = S.to_iota
+while expression.reducible?
+  puts expression
+  expression = expression.reduce
+end; puts expression
+expression = K.to_iota
+while expression.reducible?
+  puts expression
+  expression = expression.reduce
+end; puts expression
+expression = I.to_iota
+while expression.reducible?
+  puts expression
+  expression = expression.reduce
+end; puts expression
+identity = SKICall.new(SKICall.new(S, K), SKICall.new(K, K))
+expression = SKICall.new(identity, x)
+while expression.reducible?
+  puts expression
+  expression = expression.reduce
+end; puts expression
+two
+two.to_ski
+two.to_ski.to_iota
+expression = SKICall.new(SKICall.new(two.to_ski.to_iota, inc), zero)
+expression = expression.reduce while expression.reducible?
+expression
+
+rulebook = TagRulebook.new(2, [TagRule.new('a', 'aa'), TagRule.new('b', 'bbbb')])
+system = TagSystem.new('aabbbbbb', rulebook)
+4.times do
+  puts system.current_string
+  system.step
+end; puts system.current_string
+
+rulebook = TagRulebook.new(2, [TagRule.new('a', 'cc'), TagRule.new('b', 'dddd')])
+system = TagSystem.new('aabbbbbb', rulebook)
+system.run
+rulebook = TagRulebook.new(2, [TagRule.new('a', 'cc'), TagRule.new('b', 'd')])
+system = TagSystem.new('aabbbbbbbbbbbb', rulebook)
+system.run
+rulebook = TagRulebook.new(2, [TagRule.new('a', 'ccdd'), TagRule.new('b', 'dd')])
+system = TagSystem.new('aabbbb', rulebook)
+system.run
+rulebook = TagRulebook.new(2, [
+  TagRule.new('a', 'cc'), TagRule.new('b', 'dddd'), # double
+  TagRule.new('c', 'eeff'), TagRule.new('d', 'ff')  # increment
+])
+system = TagSystem.new('aabbbb', rulebook)
+system.run
+rulebook = TagRulebook.new(2, [
+  TagRule.new('a', 'cc'), TagRule.new('b', 'd'),
+  TagRule.new('c', 'eo'), TagRule.new('d', ''),
+  TagRule.new('e', 'e')
+])
+system = TagSystem.new('aabbbbbbbb', rulebook)
+system.run
+system = TagSystem.new('aabbbbbbbbbb', rulebook)
+system.run
+
+numbers = [1, 2, 3].cycle
+numbers.next
+numbers.next
+numbers.next
+numbers.next
+[:a, :b, :c, :d].cycle.take(10)
+rulebook = CyclicTagRulebook.new([
+  CyclicTagRule.new('1'), CyclicTagRule.new('0010'), CyclicTagRule.new('10')
+])
+system = TagSystem.new('11', rulebook)
+16.times do
+  puts system.current_string
+  system.step
+end; puts system.current_string
+20.times do
+  puts system.current_string
+  system.step
+end; puts system.current_string
+
+rulebook = TagRulebook.new(2, [TagRule.new('a', 'ccdd'), TagRule.new('b', 'dd')])
+system = TagSystem.new('aabbbb', rulebook)
+system.alphabet
+
+encoder = system.encoder
+encoder.encode_character('c')
+encoder.encode_string('cab')
+
+rule = system.rulebook.rules.first
+rule.to_cyclic(encoder)
+
+system.rulebook.cyclic_rules(encoder)
+
+system.rulebook.cyclic_padding_rules(encoder)
+
+cyclic_system = system.to_cyclic
+cyclic_system.run

@@ -1,0 +1,44 @@
+{
+    "created_time": "2022-12-31T10:18:13Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:13Z",
+            "id": "24616",
+            "modified_time": "2022-12-31T10:18:13Z",
+            "name": "乐理notes.md",
+            "signature": "49651494423653",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:13Z",
+            "id": "24619",
+            "modified_time": "2022-12-31T10:18:13Z",
+            "name": "流行曲指法乐谱.md",
+            "signature": "132643147484261",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:13Z",
+            "id": "24620",
+            "modified_time": "2022-12-31T10:18:13Z",
+            "name": "音乐演化人脑.md",
+            "signature": "68313127324773",
+            "tags": [
+            ]
+        }
+    ],
+    "folders": [
+        {
+            "name": "和弦专题"
+        }
+    ],
+    "id": "24615",
+    "modified_time": "2022-12-31T10:18:13Z",
+    "signature": "53847677471845",
+    "version": 3
+}

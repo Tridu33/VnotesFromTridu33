@@ -1,0 +1,20 @@
+{
+    "created_time": "2022-12-31T10:18:03Z",
+    "files": [
+    ],
+    "folders": [
+        {
+            "name": "BigStepSemantic"
+        },
+        {
+            "name": "DenotationSemantic"
+        },
+        {
+            "name": "SmallStepSemantic"
+        }
+    ],
+    "id": "21842",
+    "modified_time": "2022-12-31T10:18:03Z",
+    "signature": "7195742702683",
+    "version": 3
+}

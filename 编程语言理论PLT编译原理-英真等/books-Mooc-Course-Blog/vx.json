@@ -1,0 +1,304 @@
+{
+    "created_time": "2022-12-31T10:18:12Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:12Z",
+            "id": "24324",
+            "modified_time": "2022-12-31T10:18:12Z",
+            "name": "b乎大学慕课视频.md",
+            "signature": "65212160937060",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:12Z",
+            "id": "24325",
+            "modified_time": "2022-12-31T10:18:12Z",
+            "name": "CMU的课程.md",
+            "signature": "72728353705060",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:12Z",
+            "id": "24326",
+            "modified_time": "2022-12-31T10:18:12Z",
+            "name": "How to implement a programming language in JavaScriptjs中实现新的编程语言.md",
+            "signature": "37346413120612",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:12Z",
+            "id": "24327",
+            "modified_time": "2022-12-31T10:18:12Z",
+            "name": "learningMeterials.md",
+            "signature": "63176346438756",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:12Z",
+            "id": "24328",
+            "modified_time": "2022-12-31T10:18:12Z",
+            "name": "PLCT编译器设计讨论班.md",
+            "signature": "90505223343204",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:12Z",
+            "id": "24329",
+            "modified_time": "2022-12-31T10:18:12Z",
+            "name": "tcc.md",
+            "signature": "32076488248420",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:12Z",
+            "id": "24330",
+            "modified_time": "2022-12-31T10:18:12Z",
+            "name": "the Vala compiler.md",
+            "signature": "37380772858980",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:12Z",
+            "id": "24331",
+            "modified_time": "2022-12-31T10:18:12Z",
+            "name": "TinyCompiler编译器源码项目.md",
+            "signature": "55252131777636",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:12Z",
+            "id": "24332",
+            "modified_time": "2022-12-31T10:18:12Z",
+            "name": "USTC的编译原理实验risc-v_llvm工具链.md",
+            "signature": "132479938727012",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:12Z",
+            "id": "24333",
+            "modified_time": "2022-12-31T10:18:12Z",
+            "name": "ustc程序设计语言理论张煜课程.md",
+            "signature": "7943067012196",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:12Z",
+            "id": "24334",
+            "modified_time": "2022-12-31T10:18:12Z",
+            "name": "《构建Lua解释器》.md",
+            "signature": "38871126510692",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:12Z",
+            "id": "24335",
+            "modified_time": "2022-12-31T10:18:12Z",
+            "name": "《编程语言实现模式》.md",
+            "signature": "123035305643108",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:12Z",
+            "id": "24336",
+            "modified_time": "2022-12-31T10:18:12Z",
+            "name": "《自制编译器》.md",
+            "signature": "133755544013924",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:12Z",
+            "id": "24337",
+            "modified_time": "2022-12-31T10:18:12Z",
+            "name": "一本关于实现编程语言解释器的online书.md",
+            "signature": "96397918473316",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:12Z",
+            "id": "24338",
+            "modified_time": "2022-12-31T10:18:12Z",
+            "name": "两周自制脚本语言.md",
+            "signature": "52206999964772",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:12Z",
+            "id": "24339",
+            "modified_time": "2022-12-31T10:18:12Z",
+            "name": "使用FLEX BISON 和LLVM编写自己的编译器.md",
+            "signature": "113642212166756",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:12Z",
+            "id": "24340",
+            "modified_time": "2022-12-31T10:18:12Z",
+            "name": "开发中国人自己的编程语言.md",
+            "signature": "3300207365220",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:12Z",
+            "id": "24341",
+            "modified_time": "2022-12-31T10:18:12Z",
+            "name": "德国亚琛工业大学 本科编译原理，主要是前端部分.md",
+            "signature": "38162456906852",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:12Z",
+            "id": "24342",
+            "modified_time": "2022-12-31T10:18:12Z",
+            "name": "斯坦福大学编译原理课程.md",
+            "signature": "130143476517988",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:12Z",
+            "id": "24348",
+            "modified_time": "2022-12-31T10:18:12Z",
+            "name": "紫龙书.md",
+            "signature": "44278490336356",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:12Z",
+            "id": "24349",
+            "modified_time": "2022-12-31T10:18:12Z",
+            "name": "编译原理清华第三版.md",
+            "signature": "121824124865636",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:12Z",
+            "id": "24350",
+            "modified_time": "2022-12-31T10:18:12Z",
+            "name": "编译原理相关博客链接.md",
+            "signature": "75734830812260",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:12Z",
+            "id": "24351",
+            "modified_time": "2022-12-31T10:18:12Z",
+            "name": "编译原理：自己DIY一门编程语言.md",
+            "signature": "83113584626788",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:12Z",
+            "id": "24352",
+            "modified_time": "2022-12-31T10:18:12Z",
+            "name": "编译器设计Engineering a Compiler2.md",
+            "signature": "82207346527332",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:12Z",
+            "id": "24353",
+            "modified_time": "2022-12-31T10:18:12Z",
+            "name": "考不上三本也能实现C++编译器.md",
+            "signature": "79995438369892",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:12Z",
+            "id": "24354",
+            "modified_time": "2022-12-31T10:18:12Z",
+            "name": "自己动手写编译器.md",
+            "signature": "136255214980196",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:12Z",
+            "id": "24355",
+            "modified_time": "2022-12-31T10:18:12Z",
+            "name": "自己动手开发编译器（零）序言C#.md",
+            "signature": "65912240606308",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:12Z",
+            "id": "24356",
+            "modified_time": "2022-12-31T10:18:12Z",
+            "name": "轮子哥博客vczh看实例学编译原理.md",
+            "signature": "13745567829092",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:12Z",
+            "id": "24357",
+            "modified_time": "2022-12-31T10:18:12Z",
+            "name": "龙书Compiler-Principles, Techniques, and Tools.md",
+            "signature": "89500200995940",
+            "tags": [
+            ]
+        }
+    ],
+    "folders": [
+        {
+            "name": "牙医教你 450 行代码自制编程语言"
+        }
+    ],
+    "id": "24323",
+    "modified_time": "2022-12-31T10:18:12Z",
+    "signature": "95770853248100",
+    "version": 3
+}

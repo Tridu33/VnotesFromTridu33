@@ -1,0 +1,126 @@
+{
+    "created_time": "2022-12-31T10:18:00Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:00Z",
+            "id": "20907",
+            "modified_time": "2022-12-31T10:18:00Z",
+            "name": "DFS-BFS模板.md",
+            "signature": "41340732705880",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:00Z",
+            "id": "20908",
+            "modified_time": "2022-12-31T10:18:00Z",
+            "name": "OI-Wiki.md",
+            "signature": "91136583535704",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:00Z",
+            "id": "20985",
+            "modified_time": "2022-12-31T10:18:00Z",
+            "name": "必知背模板.md",
+            "signature": "78333286026328",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:00Z",
+            "id": "21027",
+            "modified_time": "2022-12-31T10:18:00Z",
+            "name": "离散结构CSCI 2824，2014年春季.md",
+            "signature": "53641519041624",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:00Z",
+            "id": "21028",
+            "modified_time": "2022-12-31T10:18:00Z",
+            "name": "算法模板.md",
+            "signature": "46206930652248",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:00Z",
+            "id": "21029",
+            "modified_time": "2022-12-31T10:18:00Z",
+            "name": "算法珠玑.md",
+            "signature": "57940781304920",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:00Z",
+            "id": "21065",
+            "modified_time": "2022-12-31T10:18:00Z",
+            "name": "非人为构造的算法.md",
+            "signature": "55415340534872",
+            "tags": [
+            ]
+        }
+    ],
+    "folders": [
+        {
+            "name": "vector-string排序搜索"
+        },
+        {
+            "name": "分治递归"
+        },
+        {
+            "name": "剑指offer等题解"
+        },
+        {
+            "name": "动态规划"
+        },
+        {
+            "name": "哈希"
+        },
+        {
+            "name": "图论"
+        },
+        {
+            "name": "常规工具类STL"
+        },
+        {
+            "name": "数学方法定理不变量守恒式"
+        },
+        {
+            "name": "树-like结构"
+        },
+        {
+            "name": "系统编程OOP搭积木"
+        },
+        {
+            "name": "组合枚举回溯bfs树遍历dfs"
+        },
+        {
+            "name": "自动机"
+        },
+        {
+            "name": "贪心拟阵与图论"
+        },
+        {
+            "name": "链表问题"
+        },
+        {
+            "name": "队列栈堆"
+        }
+    ],
+    "id": "20906",
+    "modified_time": "2022-12-31T10:18:00Z",
+    "signature": "119908569451608",
+    "version": 3
+}

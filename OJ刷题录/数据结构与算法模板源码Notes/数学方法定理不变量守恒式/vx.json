@@ -1,0 +1,36 @@
+{
+    "created_time": "2022-12-31T10:18:00Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:00Z",
+            "id": "20989",
+            "modified_time": "2022-12-31T10:18:00Z",
+            "name": "各种数论问题汇集.md",
+            "signature": "80343330720856",
+            "tags": [
+            ]
+        }
+    ],
+    "folders": [
+        {
+            "name": "博弈论"
+        },
+        {
+            "name": "大整数高精度数学计算工具"
+        },
+        {
+            "name": "数论"
+        },
+        {
+            "name": "蓄水池抽样"
+        },
+        {
+            "name": "计算几何"
+        }
+    ],
+    "id": "20986",
+    "modified_time": "2022-12-31T10:18:00Z",
+    "signature": "103604873595992",
+    "version": 3
+}

@@ -1,0 +1,77 @@
+{
+    "created_time": "2022-12-31T10:18:03Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:03Z",
+            "id": "21834",
+            "modified_time": "2022-12-31T10:18:03Z",
+            "name": "encodings.xml",
+            "signature": "47589910121563",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:03Z",
+            "id": "21837",
+            "modified_time": "2022-12-31T10:18:03Z",
+            "name": "misc.xml",
+            "signature": "102909088894043",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:03Z",
+            "id": "21838",
+            "modified_time": "2022-12-31T10:18:03Z",
+            "name": "modules.xml",
+            "signature": "131041124682843",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:03Z",
+            "id": "21839",
+            "modified_time": "2022-12-31T10:18:03Z",
+            "name": "UnderstandingComputation.iml",
+            "signature": "127094049737819",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:03Z",
+            "id": "21840",
+            "modified_time": "2022-12-31T10:18:03Z",
+            "name": "vcs.xml",
+            "signature": "111099591527515",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:03Z",
+            "id": "21841",
+            "modified_time": "2022-12-31T10:18:03Z",
+            "name": "workspace.xml",
+            "signature": "94632686914651",
+            "tags": [
+            ]
+        }
+    ],
+    "folders": [
+        {
+            "name": "dictionaries"
+        },
+        {
+            "name": "inspectionProfiles"
+        }
+    ],
+    "id": "21831",
+    "modified_time": "2022-12-31T10:18:03Z",
+    "signature": "94147355610203",
+    "version": 3
+}

@@ -1,0 +1,41 @@
+{
+    "created_time": "2022-12-31T10:18:08Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:08Z",
+            "id": "23295",
+            "modified_time": "2022-12-31T10:18:08Z",
+            "name": "sigmoid函数.md",
+            "signature": "97076523306080",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:08Z",
+            "id": "23296",
+            "modified_time": "2022-12-31T10:18:08Z",
+            "name": "基于RNN模型的LSTM.md",
+            "signature": "66011024854112",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:08Z",
+            "id": "23297",
+            "modified_time": "2022-12-31T10:18:08Z",
+            "name": "循环神经网络(RNN)模型与前向反向传播算法.md",
+            "signature": "14097755147360",
+            "tags": [
+            ]
+        }
+    ],
+    "folders": [
+    ],
+    "id": "23294",
+    "modified_time": "2022-12-31T10:18:08Z",
+    "signature": "121733930552416",
+    "version": 3
+}

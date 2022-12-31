@@ -1,0 +1,77 @@
+{
+    "created_time": "2022-12-31T10:18:00Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:00Z",
+            "id": "20973",
+            "modified_time": "2022-12-31T10:18:00Z",
+            "name": "STL_books.md",
+            "signature": "99163877411928",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:00Z",
+            "id": "20974",
+            "modified_time": "2022-12-31T10:18:00Z",
+            "name": "STL总结.md",
+            "signature": "52593547021400",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:00Z",
+            "id": "20975",
+            "modified_time": "2022-12-31T10:18:00Z",
+            "name": "Traits技术：类型的if-else-then(STL核心技术之一).md",
+            "signature": "26763613703256",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:00Z",
+            "id": "20976",
+            "modified_time": "2022-12-31T10:18:00Z",
+            "name": "Vector二维数组.md",
+            "signature": "137097028570200",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:00Z",
+            "id": "20977",
+            "modified_time": "2022-12-31T10:18:00Z",
+            "name": "与或短路与否cpp.md",
+            "signature": "43406611975256",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:00Z",
+            "id": "20984",
+            "modified_time": "2022-12-31T10:18:00Z",
+            "name": "实验楼C++ 实现 STL 标准库和算法.md",
+            "signature": "21399199550552",
+            "tags": [
+            ]
+        }
+    ],
+    "folders": [
+        {
+            "name": "位运算"
+        },
+        {
+            "name": "哈希集合"
+        }
+    ],
+    "id": "20972",
+    "modified_time": "2022-12-31T10:18:00Z",
+    "signature": "108015805008984",
+    "version": 3
+}

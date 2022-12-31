@@ -1,0 +1,92 @@
+vnote_backup_file_826537664 D:/tridu33/Nutstore/VnotesFromTridu33/OJ刷题录/数据结构与算法模板源码Notes/贪心拟阵与图论/ISM解析结构模型.md
+
+
+https://link.springer.com/article/10.1007/s40171-012-0008-3
+本文尝试使用解释矩阵的工具解释解释结构模型中的链接（Sushil 2005a），并导致发展用于解释概念不清的心理模型和理论构建的总体解释性结构建模（TISM）的框架和方法
+
+
+
+
+
+
+Digraph for Interpretive Structural Model
+
+Having identified the levels of the elements, the relationship between the elements is drawn indicating the serial number of the elements and the direction of relation with the help of an arrow. The digraphs thus drawn are quite complex and are examined interactively to eliminate transitive relationships. After eliminating the transitive relationships, the digraph is finalized for the interpretive structural model. The digraphs give information about hierarchy among the elements.
+
+The digraph thus developed may have **cycles at a particular level** and feedbacks across the levels between elements. 
+
+In normal circumstances, the feedbacks and cycles should be eliminated to **arrive at a digraph with minimum edges**; but the same should be retained in the matrix if the intention is to further study the influence of indirect relationships between the elements.
+
+
+**Facilitates the identification of the structure within a system.**
+
+
+- 步骤VI：可达性矩阵的级别划分
+
+类似于ISM一样，进行级别划分以了解各个级别的元素的位置（Warfield 1974c； Saxena等人2006）。）。
+确定所有元素的可达性和先行集。
+层次结构顶层中的元素不会达到其自身之上的任何元素。结果，为顶级元素设置的可到达性将由元素本身以及该元素可以到达的同一级别内的任何其他元素（例如，强连接子集的组件）组成。顶层元素的前一组将包括元素本身，从较低层到达该元素的元素以及在顶层具有强连通性的子集的任何元素。结果，如果元素在顶层，则可达性集与先前集的交集将与可达性集相同。
+
+
+- 第七步：开发图
+
+根据可到达性矩阵中显示的关系，以图形方式将元素按级别排列，并绘制有向链接。通过从知识库中检查传递关系逐步消除传递关系，可以获得初始图的简单版本。只有那些传递性关系至关重要的解释才能保留下来。
+
+# 1. ISM-interpretive Structure Modeling 
+
+https://www.slideshare.net/ujjmishra1/interpretive-structural-modeling-28839744 在线PPT
+
+
+
+
+
+
+链接的解释在ISM中相对较弱；缺乏对有向链接如何进行操作的解释。本文试图使用解释矩阵的工具解释解释性结构模型中的链接，并导致发展总体解释性结构建模（TISM）的框架和方法。
+https://link.springer.com/article/10.1007/s40171-012-0008-3
+
+
+# 2. github
+python
+https://github.com/varchasvshri/ISM_Analysis
+
+java
+https://github.com/SocialWare/ISM 
+
+
+R https://rdrr.io/cran/ISM/man/ISM.html
+https://github.com/cran/ISM 备份镜像
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

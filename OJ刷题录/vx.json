@@ -1,0 +1,287 @@
+{
+    "created_time": "2022-12-31T10:17:59Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:17:59Z",
+            "id": "20750",
+            "modified_time": "2022-12-31T10:17:59Z",
+            "name": "ACM专题合集.md",
+            "signature": "133291687545943",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:17:59Z",
+            "id": "20751",
+            "modified_time": "2022-12-31T10:17:59Z",
+            "name": "ACM刷题路线.md",
+            "signature": "62330237881431",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:17:59Z",
+            "id": "20764",
+            "modified_time": "2022-12-31T10:17:59Z",
+            "name": "CSNotes.md",
+            "signature": "113749586349143",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:17:59Z",
+            "id": "20765",
+            "modified_time": "2022-12-31T10:17:59Z",
+            "name": "CS刷题Notes.md",
+            "signature": "22438581636183",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:00Z",
+            "id": "20863",
+            "modified_time": "2022-12-31T10:18:00Z",
+            "name": "NewCoder_io输入输出ACM模式核心代码模式.md",
+            "signature": "113577787657304",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:00Z",
+            "id": "20864",
+            "modified_time": "2022-12-31T10:18:00Z",
+            "name": "OJs .md",
+            "signature": "45760254053464",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:00Z",
+            "id": "20865",
+            "modified_time": "2022-12-31T10:18:00Z",
+            "name": "oj基础.md",
+            "signature": "101461684915288",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:00Z",
+            "id": "20881",
+            "modified_time": "2022-12-31T10:18:00Z",
+            "name": "TPC比赛Rating计算方法.md",
+            "signature": "16112094809176",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:00Z",
+            "id": "20882",
+            "modified_time": "2022-12-31T10:18:00Z",
+            "name": "VSCode-LeeCode插件.md",
+            "signature": "8673211452504",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:00Z",
+            "id": "20883",
+            "modified_time": "2022-12-31T10:18:00Z",
+            "name": "兔学.md",
+            "signature": "85862363696216",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:00Z",
+            "id": "20884",
+            "modified_time": "2022-12-31T10:18:00Z",
+            "name": "在线汇总oj网站数据结构与算法_leetcode_lintcode题解.md",
+            "signature": "78024048381016",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:00Z",
+            "id": "20885",
+            "modified_time": "2022-12-31T10:18:00Z",
+            "name": "大佬的专栏题目OJ经验.md",
+            "signature": "24556000513112",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:00Z",
+            "id": "20886",
+            "modified_time": "2022-12-31T10:18:00Z",
+            "name": "实验楼.md",
+            "signature": "111009397214296",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:00Z",
+            "id": "20887",
+            "modified_time": "2022-12-31T10:18:00Z",
+            "name": "实验楼经典算法解题C++_Java_Python.md",
+            "signature": "73415548472408",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:00Z",
+            "id": "20888",
+            "modified_time": "2022-12-31T10:18:00Z",
+            "name": "常用算法深入学习.md",
+            "signature": "13689733254232",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:00Z",
+            "id": "20889",
+            "modified_time": "2022-12-31T10:18:00Z",
+            "name": "总是套路得人心刷题网站.md",
+            "signature": "6104821009496",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:00Z",
+            "id": "20890",
+            "modified_time": "2022-12-31T10:18:00Z",
+            "name": "手撕算法面试：字节跳动的面试.md",
+            "signature": "98407963167832",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:00Z",
+            "id": "20905",
+            "modified_time": "2022-12-31T10:18:00Z",
+            "name": "数据结构与算法_leetcode_lintcode题解.md",
+            "signature": "91243957718104",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:00Z",
+            "id": "21066",
+            "modified_time": "2022-12-31T10:18:00Z",
+            "name": "算法之道.md",
+            "signature": "114926407388248",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:00Z",
+            "id": "21073",
+            "modified_time": "2022-12-31T10:18:00Z",
+            "name": "编程相关网站.md",
+            "signature": "94400758680664",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:00Z",
+            "id": "21074",
+            "modified_time": "2022-12-31T10:18:00Z",
+            "name": "编程能力.md",
+            "signature": "115738156207192",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:00Z",
+            "id": "21075",
+            "modified_time": "2022-12-31T10:18:00Z",
+            "name": "记忆递归子问题-动态线性规划+对偶_变分理解.md",
+            "signature": "53899217079384",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:00Z",
+            "id": "21076",
+            "modified_time": "2022-12-31T10:18:00Z",
+            "name": "趣题学算法C++.md",
+            "signature": "5499230620760",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:00Z",
+            "id": "21077",
+            "modified_time": "2022-12-31T10:18:00Z",
+            "name": "邓俊辉数据结构.md",
+            "signature": "56888514317400",
+            "tags": [
+            ]
+        }
+    ],
+    "folders": [
+        {
+            "name": "C++OJ"
+        },
+        {
+            "name": "HaskellOJ函数式数据结构"
+        },
+        {
+            "name": "JavaOJ"
+        },
+        {
+            "name": "jsOJ"
+        },
+        {
+            "name": "leecode+等"
+        },
+        {
+            "name": "LocalOj"
+        },
+        {
+            "name": "PythonOJ"
+        },
+        {
+            "name": "教材WebSource"
+        },
+        {
+            "name": "数据结构与算法模板源码Notes"
+        },
+        {
+            "name": "算法可视化网站等"
+        },
+        {
+            "name": "面经"
+        },
+        {
+            "name": "高级数据结构和算法分析设计"
+        }
+    ],
+    "id": "20749",
+    "modified_time": "2022-12-31T10:17:59Z",
+    "signature": "33841719807063",
+    "version": 3
+}

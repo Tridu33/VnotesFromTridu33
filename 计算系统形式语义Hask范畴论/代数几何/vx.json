@@ -1,0 +1,54 @@
+{
+    "created_time": "2022-12-31T10:18:14Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:14Z",
+            "id": "24878",
+            "modified_time": "2022-12-31T10:18:14Z",
+            "name": "代数几何.md",
+            "signature": "86115766766694",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:14Z",
+            "id": "24880",
+            "modified_time": "2022-12-31T10:18:14Z",
+            "name": "学习代数几何为什么要先学范畴学.md",
+            "signature": "36062217899110",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:14Z",
+            "id": "24881",
+            "modified_time": "2022-12-31T10:18:14Z",
+            "name": "海廷代数.md",
+            "signature": "121566426827878",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:14Z",
+            "id": "24882",
+            "modified_time": "2022-12-31T10:18:14Z",
+            "name": "解析几何代数几何.md",
+            "signature": "70142783392870",
+            "tags": [
+            ]
+        }
+    ],
+    "folders": [
+        {
+            "name": "同调论"
+        }
+    ],
+    "id": "24877",
+    "modified_time": "2022-12-31T10:18:14Z",
+    "signature": "120685958532198",
+    "version": 3
+}
