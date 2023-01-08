@@ -44,16 +44,13 @@
     ],
     "folders": [
         {
-            "name": "ideas"
-        },
-        {
             "name": "job面试"
         },
         {
             "name": "paper"
         },
         {
-            "name": "study"
+            "name": "科研学习"
         },
         {
             "name": "操作系统"
@@ -63,9 +60,6 @@
         },
         {
             "name": "职业规划"
-        },
-        {
-            "name": "计算机网络后端服务器编程"
         },
         {
             "name": "近期英真CP-OS"

@@ -1,3 +1,8 @@
+DAO，Entity,Servicer,Mapper.xml动态SQL
+
+
+
+
 
 
 # JavaWeb架构分層Spring
