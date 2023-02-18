@@ -1,5 +1,22 @@
 
 
+
+
+
+[TOC]
+
+---------------
+
+软件幻灭 https://tonsky.me/blog/disenchantment/zh/ 
+
+
+计划整理一本tauri rust midi json的乐理gitbook，指导钢琴和口琴吉他乐器弹唱
+
+
+mp3转midi AuthemScore
+
+https://www.bilibili.com/video/av55082645/  扒谱软件wavetone的使用
+
 https://github.com/erictherobot/react-web-midi
 
 https://github.com/surikov/midi-sounds-react-examples
@@ -16,37 +33,48 @@ https://github.com/tzmcion/ReactPianoPlayer
 
 
 
+Magenta魔改记-2：数据格式与数据集 - 吴雨松的文章 - 知乎
+https://zhuanlan.zhihu.com/p/49539387
+https://ldzhangyx.github.io/2019/02/25/music-toolkits/ 最全工具集
 
-
-
-[TOC]
-
-
-
-
-
-
-
-
-音乐生成—文件格式，相关工具与MIDO Package - 明天会更好的文章 - 知乎
-https://zhuanlan.zhihu.com/p/359340227
-
-
-
-
-
-
-Mido： 可以读取MIDI文件的Message，如Track, Event，Delta Time，Tempo and Beat Resolution,等信息。并且可以得到具体的二进制编码。也可以反向操作，写入二进制编码，生成MIDI Message，来写一个midi文件
-
-Pretty Midi: 和mido比较类似，也可以读取note，pitch， time signiture等信息。但功能似乎没有mido多以及强大。
-
-Music21: Music21是MIT开发的一个可以解析音乐文件的package。它可以读取多种音乐文件的格式（如：ABC，MIDI，MusicXML，Capella……。）。它除了基础了Note，Pitch, Time Duration 等音乐元素的编码外，提供了对音乐文件的分析函数（如：分析一整首曲子的各个音高出现的次数，各种节拍的音符出现的次数）。并且，music21的语料库里包含了十四世纪的音乐文件（巴赫，贝多芬等作曲家的乐曲），据MIT教授说，数据是从一本十四世纪音乐的书上获得的。这些音乐会没有版权问题。
 
 
 
 # umi项目笔记
+https://blog.csdn.net/MrNoboday/article/details/85339820 musicXML
+```
+假设
+	1、第一小节节拍 2/4
+	2、速度为60
+	3、第一小节全为四分音符时
+
+那么有
+	>第一小节的时长是：第一小节节拍 * 第一小节beat-type / 速度 = 2/4 * 4/60 = 1/30 分钟 = 2秒
+	>而一个音符则是：节拍 * 第一小节beat-type / 速度 * (音符duration/小节总duration) = 2/4 * 4 /60 * (4/8) = 1/60分钟 = 1秒
+
+假设（通用-变拍）
+	1、第一小节节拍 2/4
+	2、目标小节变拍 3/8
+	3、速度为60
+那么有
+	> 小节的时长是：本节拍 * 第一小节beat-type / 速度 = 3/8 * 4 / 60 = 1/40 分钟 = 1.5s
+
+公式：
+	小节时长 = (beats / beat-type) * 第一小节beat-type / speed
+	音符时长 = note duration / measure duration * 小节时长
+>注意：beats beat-type都能从<time>标签中获取
+>note duration要从note的<duration>标签中取
+>小节的要从<backup>的<duration>中获取
+>注意变拍情况
+
+```
+![](https://img-blog.csdnimg.cn/20190702100503544.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L01yTm9ib2RheQ==,size_16,color_FFFFFF,t_70)
 
 
+【Tauri 1.0，与 Electron 对比 | 骇客说-哔哩哔哩】 https://b23.tv/KUVJ1lr
+
+ Tauri 1.0 在近期正式发布了，让骇客君一起带大家了解一下 Tauri
+视频中的 Demo 地址： https://github.com/haikeshuo/tauri-counter
 
 参考midi文件解析：
 
@@ -55,12 +83,85 @@ Music21: Music21是MIT开发的一个可以解析音乐文件的package。它可
 ![](vx_images/234610823247328.png)
 # midi口琴前端小项目
 
+MIDI已成为编曲界最广泛的音乐标准格式，可称其为“计算机能理解的乐谱”。
+
+MIDI音符编码
+
+![](vx_images/581072223230255.png)
 
 
+enum枚举音符参数
+```c
+enum Scale  //音阶参数
+{
+	Rest = 0, C8 = 108, B7 = 107, A7s = 106, A7 = 105, G7s = 104, G7 = 103, F7s = 102, F7 = 101, E7 = 100,
+	D7s = 99, D7 = 98, C7s = 97, C7 = 96, B6 = 95, A6s = 94, A6 = 93, G6s = 92, G6 = 91, F6s = 90, F6 = 89,
+	E6 = 88, D6s = 87, D6 = 86, C6s = 85, C6 = 84, B5 = 83, A5s = 82, A5 = 81, G5s = 80, G5 = 79, F5s = 78,
+	F5 = 77, E5 = 76, D5s = 75, D5 = 74, C5s = 73, C5 = 72, B4 = 71, A4s = 70, A4 = 69, G4s = 68, G4 = 67,
+	F4s = 66, F4 = 65, E4 = 64, D4s = 63, D4 = 62, C4s = 61, C4 = 60, B3 = 59, A3s = 58, A3 = 57, G3s = 56,
+	G3 = 55, F3s = 54, F3 = 53, E3 = 52, D3s = 51, D3 = 50, C3s = 49, C3 = 48, B2 = 47, A2s = 46, A2 = 45,
+	G2s = 44, G2 = 43, F2s = 42, F2 = 41, E2 = 40, D2s = 39, D2 = 38, C2s = 37, C2 = 36, B1 = 35, A1s = 34,
+	A1 = 33, G1s = 32, G1 = 31, F1s = 30, F1 = 29, E1 = 28, D1s = 27, D1 = 26, C1s = 25, C1 = 24, B0 = 23,
+	A0s = 22, A0 = 21
+};
+enum Voice //声调
+{
+	L1 = C3, L2 = D3, L3 = E3, L4 = F3, L5 = G3, L6 = A3, L7 = B3,
+	M1 = C4, M2 = D4, M3 = E4, M4 = F4, M5 = G4, M6 = A4, M7 = B4,
+	H1 = C5, H2 = D5, H3 = E5, H4 = F5, H5 = G5, H6 = A5, H7 = B5,
+	LOW_SPEED = 500, MIDDLE_SPEED = 400, HIGH_SPEED = 300,
+	_ = 0XFF
+};
+```
+ 
+凭借上面的代码，你就可以调用来谱曲啦，还可以自己修改speed，以及_的数量得到节奏不同的音乐。
 
+我们一起学猫叫
+```cpp
+void Cats()
+{
+	HMIDIOUT handle;
+	cout << "我们一起学猫叫~~~" << endl;
+	cout << "\n\n我们一起学猫叫\n\n一起喵喵喵喵喵\n\n在你面前撒个娇\n\n哎呦喵喵喵喵喵\n\n我的心脏砰砰跳\n\n迷恋上你的坏笑\n\n你不说爱我我就喵喵喵\n\n";
+	midiOutOpen(&handle, 0, 0, 0, 0);
 
+	int volume = 0x7f;
+	int voice = 0x0;
+	int sleep = 150;
+	int helloworld[] = {  // 声调
+	 M1,_,M2,_,M3,_,L5,_,M1,_,M3,_,M3,_,_,_,
+	 M2,_,M1,_,M2,_,M5,_,M5,_,M5,_,M5,_,_,_,
+	 M1,_,L7,_,M1,_,M1,_,M1,_,M1,_,M1,_,_,_,
+	 L7,_,M1,_,L7,_,M1,_,L7,_,L6,_,L5,_,_,_,
+	 L5,_,L5,_,L6,_,L1,_,L4,_,L6,_,L6,_,_,_,
+	 L5,_,L3,_,L5,_,L3,_,L5,_,M2,_,M1,_,_,_,
+	 L5,_,M3,_,M3,_,M3,_,M4,_,M5,_,M1,_,M1,_,M2,M3,M2,_,_,_,_,_,_,_,
+	};
 
+	for (auto i : helloworld)
+	{
+		if (i == LOW_SPEED || i == HIGH_SPEED || i == MIDDLE_SPEED)
+		{
+			sleep = i;
+			continue;
+		}
+		if (i == _)
+		{
+			Sleep(150);
+			continue;
+		}
 
+		voice = (volume << 16) + (i << 8) + 0x90;
+	
+		midiOutShortMsg(handle, voice);
+		Sleep(sleep);
+	}
+
+	midiOutClose(handle);
+
+} 
+```
+具体的音乐程序已经封装好放这里啦
 
 
 【自己录制了一个MIDI播放软件“TMIDI Player”的使用简介。这是我用过最好的MIDI播放软件！-哔哩哔哩】 https://b23.tv/Go5kcmN
@@ -99,6 +200,52 @@ https://github.com/jazz-soft/react-midi-player.git
 
 
 
+## mywasm
+
+
+各大家推荐一个资源 https://wasmbyexample.dev/home.en-us.html
+这里的wasm的项目都用cpp，rust，go还有ts四种语言各自写了一遍~
+很适合观察各种语言的实现wasm的优缺点~
+
+
+【【WASM】如何创建一个基于AssemblyScript开发语言的WASM 项目-哔哩哔哩】 https://b23.tv/Ix95mhL
+
+
+
+
+# midi编程解释
+
+音乐研发必备：理解 MIDI 协议与标准 MIDI 文件格式
+https://blog.csdn.net/ByteDanceTech/article/details/124358016
+
+by字节
+
+详细midi编程解释视频
+https://www.youtube.com/watch?v=2BccxWkUgaU
+https://www.youtube.com/watch?v=5IQvu8zlmJk
+https://www.youtube.com/watch?v=w732EXqmfZU
+
+
+规范文档
+http://www.harfesoft.de/aixphysik/sound/midi/pages/genmidi.html
+https://www.midi.org/specifications
+https://en.wikipedia.org/wiki/General_MIDI#Percussion
+
+参考文献
+
+MIDI Tutorial
+
+Standard MIDI-File Format Spec. 1.1, updated
+
+MIDI Polyphonic Expression (MPE) Specification Adopted
+
+钢琴的触键方式是如何影响弹出来的音色的？（https://zhuanlan.zhihu.com/p/19964066）
+
+MIDI Tick、Meta-event、变长数表示法、区分 MIDI 文件中单个字节的含义（https://www.cndzq.com/bbs/thread-117332-1-1.html）
+
+MPE in Live 11（https://help.ableton.com/hc/en-us/articles/360019144999-MPE-in-Live-11）
+
+GDX-620 使用说明书（https://de.yamaha.com/files/download/other_assets/9/334239/DGX-620_ZH.pdf）
 
 
 
@@ -107,13 +254,14 @@ https://github.com/jazz-soft/react-midi-player.git
 
 
 
+推荐读物
+
+《音乐声学——音响、乐器、计算机音乐、MIDI、音乐厅声学原理及应用》- 龚镇雄
+
+The Computer Music Tutorial - Curtis Roads
 
 
-
-
-
-
-
+**字节跳动音乐研发团队**，业务包含字节旗下的音乐流媒体应用、字节音乐中台、抖音 & 西瓜视频中的音乐视频和音乐创作工具等场景。团队拥有良好的技术氛围，在 ByteTech 沉淀了大量优秀的视频课程和技术文章，欢迎各位同学加入。 音视频服务端资深/高级研发工程师
 
 
 
