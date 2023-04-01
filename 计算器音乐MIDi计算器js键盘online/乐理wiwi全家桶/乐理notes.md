@@ -1,5 +1,17 @@
 [TOC]
 
+---------------
+
+作曲理论四大件分别是 和声，复调，曲式，配器
+
+
+编曲四大件分别是  吉他 钢琴 贝斯 鼓 
+
+https://www.bilibili.com/video/BV1Xs411374a/?p=153 五线谱所有知识
+
+
+
+
 
 # 官大为好和弦 合集
 https://www.bilibili.com/video/BV1Xs411374a

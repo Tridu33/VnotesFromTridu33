@@ -213,62 +213,6 @@ https://github.com/jazz-soft/react-midi-player.git
 
 
 
-# midi编程解释
-
-音乐研发必备：理解 MIDI 协议与标准 MIDI 文件格式
-https://blog.csdn.net/ByteDanceTech/article/details/124358016
-
-by字节
-
-详细midi编程解释视频
-https://www.youtube.com/watch?v=2BccxWkUgaU
-https://www.youtube.com/watch?v=5IQvu8zlmJk
-https://www.youtube.com/watch?v=w732EXqmfZU
-
-
-规范文档
-http://www.harfesoft.de/aixphysik/sound/midi/pages/genmidi.html
-https://www.midi.org/specifications
-https://en.wikipedia.org/wiki/General_MIDI#Percussion
-
-参考文献
-
-MIDI Tutorial
-
-Standard MIDI-File Format Spec. 1.1, updated
-
-MIDI Polyphonic Expression (MPE) Specification Adopted
-
-钢琴的触键方式是如何影响弹出来的音色的？（https://zhuanlan.zhihu.com/p/19964066）
-
-MIDI Tick、Meta-event、变长数表示法、区分 MIDI 文件中单个字节的含义（https://www.cndzq.com/bbs/thread-117332-1-1.html）
-
-MPE in Live 11（https://help.ableton.com/hc/en-us/articles/360019144999-MPE-in-Live-11）
-
-GDX-620 使用说明书（https://de.yamaha.com/files/download/other_assets/9/334239/DGX-620_ZH.pdf）
-
-
-
-
-
-
-
-
-推荐读物
-
-《音乐声学——音响、乐器、计算机音乐、MIDI、音乐厅声学原理及应用》- 龚镇雄
-
-The Computer Music Tutorial - Curtis Roads
-
-
-**字节跳动音乐研发团队**，业务包含字节旗下的音乐流媒体应用、字节音乐中台、抖音 & 西瓜视频中的音乐视频和音乐创作工具等场景。团队拥有良好的技术氛围，在 ByteTech 沉淀了大量优秀的视频课程和技术文章，欢迎各位同学加入。 音视频服务端资深/高级研发工程师
-
-
-
-
-
-
-
 
 
 

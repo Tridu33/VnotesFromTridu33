@@ -1,4 +1,20 @@
-https://github.com/topics/synthesia
+
+
+
+
+
+# Neothesia 调试
+https://github.com/PolyMeilex/Neothesia/releases
+
+
+ neothesia-cli.rs开始调试
+ 
+
+
+
+
+
+
 
 
 
@@ -16,7 +32,11 @@ https://github.com/topics/synthesia
 
 
 
-https://github.com/PolyMeilex/Neothesia/releases
+
+
+https://github.com/topics/synthesia
+
+
 
 https://github.com/spaceface777/viano/releases/tag/v1
 
@@ -72,7 +92,9 @@ A tool for creating synthesia-like piano tiles effect from midi files.
 
 
 
-
+官大为写过键盘显示 https://www.bilibili.com/video/BV1Xs411374a/?p=276  https://github.com/wiwikuan/PianoVisualizer
+Processing是干嘛的？艺术家学编程能做什么？ - MasterYe的文章 - 知乎
+https://zhuanlan.zhihu.com/p/25432507
 
 
 

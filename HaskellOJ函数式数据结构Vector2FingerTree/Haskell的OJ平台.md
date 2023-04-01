@@ -7,6 +7,17 @@ Codeforces, https://codeforces.com/  https://codeforces.com/catalog
 
 都能用Haskell
 
+**CodeWars**最好
+
+
+CMU 15210 用 sml实现了图论的算法，动态规划，等 用sml写实验题
+
+印象中实验内容涉及有最短路(Dijkstra),割边割点(Tarjan),分治,素性测试,高精度,撸ST表解决RMQ.
+ 
+https://github.com/Misaka9468/sml-experiment 实验代码传送门，
+
+
+
 
 
 # Haskell的OJ平台

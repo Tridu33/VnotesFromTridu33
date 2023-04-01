@@ -1,3 +1,14 @@
+
+
+https://www.bilibili.com/video/BV1Xs411374a?p=241 0元音乐工作站
+
+Linux上自由软体：musescore,lilypond ,声音编辑器 audacity ，音感训练工具GNU Solfege
+
+
+
+
+
+
 # EasePi 自建音乐服务器
 
 

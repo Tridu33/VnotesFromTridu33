@@ -1,5 +1,102 @@
 
 
+
+https://www.midi.org/specifications-old/item/table-1-summary-of-midi-message
+
+电子琴MIDI自制,MP3转MIDI? wave转MIDI？下载还收费自己做吧 - warframe的文章 - 知乎
+https://zhuanlan.zhihu.com/p/371942525
+
+https://youtu.be/UR8otPcYchc wiwi讲的midi相关介绍
+
+ 逐个字节解释midi格式
+```
+4D 54 68 64 00 00 00 06 00 00 00 01 01 E0 4D 54 
+72 6B 00 00 00 25 00 FF 03 05 B2 E2 CA D4 30 00 
+FF 51 03 07 A1 20 00 FF 58 04 04 02 18 08 00 90 
+3C 64 8E 7E 80 3C 40 00 FF 2F 00
+
+```
+![](vx_images/575605908230262.png)
+
+Neothesia读取的midi格式解释
+![](vx_images/296891401230262.png)
+
+velocity速率的解释：note on 中的 velocity 实际上是按键的“触发速率”，你可以把其视为从键盘能感知到下按到下按结束这个过程中的键程除以按下时间，note off 则是反向的“释放速率”。速率的计算方式和更多细节可以参考这篇论文：The Interpretation of MIDI Velocity https://www.cs.cmu.edu/~rbd/papers/velocity-icmc2006.pdf
+
+
+
+
+音乐研发必备：理解 MIDI 协议与标准 MIDI 文件格式 - 云原生基地的文章 - 知乎
+https://zhuanlan.zhihu.com/p/504184193
+
+MIDI二进制文件格式简析 - 不凋花的文章 - 知乎
+https://zhuanlan.zhihu.com/p/364343026
+
+将音频转换为MIDI或乐谱是否困难？ - 侯晓涛的回答 - 知乎
+https://www.zhihu.com/question/364956196/answer/968829249
+
+# midi编程解释
+
+音乐研发必备：理解 MIDI 协议与标准 MIDI 文件格式
+https://blog.csdn.net/ByteDanceTech/article/details/124358016
+
+by字节
+
+详细midi编程解释视频
+https://www.youtube.com/watch?v=2BccxWkUgaU
+https://www.youtube.com/watch?v=5IQvu8zlmJk
+https://www.youtube.com/watch?v=w732EXqmfZU
+
+
+规范文档
+http://www.harfesoft.de/aixphysik/sound/midi/pages/genmidi.html
+https://www.midi.org/specifications
+https://en.wikipedia.org/wiki/General_MIDI#Percussion
+
+参考文献
+
+MIDI Tutorial
+
+Standard MIDI-File Format Spec. 1.1, updated
+
+MIDI Polyphonic Expression (MPE) Specification Adopted
+
+钢琴的触键方式是如何影响弹出来的音色的？（https://zhuanlan.zhihu.com/p/19964066）
+
+MIDI Tick、Meta-event、变长数表示法、区分 MIDI 文件中单个字节的含义（https://www.cndzq.com/bbs/thread-117332-1-1.html）
+
+MPE in Live 11（https://help.ableton.com/hc/en-us/articles/360019144999-MPE-in-Live-11）
+
+GDX-620 使用说明书（https://de.yamaha.com/files/download/other_assets/9/334239/DGX-620_ZH.pdf）
+
+
+
+
+
+
+
+
+推荐读物
+
+《音乐声学——音响、乐器、计算机音乐、MIDI、音乐厅声学原理及应用》- 龚镇雄
+
+The Computer Music Tutorial - Curtis Roads
+
+
+**字节跳动音乐研发团队**，业务包含字节旗下的音乐流媒体应用、字节音乐中台、抖音 & 西瓜视频中的音乐视频和音乐创作工具等场景。团队拥有良好的技术氛围，在 ByteTech 沉淀了大量优秀的视频课程和技术文章，欢迎各位同学加入。 音视频服务端资深/高级研发工程师
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Midi和musicXML-json等知识
 【C++MIDI音乐编程教程-哔哩哔哩】 https://b23.tv/eXxIqDX
 smartscoreX2这个软件可以转换任意的五线谱tif图片/PDF到midi，还可以用来制作五线谱
