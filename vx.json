@@ -87,13 +87,28 @@
             "name": "fancy_ideas"
         },
         {
-            "name": "CodePLT"
-        },
-        {
             "name": "ZeroStart"
         },
         {
+            "name": "服务器编程后端网络全家桶"
+        },
+        {
+            "name": "计算器音乐MIDi计算器js键盘online"
+        },
+        {
+            "name": "现代前端工程化全家桶"
+        },
+        {
+            "name": "大数据云原生数据分析DB数据库分布式"
+        },
+        {
+            "name": "人工智能AI推导符号演算"
+        },
+        {
             "name": "TCS_PLT"
+        },
+        {
+            "name": "计算系统形式语义Hask范畴论"
         },
         {
             "name": "OJ刷题录"
@@ -102,40 +117,13 @@
             "name": "HaskellOJ函数式数据结构Vector2FingerTree"
         },
         {
-            "name": "服务器编程后端网络全家桶"
-        },
-        {
-            "name": "现代前端工程化全家桶"
-        },
-        {
-            "name": "计算系统形式语义Hask范畴论"
-        },
-        {
-            "name": "编程语言理论PLT编译原理-英真等"
-        },
-        {
-            "name": "k8s云原生分布式微服务远程RESTful api和gRPC"
-        },
-        {
-            "name": "计算器音乐MIDi计算器js键盘online"
-        },
-        {
             "name": "manim_可视化DS复分析运筹"
-        },
-        {
-            "name": "jobcareer"
-        },
-        {
-            "name": "automata theory-FSA-CFG自动化理论（automata theory）"
         },
         {
             "name": "CS底层硬件等"
         },
         {
             "name": "FPGA+Risc-v_IC_Soc_Hardware"
-        },
-        {
-            "name": "Latex-Markdown-etc-PanDoc"
         },
         {
             "name": "MIT公开课挑战等慕课，资源，教程，工具Online"
@@ -147,46 +135,40 @@
             "name": "OSQEMU跨平台虚拟环境"
         },
         {
-            "name": "定理证明语言"
-        },
-        {
-            "name": "操作系统"
-        },
-        {
             "name": "数学之路"
-        },
-        {
-            "name": "日志DB数据库models分布式数据模型"
-        },
-        {
-            "name": "浮生梦呓"
         },
         {
             "name": "理论物理学家之路"
         },
         {
-            "name": "科研计算机公式推导符号演算"
-        },
-        {
-            "name": "程序形式验证静态分析ModelCheck"
-        },
-        {
-            "name": "编程看文档api规范开源项目源码"
-        },
-        {
-            "name": "近期英真CP-OS"
+            "name": "经济学原理"
         },
         {
             "name": "协程并发编程线程"
         },
         {
+            "name": "操作系统"
+        },
+        {
+            "name": "编程看文档api规范开源项目源码"
+        },
+        {
+            "name": "CS大杂烩"
+        },
+        {
+            "name": "近期英真CP-OS"
+        },
+        {
             "name": "游戏开发Unity3DUnreal5Lua"
         },
         {
-            "name": "经济学原理"
+            "name": "jobcareer"
         },
         {
-            "name": "Chrome_v8_chromium"
+            "name": "Latex-Markdown-etc-PanDoc"
+        },
+        {
+            "name": "浮生梦呓"
         }
     ],
     "id": "17517",

@@ -1,3 +1,14 @@
+risc-v手册（中文版） http://riscvbook.com/chinese/
+
+
+
+
+
+risc-v手册（官网） https://riscv.org/technical/specifications/
+
+
+
+
 爆肝6万字的 Bluespec SystemVerilog (BSV) 中文教程上线了 - WangXuan的文章 - 知乎
 https://zhuanlan.zhihu.com/p/469917984
 

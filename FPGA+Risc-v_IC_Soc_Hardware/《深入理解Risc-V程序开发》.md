@@ -1,10 +1,10 @@
+risc-v手册（中文版） http://riscvbook.com/chinese/
 
 
 
 
 
-
-
+risc-v手册（官网） https://riscv.org/technical/specifications/
 
 
 

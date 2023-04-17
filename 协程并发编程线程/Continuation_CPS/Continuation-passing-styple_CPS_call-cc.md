@@ -1,5 +1,5 @@
 
-
+ callCC（call with current continuation）
 
 https://www.cnblogs.com/lsgxeva/p/10159163.html
 call/cc合成所有控制结构while for.goto
@@ -278,7 +278,9 @@ https://www.zhihu.com/question/494984665/answer/2196253368
 
 
 
-
+Haskell的Cont Monad写法
+指令式和函数式语言中的控制流比较 - boards flip的文章 - 知乎
+https://zhuanlan.zhihu.com/p/350324914
 
 # Continuation Passing Style CPS 的 monad
 https://blog.oyanglul.us/grokking-monad/part2

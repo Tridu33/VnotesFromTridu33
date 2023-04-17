@@ -170,6 +170,256 @@
             "signature": "86833026305114",
             "tags": [
             ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:17:15Z",
+            "id": "18037",
+            "modified_time": "2022-12-31T10:17:15Z",
+            "name": "Lisp和编程语言Wiki.md",
+            "signature": "132716161928235",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:12Z",
+            "id": "24358",
+            "modified_time": "2022-12-31T10:18:12Z",
+            "name": "B站好课从零开始构建解释器.md",
+            "signature": "111803966164068",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:12Z",
+            "id": "24359",
+            "modified_time": "2022-12-31T10:18:12Z",
+            "name": "Compiler Explorer.md",
+            "signature": "48195500510308",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:12Z",
+            "id": "24360",
+            "modified_time": "2022-12-31T10:18:12Z",
+            "name": "C编写的PL - 0编程语言的完整编译器.md",
+            "signature": "13818582273124",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:12Z",
+            "id": "24361",
+            "modified_time": "2022-12-31T10:18:12Z",
+            "name": "demo.md",
+            "signature": "101465979882596",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:12Z",
+            "id": "24367",
+            "modified_time": "2022-12-31T10:18:12Z",
+            "name": "ice1000大神.md",
+            "signature": "26072123968612",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:12Z",
+            "id": "24383",
+            "modified_time": "2022-12-31T10:18:12Z",
+            "name": "JSLinux.md",
+            "signature": "33519597259876",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:13Z",
+            "id": "24472",
+            "modified_time": "2022-12-31T10:18:13Z",
+            "name": "toy_decompiler.md",
+            "signature": "82168691821669",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:13Z",
+            "id": "24481",
+            "modified_time": "2022-12-31T10:18:13Z",
+            "name": "《程序设计语言理论（第二版）》陈意云,张昱.md",
+            "signature": "60736805014629",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:13Z",
+            "id": "24482",
+            "modified_time": "2022-12-31T10:18:13Z",
+            "name": "中国科学技术大学程序设计语言理论-慕课-张宇.md",
+            "signature": "80583848889445",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:13Z",
+            "id": "24483",
+            "modified_time": "2022-12-31T10:18:13Z",
+            "name": "中山大学写一个编译器.md",
+            "signature": "89483021126757",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:13Z",
+            "id": "24486",
+            "modified_time": "2022-12-31T10:18:13Z",
+            "name": "函数式编程善于编写编译器.md",
+            "signature": "99138107608165",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:13Z",
+            "id": "24494",
+            "modified_time": "2022-12-31T10:18:13Z",
+            "name": "命令式编程的理论基础.md",
+            "signature": "29349184015461",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:13Z",
+            "id": "24495",
+            "modified_time": "2022-12-31T10:18:13Z",
+            "name": "学习编程语言与编译优化的一个书单.md",
+            "signature": "124680278117477",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:13Z",
+            "id": "24498",
+            "modified_time": "2022-12-31T10:18:13Z",
+            "name": "方舟编译器简明学习笔记.md",
+            "signature": "90316244782181",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:13Z",
+            "id": "24545",
+            "modified_time": "2022-12-31T10:18:13Z",
+            "name": "程序设计语言原理裘宗燕.md",
+            "signature": "119397468343397",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:13Z",
+            "id": "24546",
+            "modified_time": "2022-12-31T10:18:13Z",
+            "name": "编程范式.md",
+            "signature": "67230795566181",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:13Z",
+            "id": "24547",
+            "modified_time": "2022-12-31T10:18:13Z",
+            "name": "编译原理0.md",
+            "signature": "33077215628389",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:13Z",
+            "id": "24548",
+            "modified_time": "2022-12-31T10:18:13Z",
+            "name": "编译原理wasm.md",
+            "signature": "123872824265829",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:13Z",
+            "id": "24549",
+            "modified_time": "2022-12-31T10:18:13Z",
+            "name": "编译原理慕课.md",
+            "signature": "18916708453477",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:13Z",
+            "id": "24550",
+            "modified_time": "2022-12-31T10:18:13Z",
+            "name": "编译器工具链测试工程师.md",
+            "signature": "67557213080677",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:13Z",
+            "id": "24569",
+            "modified_time": "2022-12-31T10:18:13Z",
+            "name": "计算机语言工程.md",
+            "signature": "107710862330981",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-31T10:18:13Z",
+            "id": "24570",
+            "modified_time": "2022-12-31T10:18:13Z",
+            "name": "诺丁汉大学Henrik Nilsson教授的《编译原理》讲义.md",
+            "signature": "50626451999845",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2023-02-02T00:46:16Z",
+            "id": "25195",
+            "modified_time": "2023-02-02T00:46:24Z",
+            "name": "A-Python-Interpreter-Written-in-Python-Interpreted-in-Chinese.md",
+            "signature": "79316836354008",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2023-02-04T04:44:47Z",
+            "id": "25200",
+            "modified_time": "2023-02-04T04:44:49Z",
+            "name": "LLVM写编译器.md",
+            "signature": "177769145023",
+            "tags": [
+            ]
         }
     ],
     "folders": [
@@ -214,6 +464,93 @@
         },
         {
             "name": "软工设计系统重构、系统迁移和系统分析"
+        },
+        {
+            "name": "Clojure"
+        },
+        {
+            "name": "esolang深奥的编程语言Esoteric programming language"
+        },
+        {
+            "name": "F#Fsharp"
+        },
+        {
+            "name": "F＃"
+        },
+        {
+            "name": "Idris"
+        },
+        {
+            "name": "ML"
+        },
+        {
+            "name": "Ocaml"
+        },
+        {
+            "name": "PLT_Scheme"
+        },
+        {
+            "name": "books-Mooc-Course-Blog"
+        },
+        {
+            "name": "Flix"
+        },
+        {
+            "name": "github源码项目"
+        },
+        {
+            "name": "IR后端设计编译器后端"
+        },
+        {
+            "name": "Kaleidoscope实现一门语言"
+        },
+        {
+            "name": "Laxer+Parser"
+        },
+        {
+            "name": "LLVM&RISC后端"
+        },
+        {
+            "name": "LLVMClang前端编译器资料教程文档api"
+        },
+        {
+            "name": "Transpiler翻译器code2code"
+        },
+        {
+            "name": "函数式程序设计入门讲义"
+        },
+        {
+            "name": "函数式语言编译器"
+        },
+        {
+            "name": "反汇编-调试器"
+        },
+        {
+            "name": "方舟编译器"
+        },
+        {
+            "name": "模板编程生成器泛型DSL-元编程"
+        },
+        {
+            "name": "清华编译原理课拓展实验"
+        },
+        {
+            "name": "程序IR中间表示方法AIG"
+        },
+        {
+            "name": "编译器设计"
+        },
+        {
+            "name": "编译器设计-自制编程语言"
+        },
+        {
+            "name": "静态语义分析"
+        },
+        {
+            "name": "静态语义分析静态程序分析"
+        },
+        {
+            "name": "automata theory-FSA-CFG自动化理论（automata theory）"
         }
     ],
     "id": "21253",

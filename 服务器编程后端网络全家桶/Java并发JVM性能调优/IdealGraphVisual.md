@@ -1,0 +1,21 @@
+# IdealGraphVisual
+
+
+Ideal Graph Visualizer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
