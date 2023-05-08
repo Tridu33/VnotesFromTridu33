@@ -1,5 +1,143 @@
 [TOC]
 
+---
+
+# Key
+基于线程（管程）
+基于进程
+基于协程状态机，基于回调的非阻塞异步IO
+
+- 共享内存型Shared Memory
+线程Threads
+锁Locks
+互斥l量Mutexes
+- 消息传送型（CSP和Actor模型）
+
+进程Processes
+消息Messages
+不共享数据(状态)No shared data
+
+万字好文：从无栈协程到C++异步框架！ - 腾讯云开发者的文章 - 知乎
+https://zhuanlan.zhihu.com/p/581728325
+
+一文搞懂进程、线程、协程及JS协程的发展 - 掘金
+https://juejin.cn/post/7005465381791875109
+各自优势和适用范围
+
+为什么 Java 坚持多线程不选择协程？ - 大宽宽的回答 - 知乎
+https://www.zhihu.com/question/332042250/answer/734115120
+
+
+# 四种主流并发进程通信范式
+https://sq.sf.163.com/blog/article/192782824730734592
+四种并发编程模型简介
+
+《并发之痛 Thread，Goroutine，Actor》
+
+
+
+《Erlang/OTP in action》提到四种并发模型的进程通信范式：
+
+1. 持锁共享内存
+java锁cpp共享内存
+
+2. 软件事务内存STM
+Haskell的STM软件事务内存
+akka的STM模型 https://www.bookstack.cn/read/akka-doc-cn/2.3.6-scala-chapter2-07_akka_and_the_java_memory_model.md
+STM受到数据库事务模型的启发，很有创意，akka实现得不错。微软研究院对STM做过研究，又放弃了，据说STM模型有缺陷。
+    
+
+3. Future，Promise及同类机制
+ES6的promise,future,coroutine,yield,async,await
+call/cc,, cpp20协程状态机coroutine，
+goroutine,协程+调度器，回调异步执行
+python的asyncio
+swift的Grand Central Dispatch简称GCD，IOS官方推荐给开发者使用的首选多线程解决方案
+ vert.x多语言事件驱动非阻塞并发，可以用java等语言，https://www.zhihu.com/question/316926737?utm_id=0
+
+
+4. 消息传递
+分布式传递消息，erlang的OTP,go的channel CSP模型，scala的actor模型。CSP,Actor模型都是基于message pass消息传递的并发模型
+erlang的process，消息模型。erlang对消息队列的处理必须是顺序执行的，也就是隐含的同步协调点.
+并发的效率，完全取决于erlang虚拟机的运作。
+scala的actor模型是仿erlang的，自然有相同的问题，另外有一个局限，它是在java虚拟机上实现的，一个个actor是用java的线程池来执行。也就是说，并发回到了操作系统的线程层次上了。
+go的channel更像是CSP顺序通信进程，用channel通信
+
+
+
+# 对比实现代码printserver echoserver，生产者消费者，银行存款业务
+看这些模型的区别是啥
+
+七周七并发模型 
+https://blog.csdn.net/u013637931/article/details/111356480 
+使用Erlang代码和Go代码分别实现打印服务print_server,
+模型Actor和CSP（Communicating Sequential Process）的各项对比
+
+
+ - - - - -
+
+
+Modern C++多线程同步: 由简至繁的三个案例详解 - minmin的文章 - 知乎
+https://zhuanlan.zhihu.com/p/607028487
+
+生产者消费者模式promise、future、condition_variable
+c++ https://blog.csdn.net/Rolandxxx/article/details/127775986
+
+
+
+多线程必考的「生产者 - 消费者」模型，java - 知乎
+https://zhuanlan.zhihu.com/p/241996459
+
+ https://blog.csdn.net/qq_32252957/article/details/79433679
+线程实现生产者消费者
+
+协程理解为单线程的并发
+
+自己手写调度器，理解Python中的asyncio异步、事件循环与协程
+https://blog.csdn.net/damiaomiao666/article/details/...
+手写个草案，或者看源码阉割一个原型代码
+
+
+https://blog.csdn.net/qq_32252957/article/details/107080094
+协程实现生产者消费者
+
+Python协程实现生产者和消费者模型  https://blog.csdn.net/qq_32252957/article/details/107080094 https://blog.csdn.net/qq_32252957/article/details/79433679
+
+如何利用 JavaScript 实现并发控制 - 掘金
+https://juejin.cn/post/6912220538286899207
+
+
+
+
+---------
+
+多线程同步的五种方法-（银行存取钱） - CSDN博客
+https://blog.csdn.net/m0_37499059/article/details/80483896
+多线程三种同步方式（模拟银行取款） - CSDN博客
+https://blog.csdn.net/qq_53609683/article/details/117661721
+
+
+erlang简易分布式应用-----银行存储查询。 - fengcl_matrix ...
+https://www.cnblogs.com/Fchengli/p/6529183.html
+
+
+Haskell用STM银行转账
+https://www.w3cschool.cn/real_world_haskell/jlp4vozt.html
+
+
+js基于协程买票，银行取钱 基于协程实现并发模型
+用JS生成器函数（协程）模拟并发。https://juejin.cn/post/7010628384661176356 用JS生成器函数（协程）模拟一个简单的销售票务的并发系统。
+
+
+
+
+--------------
+
+
+
+
+
+
 # 并发解决方案总览
 
 
