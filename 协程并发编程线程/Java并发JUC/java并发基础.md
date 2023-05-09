@@ -46,6 +46,10 @@ thread.start();
 
 
 # synchronized
+https://www.jianshu.com/p/ea9a482ece5f
+
+
+
 
 
 

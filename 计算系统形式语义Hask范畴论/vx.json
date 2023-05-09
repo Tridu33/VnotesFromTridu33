@@ -211,6 +211,12 @@
         },
         {
             "name": "JVM上Haskell"
+        },
+        {
+            "name": "CSP-Constraint Satisfaction Problem"
+        },
+        {
+            "name": "软件基础"
         }
     ],
     "id": "24645",

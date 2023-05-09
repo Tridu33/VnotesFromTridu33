@@ -102,7 +102,7 @@
             "name": "大数据云原生数据分析DB数据库分布式"
         },
         {
-            "name": "人工智能AI推导符号演算"
+            "name": "人工智能AI推导"
         },
         {
             "name": "TCS_PLT"
@@ -172,6 +172,9 @@
         },
         {
             "name": "automata theory-FSA-CFG自动化理论（automata theory）"
+        },
+        {
+            "name": "软工-Web网络技术-安全攻防-密码知识-软件形式化验证--符号演算"
         }
     ],
     "id": "17517",
