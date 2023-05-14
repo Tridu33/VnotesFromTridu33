@@ -80,26 +80,6 @@
             "signature": "53568504597591",
             "tags": [
             ]
-        },
-        {
-            "attachment_folder": "",
-            "created_time": "2022-12-31T10:17:59Z",
-            "id": "20825",
-            "modified_time": "2022-12-31T10:17:59Z",
-            "name": "《从规范出发的程序设计》.md",
-            "signature": "105013622869079",
-            "tags": [
-            ]
-        },
-        {
-            "attachment_folder": "",
-            "created_time": "2022-12-31T10:17:59Z",
-            "id": "20826",
-            "modified_time": "2022-12-31T10:17:59Z",
-            "name": "软件基础coq.md",
-            "signature": "74051203632215",
-            "tags": [
-            ]
         }
     ],
     "folders": [

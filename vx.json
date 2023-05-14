@@ -80,6 +80,16 @@
             "signature": "177770474010",
             "tags": [
             ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2023-05-10T17:24:56Z",
+            "id": "25428",
+            "modified_time": "2023-05-14T16:32:31Z",
+            "name": "NeedNotToKnow.md",
+            "signature": "177777398632",
+            "tags": [
+            ]
         }
     ],
     "folders": [
@@ -175,6 +185,12 @@
         },
         {
             "name": "软工-Web网络技术-安全攻防-密码知识-软件形式化验证--符号演算"
+        },
+        {
+            "name": "软件规范标准DeepSpec软件基础"
+        },
+        {
+            "name": "编译原理前后端"
         }
     ],
     "id": "17517",

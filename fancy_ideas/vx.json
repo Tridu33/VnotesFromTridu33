@@ -274,16 +274,6 @@
         {
             "attachment_folder": "",
             "created_time": "2022-12-31T10:17:57Z",
-            "id": "20061",
-            "modified_time": "2022-12-31T10:17:57Z",
-            "name": "编译原理学习所有编程语言互相翻译，编程语言数学语言翻译，COQ数学语言之间互相翻译.md",
-            "signature": "87430026759253",
-            "tags": [
-            ]
-        },
-        {
-            "attachment_folder": "",
-            "created_time": "2022-12-31T10:17:57Z",
             "id": "20062",
             "modified_time": "2022-12-31T10:17:57Z",
             "name": "计算世界运作的规律复杂度.md",

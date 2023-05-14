@@ -4,16 +4,6 @@
         {
             "attachment_folder": "",
             "created_time": "2022-12-31T10:18:02Z",
-            "id": "21436",
-            "modified_time": "2022-12-31T10:18:02Z",
-            "name": "coq_OCAML.md",
-            "signature": "77388393221210",
-            "tags": [
-            ]
-        },
-        {
-            "attachment_folder": "",
-            "created_time": "2022-12-31T10:18:02Z",
             "id": "21437",
             "modified_time": "2022-12-31T10:18:02Z",
             "name": "haskell函数式转命令式.md",
