@@ -189,6 +189,30 @@
         },
         {
             "name": "哲学反思"
+        },
+        {
+            "name": "Languages"
+        },
+        {
+            "name": "GML_Graph Modelling Language"
+        },
+        {
+            "name": "Doxygen"
+        },
+        {
+            "name": "代码分析工具"
+        },
+        {
+            "name": "反汇编"
+        },
+        {
+            "name": "字符串regex专题"
+        },
+        {
+            "name": "文档编码风格"
+        },
+        {
+            "name": "研究学习和规划"
         }
     ],
     "id": "20461",
