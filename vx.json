@@ -124,7 +124,7 @@
             "name": "OJ刷题录"
         },
         {
-            "name": "HaskellOJ函数式数据结构Vector2FingerTree"
+            "name": "HaskellOJ函数式数据结构"
         },
         {
             "name": "manim_可视化DS复分析运筹"
@@ -160,13 +160,7 @@
             "name": "操作系统"
         },
         {
-            "name": "编程看文档api规范开源项目源码"
-        },
-        {
-            "name": "CS大杂烩"
-        },
-        {
-            "name": "近期英真CP-OS"
+            "name": "CS大杂烩others"
         },
         {
             "name": "游戏开发Unity3DUnreal5Lua"
@@ -178,16 +172,13 @@
             "name": "Latex-Markdown-etc-PanDoc"
         },
         {
-            "name": "浮生梦呓"
-        },
-        {
             "name": "automata theory-FSA-CFG自动化理论（automata theory）"
         },
         {
             "name": "软工-Web网络技术-安全攻防-密码知识-软件形式化验证--符号演算"
         },
         {
-            "name": "软件规范标准DeepSpec软件基础"
+            "name": "软件规范标准DeepSpec软件基础形式化"
         },
         {
             "name": "编译原理前后端"

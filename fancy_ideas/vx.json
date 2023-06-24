@@ -14,46 +14,6 @@
         {
             "attachment_folder": "",
             "created_time": "2022-12-31T10:17:57Z",
-            "id": "20034",
-            "modified_time": "2022-12-31T10:17:57Z",
-            "name": "C程序设计实验报告.md",
-            "signature": "3575085272149",
-            "tags": [
-            ]
-        },
-        {
-            "attachment_folder": "",
-            "created_time": "2022-12-31T10:17:57Z",
-            "id": "20035",
-            "modified_time": "2022-12-31T10:17:57Z",
-            "name": "C程序题目课程设计.md",
-            "signature": "132651737418837",
-            "tags": [
-            ]
-        },
-        {
-            "attachment_folder": "",
-            "created_time": "2022-12-31T10:17:57Z",
-            "id": "20036",
-            "modified_time": "2022-12-31T10:17:57Z",
-            "name": "EndNote.md",
-            "signature": "61969460628565",
-            "tags": [
-            ]
-        },
-        {
-            "attachment_folder": "",
-            "created_time": "2022-12-31T10:17:57Z",
-            "id": "20037",
-            "modified_time": "2022-12-31T10:17:57Z",
-            "name": "eplant.md",
-            "signature": "28546025131093",
-            "tags": [
-            ]
-        },
-        {
-            "attachment_folder": "",
-            "created_time": "2022-12-31T10:17:57Z",
             "id": "20038",
             "modified_time": "2022-12-31T10:17:57Z",
             "name": "hannoi.md",
@@ -84,26 +44,6 @@
         {
             "attachment_folder": "",
             "created_time": "2022-12-31T10:17:57Z",
-            "id": "20041",
-            "modified_time": "2022-12-31T10:17:57Z",
-            "name": "Vi精简版.md",
-            "signature": "107053732334677",
-            "tags": [
-            ]
-        },
-        {
-            "attachment_folder": "",
-            "created_time": "2022-12-31T10:17:57Z",
-            "id": "20042",
-            "modified_time": "2022-12-31T10:17:57Z",
-            "name": "不完全区建设及组合数.md",
-            "signature": "91334152031317",
-            "tags": [
-            ]
-        },
-        {
-            "attachment_folder": "",
-            "created_time": "2022-12-31T10:17:57Z",
             "id": "20043",
             "modified_time": "2022-12-31T10:17:57Z",
             "name": "五子棋先手必胜.md",
@@ -114,20 +54,10 @@
         {
             "attachment_folder": "",
             "created_time": "2022-12-31T10:17:57Z",
-            "id": "20044",
+            "id": "25464",
             "modified_time": "2022-12-31T10:17:57Z",
-            "name": "井字棋研究策略.md",
+            "name": "井字棋对弈策略.md",
             "signature": "21669782490197",
-            "tags": [
-            ]
-        },
-        {
-            "attachment_folder": "",
-            "created_time": "2022-12-31T10:17:57Z",
-            "id": "20046",
-            "modified_time": "2022-12-31T10:17:57Z",
-            "name": "博客数学物理运筹学等学科感想感悟.md",
-            "signature": "25002677111893",
             "tags": [
             ]
         },
@@ -144,30 +74,10 @@
         {
             "attachment_folder": "",
             "created_time": "2022-12-31T10:17:57Z",
-            "id": "20048",
-            "modified_time": "2022-12-31T10:17:57Z",
-            "name": "国标件exe国标零件建模之光.md",
-            "signature": "10824990067797",
-            "tags": [
-            ]
-        },
-        {
-            "attachment_folder": "",
-            "created_time": "2022-12-31T10:17:57Z",
             "id": "20049",
             "modified_time": "2022-12-31T10:17:57Z",
             "name": "微软权威的软件开发指南MSDN（Microsoft Developer Network）.md",
             "signature": "55522714717269",
-            "tags": [
-            ]
-        },
-        {
-            "attachment_folder": "",
-            "created_time": "2022-12-31T10:17:57Z",
-            "id": "20050",
-            "modified_time": "2022-12-31T10:17:57Z",
-            "name": "心得.md",
-            "signature": "106400897305685",
             "tags": [
             ]
         },
@@ -184,26 +94,6 @@
         {
             "attachment_folder": "",
             "created_time": "2022-12-31T10:17:57Z",
-            "id": "20052",
-            "modified_time": "2022-12-31T10:17:57Z",
-            "name": "数千.md",
-            "signature": "117043826265173",
-            "tags": [
-            ]
-        },
-        {
-            "attachment_folder": "",
-            "created_time": "2022-12-31T10:17:57Z",
-            "id": "20053",
-            "modified_time": "2022-12-31T10:17:57Z",
-            "name": "斐波那契.md",
-            "signature": "97390055918677",
-            "tags": [
-            ]
-        },
-        {
-            "attachment_folder": "",
-            "created_time": "2022-12-31T10:17:57Z",
             "id": "20054",
             "modified_time": "2022-12-31T10:17:57Z",
             "name": "浏览器自动批量看服务器中的电子书.md",
@@ -214,40 +104,10 @@
         {
             "attachment_folder": "",
             "created_time": "2022-12-31T10:17:57Z",
-            "id": "20055",
-            "modified_time": "2022-12-31T10:17:57Z",
-            "name": "物流工程.md",
-            "signature": "70155668294741",
-            "tags": [
-            ]
-        },
-        {
-            "attachment_folder": "",
-            "created_time": "2022-12-31T10:17:57Z",
-            "id": "20056",
-            "modified_time": "2022-12-31T10:17:57Z",
-            "name": "生产调度.md",
-            "signature": "90200280665173",
-            "tags": [
-            ]
-        },
-        {
-            "attachment_folder": "",
-            "created_time": "2022-12-31T10:17:57Z",
             "id": "20057",
             "modified_time": "2022-12-31T10:17:57Z",
             "name": "离散数学haskell程序化.md",
             "signature": "11756997971029",
-            "tags": [
-            ]
-        },
-        {
-            "attachment_folder": "",
-            "created_time": "2022-12-31T10:17:57Z",
-            "id": "20058",
-            "modified_time": "2022-12-31T10:17:57Z",
-            "name": "科研接力.md",
-            "signature": "39987818007637",
             "tags": [
             ]
         },
@@ -284,26 +144,6 @@
         {
             "attachment_folder": "",
             "created_time": "2022-12-31T10:17:57Z",
-            "id": "20063",
-            "modified_time": "2022-12-31T10:17:57Z",
-            "name": "试验设计.md",
-            "signature": "137784223337557",
-            "tags": [
-            ]
-        },
-        {
-            "attachment_folder": "",
-            "created_time": "2022-12-31T10:17:57Z",
-            "id": "20064",
-            "modified_time": "2022-12-31T10:17:57Z",
-            "name": "超级有用，这里也记住.md",
-            "signature": "46967139863637",
-            "tags": [
-            ]
-        },
-        {
-            "attachment_folder": "",
-            "created_time": "2022-12-31T10:17:57Z",
             "id": "20065",
             "modified_time": "2022-12-31T10:17:57Z",
             "name": "零和游戏（系统工程矩阵策略）.md",
@@ -324,9 +164,9 @@
         {
             "attachment_folder": "",
             "created_time": "2022-12-31T10:17:57Z",
-            "id": "20067",
-            "modified_time": "2022-12-31T10:17:57Z",
-            "name": "！计算机公式推导符号演算.md",
+            "id": "25463",
+            "modified_time": "2023-06-24T07:39:20Z",
+            "name": "计算机公式推导符号演算.md",
             "signature": "7839987797077",
             "tags": [
             ]
@@ -343,6 +183,15 @@
         }
     ],
     "folders": [
+        {
+            "name": "Js快速点击输入字符串功能"
+        },
+        {
+            "name": "小工具神器"
+        },
+        {
+            "name": "RSS"
+        }
     ],
     "id": "20032",
     "modified_time": "2022-12-31T10:17:57Z",
