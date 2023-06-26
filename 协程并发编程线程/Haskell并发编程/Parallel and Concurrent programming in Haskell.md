@@ -1,3 +1,9 @@
+concurrency and parallelism
+
+
+
+
+
 https://downloads.haskell.org/~ghc/5.02/docs/set/concurrent-and-parallel.html
 
 # Parallel and Concurrent programming in Haskell
