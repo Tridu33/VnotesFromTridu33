@@ -113,6 +113,9 @@
         },
         {
             "name": "Rust"
+        },
+        {
+            "name": "wasmer_WASI"
         }
     ],
     "id": "22959",

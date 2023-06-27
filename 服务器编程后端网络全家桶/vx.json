@@ -342,6 +342,15 @@
         },
         {
             "name": "GraalVM通用虚拟机"
+        },
+        {
+            "name": "WSL_Ubuntu18"
+        },
+        {
+            "name": "《Unix-Linux编程实践教程》"
+        },
+        {
+            "name": "UNIX环境高级编程（APUE）"
         }
     ],
     "id": "22646",

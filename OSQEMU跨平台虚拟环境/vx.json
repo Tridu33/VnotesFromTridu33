@@ -47,16 +47,10 @@
             "name": "Vagrant"
         },
         {
-            "name": "wasmer_WASI"
-        },
-        {
             "name": "跨平台环境搭建虚拟环境"
         },
         {
             "name": "GnuWin Packages"
-        },
-        {
-            "name": "Linux"
         },
         {
             "name": "Windows编程"
