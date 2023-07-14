@@ -6,7 +6,44 @@
 
 
 https://gitee.com/ziyilin/GraalBook 随书代码
-
+pom.xml maven打包依赖到jar中需要配置
+```xml
+    <build>
+        <plugins>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-assembly-plugin</artifactId>
+                <version>3.0.0</version>
+                <configuration>
+                    <finalName>EncDecCmd</finalName>
+                    <archive>
+                        <manifest>
+                            <mainClass>com.test.EncryptUtilsTest</mainClass>
+                        </manifest>
+                    </archive>
+                    <descriptorRefs>
+                        <descriptorRef>
+                            jar-with-dependencies
+                        </descriptorRef>
+                    </descriptorRefs>
+                </configuration>
+                <executions>
+                    <execution>
+                        <id>make-assembly</id>
+                        <phase>package</phase>
+                        <goals>
+                            <goal>single</goal>
+                        </goals>
+                    </execution>
+                </executions>
+            </plugin>
+        </plugins>
+    </build>
+```
+Linux默认，Windows不是默认需要这样：
+```bash
+native-image --no-fallback -jar ./target/Package-jar-with-dependencies.jar
+```
 # 《GraalVM Java静态编译》 原理与应用
 
 Micronaut框架的greeting-example
